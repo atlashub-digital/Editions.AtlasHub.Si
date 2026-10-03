@@ -1,6 +1,316 @@
-:root{
-  --ink:#07111e;--paper:#f4f1ea;--paper-2:#ece8df;--night:#040914;--night-2:#071425;
-  --white:#f5f9ff;--steel:#8ea0b5;--line:rgba(85,199,255,.18);--blue:#147dff;--cyan:#55c7ff;
-  --serif:Georgia,"Times New Roman",serif;--sans:Inter,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;
+@import "tailwindcss";
+
+
+@custom-variant dark (&:is(.dark *));
+
+/* ----------------------------------------------------------------------------
+   AtlasHub Editions — Design System
+   Corporate technology premium. Deep navy + electric blue + signal cyan.
+---------------------------------------------------------------------------- */
+
+@theme inline {
+  /* Typography */
+  --font-sans: Arial, Helvetica, ui-sans-serif, system-ui, sans-serif;
+  --font-serif:  Georgia, "Times New Roman", serif;
+  --font-mono:  ui-monospace, monospace;
+
+  /* AtlasHub brand palette */
+  --color-ink: var(--ink);
+  --color-ink-soft: var(--ink-soft);
+  --color-ink-card: var(--ink-card);
+  --color-ink-raised: var(--ink-raised);
+  --color-electric: var(--electric);
+  --color-electric-bright: var(--electric-bright);
+  --color-cyan-signal: var(--cyan-signal);
+  --color-cyan-bright: var(--cyan-bright);
+  --color-cloud: var(--cloud);
+  --color-steel: var(--steel);
+  --color-steel-dim: var(--steel-dim);
+
+  /* shadcn token bridge (kept for shadcn/ui components) */
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+  --color-sidebar: var(--sidebar);
+  --color-sidebar-foreground: var(--sidebar-foreground);
+  --color-sidebar-primary: var(--sidebar-primary);
+  --color-sidebar-primary-foreground: var(--sidebar-primary-foreground);
+  --color-sidebar-accent: var(--sidebar-accent);
+  --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
+  --color-sidebar-border: var(--sidebar-border);
+  --color-sidebar-ring: var(--sidebar-ring);
+
+  --radius-sm: calc(var(--radius) - 4px);
+  --radius-md: calc(var(--radius) - 2px);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) + 4px);
 }
-*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:var(--night);color:var(--white);font-family:var(--sans)}a{color:inherit;text-decoration:none}.shell{width:min(1180px,calc(100% - 48px));margin-inline:auto}.eyebrow,.section-kicker{font-size:11px;letter-spacing:.18em;font-weight:800;color:var(--cyan)}.site-header{height:86px;display:flex;justify-content:space-between;align-items:center;border-bottom:1px solid var(--line)}.site-brand{display:flex;align-items:center;gap:12px;font-size:15px}.site-brand strong{font-weight:800}.brand-mark{width:30px;height:30px}.site-nav{display:flex;gap:28px;font-size:13px;color:#a7b6c6}.site-nav a:hover{color:var(--white)}.home-hero{min-height:720px;display:grid;grid-template-columns:1.05fr .95fr;gap:80px;align-items:center;border-bottom:1px solid var(--line)}.hero-copy h1,.book-hero h1,.catalogue-page h1{font-family:var(--serif);font-weight:400;font-size:clamp(64px,8vw,112px);line-height:.9;letter-spacing:-.065em;margin:28px 0}.hero-copy h1 em,.book-hero h1 em{font-weight:400;color:var(--cyan)}.hero-lead{max-width:620px;color:#bac8d6;font-size:20px;line-height:1.65}.hero-actions{display:flex;gap:12px;flex-wrap:wrap;margin-top:34px}.button{display:inline-flex;padding:13px 18px;border-radius:999px;font-size:13px;border:1px solid var(--line)}.button.primary{background:var(--white);color:var(--night);border-color:var(--white)}.button.ghost{color:#c7d4e0}.featured-cover-wrap,.book-cover-stage{min-height:560px;display:grid;place-items:center;position:relative;perspective:1200px}.cover-glow{position:absolute;width:58%;height:62%;background:var(--blue);filter:blur(120px);opacity:.16}.book-cover{width:330px;aspect-ratio:7/10;background:radial-gradient(circle at 80% 20%,rgba(20,125,255,.26),transparent 30%),linear-gradient(145deg,#020610,#071425 70%,#04101c);border:1px solid rgba(85,199,255,.28);box-shadow:0 45px 80px rgba(0,0,0,.45);padding:34px;display:flex;flex-direction:column;transform:rotateY(-8deg) rotateX(2deg);transition:transform .4s ease;position:relative;overflow:hidden}.featured-cover-wrap:hover .book-cover{transform:rotateY(-3deg) translateY(-7px)}.book-cover:after{content:"";position:absolute;inset:auto -35% 22% -20%;height:1px;background:linear-gradient(90deg,transparent,var(--cyan),transparent);box-shadow:0 0 45px var(--blue);transform:rotate(-18deg)}.cover-imprint{font-size:8px;letter-spacing:.18em;color:#9eb6cb}.cover-title{margin-top:78px;font-size:40px;line-height:.92;letter-spacing:-.05em}.cover-title span{display:block;color:#edf7ff}.cover-title strong{display:block;color:var(--cyan)}.book-cover>p{font-size:13px;color:#c6d3df;line-height:1.45;margin-top:22px}.cover-rule{margin-top:auto;height:1px;background:rgba(85,199,255,.28)}.cover-equation{padding-top:18px;font-size:10px;color:#7fd8ff;line-height:1.6;letter-spacing:.06em}.cover-author{padding-top:16px;font-size:11px;font-weight:800;letter-spacing:.08em}.book-cover.compact{width:220px;padding:24px}.featured{padding:105px 0;border-bottom:1px solid var(--line)}.feature-index{font-size:11px;letter-spacing:.18em;color:var(--cyan);margin-bottom:36px}.feature-grid{display:grid;grid-template-columns:1fr 1fr;gap:80px}.feature-grid h2{font-family:var(--serif);font-size:clamp(48px,6vw,78px);font-weight:400;letter-spacing:-.05em;margin:0}.feature-subtitle{color:#aab9c8;font-size:17px}.feature-copy>p{font-size:20px;line-height:1.65;color:#c4d0db;margin-top:0}.text-actions{display:flex;gap:28px;margin-top:30px;color:var(--cyan);font-size:13px}.catalogue{padding:110px 0}.catalogue-title{display:grid;grid-template-columns:1.2fr .8fr;gap:70px;margin:25px 0 55px}.catalogue-title h2{font-family:var(--serif);font-size:clamp(45px,6vw,72px);font-weight:400;letter-spacing:-.045em;margin:0}.catalogue-title p{color:#aab9c8;line-height:1.7;max-width:450px}.publication-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}.publication-card{min-height:310px;border:1px solid var(--line);background:linear-gradient(180deg,rgba(12,29,51,.74),rgba(5,11,20,.6));padding:24px;display:flex;flex-direction:column;justify-content:space-between;transition:.25s ease}.publication-card:hover{transform:translateY(-5px);border-color:rgba(85,199,255,.48)}.publication-card.coming-soon{opacity:.58}.publication-meta,.publication-bottom{display:flex;justify-content:space-between;font-size:10px;text-transform:uppercase;letter-spacing:.13em;color:#8fa3b6}.publication-card h3{font-family:var(--serif);font-weight:400;font-size:36px;letter-spacing:-.035em;margin:0 0 10px}.publication-card p{color:#a7b6c6;line-height:1.5}.editorial-manifesto{background:var(--paper);color:var(--ink);padding:120px 0}.editorial-manifesto .eyebrow{color:#0b63ce}.manifesto-grid blockquote{font-family:var(--serif);font-size:clamp(42px,6vw,76px);line-height:1.02;letter-spacing:-.05em;margin:40px 0 55px;max-width:1000px}.manifesto-equation{display:flex;gap:10px;flex-wrap:wrap}.manifesto-equation span{border:1px solid #bfc9d2;padding:10px 13px;border-radius:999px;font-size:13px;color:#0b63ce}.site-footer{padding:70px 0 24px;background:#02060d}.footer-grid{display:grid;grid-template-columns:1fr 1fr;padding-bottom:55px}.footer-brand{display:flex;align-items:center;gap:10px;font-weight:700}.footer-mark{width:28px}.footer-grid p{color:#8294a7;max-width:420px;line-height:1.6}.footer-links{display:flex;justify-content:flex-end;gap:24px;color:#9db0c1;font-size:13px}.footer-bottom{border-top:1px solid var(--line);padding-top:22px;color:#73869a;font-size:11px}.catalogue-page{padding:120px 0}.catalogue-page h1{max-width:900px}.catalogue-lead{color:#aab9c8;font-size:19px;max-width:620px;line-height:1.65;margin-bottom:70px}.books-only{grid-template-columns:repeat(2,1fr)}.book-hero{min-height:720px;display:grid;grid-template-columns:1fr .8fr;gap:70px;align-items:center;border-bottom:1px solid var(--line)}.book-subtitle{font-family:var(--serif);font-size:24px;color:#c8d4df;max-width:610px;line-height:1.35}.book-author{margin-top:28px;color:#8fa4b8;font-size:13px;letter-spacing:.08em;text-transform:uppercase}.book-manifesto{padding:120px 0}.manifesto-label{font-size:11px;letter-spacing:.16em;color:var(--cyan)}.book-manifesto blockquote{font-family:var(--serif);font-size:clamp(38px,5vw,65px);line-height:1.08;letter-spacing:-.045em;margin:35px 0 0;max-width:1060px}.book-equation{background:var(--paper);color:var(--ink);padding:95px 0}.book-equation .eyebrow{color:#0b63ce}.equation-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:10px;margin-top:30px}.equation-grid span{border-top:2px solid var(--ink);padding:22px 0;font-family:var(--serif);font-size:30px}.equation-note{max-width:650px;color:#526273;line-height:1.6;margin-top:35px}.book-overview{padding:110px 0;display:grid;grid-template-columns:1fr 1fr;gap:80px}.book-overview h2{font-family:var(--serif);font-size:clamp(44px,6vw,72px);font-weight:400;letter-spacing:-.05em;margin:25px 0}.book-overview-copy p{font-size:19px;line-height:1.75;color:#b8c6d3}.toc{padding:95px 0;border-top:1px solid var(--line)}.toc-list{margin-top:35px}.toc-row{display:grid;grid-template-columns:170px 1fr;gap:35px;padding:24px 0;border-top:1px solid var(--line)}.toc-row span{font-size:10px;letter-spacing:.15em;color:var(--cyan)}.toc-row strong{font-family:var(--serif);font-size:27px;font-weight:400}.book-tools{padding:95px 0 120px}.tool-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:12px;margin-top:35px}.tool-grid article{min-height:210px;border:1px solid var(--line);padding:24px}.tool-grid article>span{color:var(--cyan)}.tool-grid h3{font-size:22px;margin-top:50px}.tool-grid p{color:#8799aa;line-height:1.5;font-size:14px}.reader{min-height:100vh;background:#f5f2ea;color:#162230;font-family:var(--serif)}.reader-header{height:68px;border-bottom:1px solid #d9d3c9;display:grid;grid-template-columns:1fr auto 1fr;align-items:center;padding:0 30px;font-family:var(--sans);font-size:11px;color:#687787;position:sticky;top:0;background:rgba(245,242,234,.94);backdrop-filter:blur(12px);z-index:5}.reader-header button{justify-self:end;border:1px solid #c9c4bc;background:transparent;border-radius:999px;padding:7px 10px}.reader-article{width:min(720px,calc(100% - 42px));margin:0 auto;padding:110px 0 140px}.reader-part,.reader-chapter{font-family:var(--sans);font-size:10px;letter-spacing:.16em;font-weight:800;color:#2769ad}.reader-chapter{margin-top:50px}.reader-article h1{font-size:clamp(50px,7vw,82px);line-height:.95;letter-spacing:-.055em;font-weight:400;margin:20px 0 35px}.reader-lead{font-size:25px!important;line-height:1.5!important;color:#30465a}.reader-article>p{font-size:19px;line-height:1.82;margin:1.45em 0}.reader-article h2{font-size:38px;font-weight:400;letter-spacing:-.035em;margin:70px 0 20px}.reader-principle,.reader-framework{margin:60px -60px;padding:34px 42px;border-left:3px solid var(--blue);background:#e9eef2;font-family:var(--sans)}.reader-principle span,.reader-framework>span{font-size:10px;letter-spacing:.16em;color:#0b63ce;font-weight:800}.reader-principle strong{display:block;font-family:var(--serif);font-size:28px;font-weight:400;line-height:1.3;margin-top:16px}.reader-framework{background:#071425;color:#f4f8ff;border-left-color:var(--cyan)}.reader-framework h3{font-size:22px;line-height:1.55;margin:16px 0}.reader-framework p{color:#a9baca;line-height:1.6;font-size:15px}.reader-next{margin-top:90px;padding-top:28px;border-top:1px solid #d4cec4;display:flex;flex-direction:column;gap:10px;font-family:var(--sans)}.reader-next span{font-size:10px;letter-spacing:.16em;color:#2769ad}.reader-next strong{font-family:var(--serif);font-size:24px;font-weight:400}@media(max-width:900px){.home-hero,.book-hero,.feature-grid,.catalogue-title,.book-overview{grid-template-columns:1fr}.home-hero,.book-hero{padding:80px 0}.featured-cover-wrap{min-height:500px}.publication-grid,.tool-grid{grid-template-columns:1fr 1fr}.equation-grid{grid-template-columns:1fr 1fr}.footer-grid{grid-template-columns:1fr;gap:30px}.footer-links{justify-content:flex-start}.book-cover-stage{order:-1;min-height:500px}}@media(max-width:620px){.site-nav{display:none}.publication-grid,.tool-grid,.books-only{grid-template-columns:1fr}.reader-principle,.reader-framework{margin:50px 0;padding:26px}.reader-header{grid-template-columns:1fr auto}.reader-header>span{display:none}.toc-row{grid-template-columns:1fr;gap:8px}.book-cover{width:280px}.equation-grid{grid-template-columns:1fr}.shell{width:min(100% - 34px,1180px)}}
+
+:root {
+  /* ---- AtlasHub brand ---- */
+  --ink: #040914;          /* deepest navy — page base */
+  --ink-soft: #050B14;     /* near-black navy */
+  --ink-card: #071425;     /* card / panel surface */
+  --ink-raised: #071A2D;   /* raised surface */
+  --electric: #147DFF;     /* electric blue */
+  --electric-bright: #168CFF;
+  --cyan-signal: #55C7FF;  /* signal cyan */
+  --cyan-bright: #66E0FF;
+  --cloud: #F4F8FF;        /* white */
+  --steel: #8EA0B5;        /* steel grey for secondary text */
+  --steel-dim: #8EA0B5;
+
+  --radius: 0.5rem;
+
+  /* ---- shadcn tokens mapped to AtlasHub dark navy ---- */
+  --background: #040914;
+  --foreground: #F4F8FF;
+  --card: #071425;
+  --card-foreground: #F4F8FF;
+  --popover: #071A2D;
+  --popover-foreground: #F4F8FF;
+  --primary: #147DFF;
+  --primary-foreground: #F4F8FF;
+  --secondary: #071A2D;
+  --secondary-foreground: #F4F8FF;
+  --muted: #071A2D;
+  --muted-foreground: #8EA0B5;
+  --accent: #0C1F38;
+  --accent-foreground: #F4F8FF;
+  --destructive: #E5484D;
+  --border: rgba(244, 248, 255, 0.10);
+  --input: rgba(244, 248, 255, 0.12);
+  --ring: #147DFF;
+
+  --chart-1: #55C7FF;
+  --chart-2: #147DFF;
+  --chart-3: #66E0FF;
+  --chart-4: #8EA0B5;
+  --chart-5: #F4F8FF;
+
+  --sidebar: #050B14;
+  --sidebar-foreground: #F4F8FF;
+  --sidebar-primary: #147DFF;
+  --sidebar-primary-foreground: #F4F8FF;
+  --sidebar-accent: #071425;
+  --sidebar-accent-foreground: #F4F8FF;
+  --sidebar-border: rgba(244, 248, 255, 0.10);
+  --sidebar-ring: #147DFF;
+}
+
+/* The AtlasHub site is inherently dark navy. Keep .dark in sync. */
+.dark {
+  --background: #040914;
+  --foreground: #F4F8FF;
+  --card: #071425;
+  --card-foreground: #F4F8FF;
+  --popover: #071A2D;
+  --popover-foreground: #F4F8FF;
+  --primary: #147DFF;
+  --primary-foreground: #F4F8FF;
+  --secondary: #071A2D;
+  --secondary-foreground: #F4F8FF;
+  --muted: #071A2D;
+  --muted-foreground: #8EA0B5;
+  --accent: #0C1F38;
+  --accent-foreground: #F4F8FF;
+  --destructive: #E5484D;
+  --border: rgba(244, 248, 255, 0.10);
+  --input: rgba(244, 248, 255, 0.12);
+  --ring: #147DFF;
+}
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+
+  html {
+    scroll-behavior: smooth;
+    -webkit-text-size-adjust: 100%;
+  }
+
+  body {
+    @apply bg-background text-foreground;
+    font-feature-settings: "ss01", "cv01", "cv03";
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  ::selection {
+    background-color: rgba(85, 199, 255, 0.30);
+    color: #F4F8FF;
+  }
+}
+
+/* ----------------------------------------------------------------------------
+   Custom scrollbar
+---------------------------------------------------------------------------- */
+@layer utilities {
+  .scrollbar-atlas {
+    scrollbar-width: thin;
+    scrollbar-color: rgba(85, 199, 255, 0.35) transparent;
+  }
+  .scrollbar-atlas::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+  }
+  .scrollbar-atlas::-webkit-scrollbar-track {
+    background: transparent;
+  }
+  .scrollbar-atlas::-webkit-scrollbar-thumb {
+    background-color: rgba(85, 199, 255, 0.30);
+    border-radius: 9999px;
+  }
+  .scrollbar-atlas::-webkit-scrollbar-thumb:hover {
+    background-color: rgba(85, 199, 255, 0.55);
+  }
+}
+
+/* ----------------------------------------------------------------------------
+   AtlasHub component utilities
+---------------------------------------------------------------------------- */
+@layer components {
+  /* Cyan → electric blue gradient text (for hero highlight) */
+  .text-gradient-atlas {
+    background-image: linear-gradient(100deg, #66E0FF 0%, #55C7FF 35%, #168CFF 70%, #147DFF 100%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    color: transparent;
+  }
+
+  /* Thin uppercase eyebrow label */
+  .eyebrow {
+    @apply text-xs font-medium uppercase tracking-[0.28em] text-cyan-signal;
+  }
+
+  /* Hairline divider in brand cyan */
+  .hairline {
+    background-image: linear-gradient(90deg, transparent, rgba(85, 199, 255, 0.5), transparent);
+  }
+
+  /* Frosted nav surface */
+  .nav-atlas {
+    background: linear-gradient(180deg, rgba(4, 9, 20, 0.85) 0%, rgba(4, 9, 20, 0.55) 100%);
+    backdrop-filter: blur(14px) saturate(140%);
+    -webkit-backdrop-filter: blur(14px) saturate(140%);
+  }
+
+  /* Subtle navy panel with cyan top hairline */
+  .panel-atlas {
+    background: linear-gradient(180deg, rgba(7, 20, 37, 0.9) 0%, rgba(5, 11, 20, 0.9) 100%);
+    border: 1px solid rgba(244, 248, 255, 0.08);
+  }
+
+  /* Electric glow ring on hover for cards */
+  .glow-atlas {
+    transition: box-shadow 0.35s ease, border-color 0.35s ease, transform 0.35s ease;
+  }
+  .glow-atlas:hover {
+    border-color: rgba(85, 199, 255, 0.45);
+    box-shadow: 0 0 0 1px rgba(85, 199, 255, 0.20), 0 18px 50px -20px rgba(20, 125, 255, 0.55);
+    transform: translateY(-4px);
+  }
+
+  /* Animated marquee track */
+  .marquee-track {
+    display: inline-flex;
+    white-space: nowrap;
+    animation: marquee-atlas 38s linear infinite;
+  }
+  .marquee-atlas-paused:hover .marquee-track {
+    animation-play-state: paused;
+  }
+}
+
+/* ----------------------------------------------------------------------------
+   Keyframes — microinteractions only (no gaming)
+---------------------------------------------------------------------------- */
+@keyframes marquee-atlas {
+  from { transform: translateX(0); }
+  to { transform: translateX(-50%); }
+}
+
+@keyframes reveal-up {
+  from { opacity: 0; transform: translateY(22px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes float-soft {
+  0%, 100% { transform: translateY(0) rotateY(0deg); }
+  50% { transform: translateY(-10px) rotateY(0deg); }
+}
+
+@keyframes blue-sweep {
+  0% { opacity: 0; transform: translateX(-30%); }
+  50% { opacity: 0.5; }
+  100% { opacity: 0; transform: translateX(30%); }
+}
+
+@keyframes glow-pulse {
+  0%, 100% { opacity: 0.45; }
+  50% { opacity: 0.75; }
+}
+
+/* Reveal-on-scroll helper (toggled by IntersectionObserver).
+   Subtle & non-hiding: content is always visible (opacity 1) and only slides
+   up when revealed. This keeps the page legible for SEO/no-JS/static captures
+   and matches the brief's "scroll reveal discreto". */
+.reveal {
+  transform: translateY(18px);
+  transition: transform 0.7s cubic-bezier(0.22, 1, 0.36, 1);
+  will-change: transform;
+}
+.reveal.is-visible {
+  transform: translateY(0);
+}
+
+.animate-float-soft { animation: float-soft 7s ease-in-out infinite; }
+.animate-glow-pulse { animation: glow-pulse 6s ease-in-out infinite; }
+
+@media (prefers-reduced-motion: reduce) {
+  .marquee-track,
+  .animate-float-soft,
+  .animate-glow-pulse {
+    animation: none !important;
+  }
+  .reveal {
+    opacity: 1;
+    transform: none;
+    transition: none;
+  }
+}
+
+/* ----------------------------------------------------------------------------
+   Reader theme — calm editorial light surface (used on /ler route)
+---------------------------------------------------------------------------- */
+.reader-light {
+  --background: #F7F8FA;
+  --foreground: #14202E;
+  --card: #FFFFFF;
+  --card-foreground: #14202E;
+  --muted: #EEF1F5;
+  --muted-foreground: #5A6B7E;
+  --border: rgba(20, 32, 46, 0.10);
+  --ring: #147DFF;
+}
+.reader-light body { @apply bg-[#F7F8FA] text-[#14202E]; }
+:focus-visible { outline: 2px solid #55C7FF; outline-offset: 4px; }
+@media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } }
