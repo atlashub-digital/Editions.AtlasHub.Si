@@ -156,9 +156,9 @@ export default function BookDetailPage() {
                       strokeWidth={1.75}
                     />
                   </Link>
-                  <span className="text-sm text-steel">eBook em preparação</span>
+                  <a href="/downloads/empresa-aumentada.pdf" download className="reader-control text-cloud">Descarregar eBook ↓</a>
                   <Link
-                    href="#toolkit"
+                    href="/livros/empresa-aumentada/toolkit"
                     className="inline-flex items-center justify-center gap-2 rounded-md border border-cloud/20 px-6 py-3.5 text-sm font-semibold text-cloud transition-colors hover:border-cyan-signal/50"
                   >
                     Explorar Toolkit
@@ -198,7 +198,7 @@ export default function BookDetailPage() {
                   Do conceito à execução
                 </h3>
                 <p className="mt-3 text-sm leading-relaxed text-steel">
-                  Os modelos apresentados no manuscrito apoiam o desenho organizacional. Os casos são cenários compostos e ilustrativos. Os materiais para download estão em preparação.
+                  Os modelos apresentados no manuscrito apoiam o desenho organizacional. Os casos são cenários compostos e ilustrativos. Os materiais estão disponíveis no toolkit executivo.
                 </p>
                 <ul className="mt-6 flex flex-col gap-3">
                   {toolkitIncludes.map((item) => (
@@ -376,7 +376,7 @@ export default function BookDetailPage() {
               Pronto para começar?
             </h2>
             <p className="mx-auto mt-3 max-w-xl text-pretty text-sm leading-relaxed text-steel sm:text-base">
-              Leia uma amostra do capítulo 7 e conheça a proposta da Empresa Aumentada.
+              Leia os 21 capítulos de Empresa Aumentada e explore os materiais de trabalho.
             </p>
             <div className="mt-8 flex flex-col gap-3 sm:flex-row sm:items-center sm:justify-center">
               <Link

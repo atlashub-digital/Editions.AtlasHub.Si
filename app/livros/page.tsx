@@ -13,7 +13,7 @@ export default function BooksPage() {
     <main className="mx-auto w-full max-w-7xl flex-1 px-4 py-16 sm:px-6 lg:px-8">
       <p className="eyebrow">AtlasHub Editions</p>
       <h1 className="mt-4 text-4xl font-bold text-cloud sm:text-5xl">Livros e publicações</h1>
-      <p className="mt-5 mb-12 max-w-2xl text-steel">Conhecimento para ligar pessoas, tecnologia e resultados. Explore a publicação em destaque e os próximos títulos.</p>
+      <p className="mt-5 mb-12 max-w-2xl text-steel">Edições abertas à comunidade. Leia online e descarregue gratuitamente, sem registo. Explore a publicação em destaque e acompanhe os próximos títulos.</p>
       <PublicationCard />
       <section id="em-preparacao" className="mt-16 scroll-mt-24" aria-labelledby="coming-title">
         <h2 id="coming-title" className="text-2xl font-bold text-cloud">Em preparação</h2>

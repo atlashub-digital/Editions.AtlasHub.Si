@@ -273,25 +273,20 @@ export const FLAGSHIP_BOOK: FlagshipBook = {
   },
   {
     "code": "FW-05",
-    "title": "Four Latencies",
-    "description": "Modelo de gestão e desenho organizacional apresentado no manuscrito."
-  },
-  {
-    "code": "FW-06",
-    "title": "30-Day Augmented Sprint",
-    "description": "Modelo de gestão e desenho organizacional apresentado no manuscrito."
-  },
-  {
-    "code": "FW-07",
     "title": "Result Map",
     "description": "Modelo de gestão e desenho organizacional apresentado no manuscrito."
   },
   {
-    "code": "FW-08",
+    "code": "FW-06",
+    "title": "Augmented Sprint Canvas",
+    "description": "Modelo de gestão e desenho organizacional apresentado no manuscrito."
+  },
+  {
+    "code": "FW-07",
     "title": "Value Realization Map",
     "description": "Modelo de gestão e desenho organizacional apresentado no manuscrito."
   }
 ],
   ebookCta: "Obter eBook",
-  readCta: "Ler amostra",
+  readCta: "Começar a ler",
 };

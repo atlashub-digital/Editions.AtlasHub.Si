@@ -21,7 +21,7 @@ export function PublicationCard({ className }: { className?: string }) {
     },
     {
       label: "Explorar Toolkit",
-      href: `/livros/${b.slug}#toolkit`,
+      href: `/livros/${b.slug}/toolkit`,
       icon: Boxes,
       primary: false,
     },

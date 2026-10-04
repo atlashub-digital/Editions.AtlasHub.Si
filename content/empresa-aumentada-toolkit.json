@@ -1,0 +1,38 @@
+[
+  {
+    "slug": "human-decision-charter",
+    "title": "Human Decision Charter",
+    "chapter": "capitulo-08",
+    "markdown": "## 28. O Human Decision Charter\nPodemos criar um complemento ao Agent Charter.\nChamemos-lhe **Human Decision Charter**.\nPara decisões críticas, definir:\n### Decisão\nO que está em causa.\n### responsável\nQuem responde.\n### Evidência\nQue informação deve ser apresentada.\n### IA pode\nPesquisar, simular, comparar, recomendar.\n### IA não pode\nExecutar ou concluir sem aprovação.\n### Critério\nQue trade-offs precisam ser considerados.\n### Registo\nComo a decisão será documentada.\nIsto evita que “human-in-the-loop” seja apenas uma frase vaga.\n\n\n***\n\n\n\n\n***"
+  },
+  {
+    "slug": "agent-charter",
+    "title": "Agent Charter",
+    "chapter": "capitulo-09",
+    "markdown": "## 27. O Agent Charter\nO **Agent Charter** será um artefacto central da metodologia AtlasHub.\n\n\n| Componente | Pergunta |\n| --- | --- |\n| Missão | Que resultado procura? |\n| Trigger | Quando entra em ação? |\n| Escopo | Onde começa e termina? |\n| Contexto | Que informação precisa? |\n| Conhecimento | Que fontes oficiais usa? |\n| Memória | O que precisa recuperar? |\n| Ferramentas | Onde pode agir? |\n| Permissões | Até onde pode ir? |\n| Política | Como escolhe? |\n| KPIs | Como medimos? |\n| Escalamento | Quando chama humano? |\n| Observabilidade | Como auditamos? |\n\n\n\n\n***\n\n\n\n\n***"
+  },
+  {
+    "slug": "operating-map",
+    "title": "Operating Map",
+    "chapter": "capitulo-10",
+    "markdown": "## 25. O Operating Map completo\nPodemos então representar uma função como sete camadas.\n1. Missão.\n2. Pessoas.\n3. Agentes.\n4. Processos.\n5. Sistemas.\n6. Dados.\n7. Decisões e exceções.\nTudo ligado a KPIs.\n\n\n***"
+  },
+  {
+    "slug": "result-map",
+    "title": "Result Map",
+    "chapter": "capitulo-18",
+    "markdown": "## 22. O Result Map\nPodemos formalizar um template.\n### Problema\nO que está errado hoje?\n### Mecanismo\nO que a solução muda no processo?\n### Métrica operacional\nComo medimos o mecanismo?\n### Métrica económica\nQue variável da equação é afetada?\n### Baseline\nQual o ponto de partida?\n### Target\nQue mudança seria material?\n### Horizonte\nQuando esperamos observar?\n### Riscos\nO que pode piorar?\n\n\n***\n\n\n\n\n***"
+  },
+  {
+    "slug": "value-realization-map",
+    "title": "Value Realization Map",
+    "chapter": "capitulo-19",
+    "markdown": "## 26. O Value Realization Map\nPodemos criar outro artefacto.\n### Caso de uso\nQual processo.\n### Baseline\nSituação atual.\n### Mecanismo\nO que muda.\n### Benefício\nReceita, custo, velocidade, controlo.\n### Monetização\nComo benefício vira valor financeiro.\n### TCO\nCusto total.\n### Cenários\nDownside / Base / Upside.\n### responsável\nQuem responde por realizar o valor.\n### Review\nQuando rever.\n\n\n***\n\n\n\n\n***"
+  },
+  {
+    "slug": "augmented-sprint-canvas",
+    "title": "Augmented Sprint Canvas",
+    "chapter": "capitulo-21",
+    "markdown": "## 28. O Augmented Sprint Canvas\nPodemos condensar o sprint numa página.\n### 1. Problema\n### 2. Baseline\n### 3. Processo\n### 4. Hipótese\n### 5. Equação\n### 6. Autonomia\n### 7. Agent Charter\n### 8. Risco\n### 9. Pilot Scope\n### 10. Métricas\n### 11. Value responsável\n### 12. Decision Gate\n\n\n***\n\n\n\n\n***"
+  }
+]

@@ -1,7 +1,7 @@
 import { SiteHeader } from "@/components/atlas/site-header";
 import { SiteFooter } from "@/components/atlas/site-footer";
 import { Hero } from "@/components/atlas/hero";
-import { AtlasHubStrip } from "@/components/atlas/atlas-strip";
+
 import { PublicationCard } from "@/components/atlas/publication-card";
 import { CategoryCard } from "@/components/atlas/category-card";
 import { TopicCard } from "@/components/atlas/topic-card";
@@ -19,17 +19,14 @@ export const metadata = { alternates: { canonical: "/" } };
 
 export default function HomePage() {
   return (
-    <div className="flex min-h-screen flex-col bg-background">
-      <SiteHeader />
+    <div className="home-page flex min-h-screen flex-col bg-background">
+      <SiteHeader home />
 
       <main className="flex-1">
         {/* Hero */}
         <Hero />
 
-        {/* AtlasHub bridge strip */}
-        <AtlasHubStrip />
-
-        {/* Featured publication */}
+{/* Featured publication */}
         <section
           id="destaque"
           className="mx-auto max-w-7xl scroll-mt-20 px-4 py-20 sm:px-6 lg:px-8 lg:py-28"
@@ -42,7 +39,7 @@ export default function HomePage() {
                 EA–001 — <span className="text-gradient-atlas">Empresa Aumentada</span>
               </span>
             }
-            description="Da Inteligência Artificial à Organização Inteligente. O livro fundador da AtlasHub Editions."
+            description="Da Inteligência Artificial à Organização Inteligente. O livro fundador da AtlasHub Editions. Leitura e downloads gratuitos, abertos à comunidade."
             className="mb-10"
           />
           <PublicationCard />
