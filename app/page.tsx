@@ -1,6 +1,8 @@
 import { SiteHeader } from "@/components/atlas/site-header";
 import { SiteFooter } from "@/components/atlas/site-footer";
 import { Hero } from "@/components/atlas/hero";
+import { KnowledgeCompass } from "@/components/atlas/knowledge-compass";
+import { bookSections } from "@/lib/book";
 
 import { PublicationCard } from "@/components/atlas/publication-card";
 import { CategoryCard } from "@/components/atlas/category-card";
@@ -25,6 +27,7 @@ export default function HomePage() {
       <main className="flex-1">
         {/* Hero */}
         <Hero />
+        <KnowledgeCompass chapters={bookSections.filter(section=>section.number).map(section=>({slug:section.slug,title:section.title,number:section.number,part:section.part,excerpt:section.markdown.split('\n').filter(line=>line.trim()&&!line.startsWith('#')&&!line.startsWith('!')&&!line.startsWith('>'))[0]?.replace(/[*_`\[\]]/g,'').slice(0,220)||''}))}/>
 
 {/* Featured publication */}
         <section
