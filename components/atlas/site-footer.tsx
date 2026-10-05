@@ -44,6 +44,7 @@ export function SiteFooter() {
           {/* Brand */}
           <div className="col-span-2 flex flex-col gap-5 lg:col-span-2">
             <AtlasLogo variant="full" />
+            <a href="https://wa.me/5562991903462" target="_blank" rel="noopener noreferrer" className="text-sm text-cyan-signal hover:text-cloud">WhatsApp oficial · +55 62 99190-3462 ↗</a>
             <p className="max-w-sm text-sm leading-relaxed text-steel">
               Conhecimento para empresas reais. Livros, research, frameworks e
               inteligência aplicada para transformar tecnologia em resultados.
