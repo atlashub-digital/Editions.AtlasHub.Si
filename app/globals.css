@@ -1,0 +1,576 @@
+@import "tailwindcss";
+
+
+@custom-variant dark (&:is(.dark *));
+
+/* ----------------------------------------------------------------------------
+   AtlasHub Editions — Design System
+   Corporate technology premium. Deep navy + electric blue + signal cyan.
+---------------------------------------------------------------------------- */
+
+@theme inline {
+  /* Typography */
+  --font-sans: Arial, Helvetica, ui-sans-serif, system-ui, sans-serif;
+  --font-serif:  Georgia, "Times New Roman", serif;
+  --font-mono:  ui-monospace, monospace;
+
+  /* AtlasHub brand palette */
+  --color-ink: var(--ink);
+  --color-ink-soft: var(--ink-soft);
+  --color-ink-card: var(--ink-card);
+  --color-ink-raised: var(--ink-raised);
+  --color-electric: var(--electric);
+  --color-electric-bright: var(--electric-bright);
+  --color-cyan-signal: var(--cyan-signal);
+  --color-cyan-bright: var(--cyan-bright);
+  --color-cloud: var(--cloud);
+  --color-steel: var(--steel);
+  --color-steel-dim: var(--steel-dim);
+
+  /* shadcn token bridge (kept for shadcn/ui components) */
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+  --color-sidebar: var(--sidebar);
+  --color-sidebar-foreground: var(--sidebar-foreground);
+  --color-sidebar-primary: var(--sidebar-primary);
+  --color-sidebar-primary-foreground: var(--sidebar-primary-foreground);
+  --color-sidebar-accent: var(--sidebar-accent);
+  --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
+  --color-sidebar-border: var(--sidebar-border);
+  --color-sidebar-ring: var(--sidebar-ring);
+
+  --radius-sm: calc(var(--radius) - 4px);
+  --radius-md: calc(var(--radius) - 2px);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) + 4px);
+}
+
+:root {
+  /* ---- AtlasHub brand ---- */
+  --ink: #040914;          /* deepest navy — page base */
+  --ink-soft: #050B14;     /* near-black navy */
+  --ink-card: #071425;     /* card / panel surface */
+  --ink-raised: #071A2D;   /* raised surface */
+  --electric: #147DFF;     /* electric blue */
+  --electric-bright: #168CFF;
+  --cyan-signal: #55C7FF;  /* signal cyan */
+  --cyan-bright: #66E0FF;
+  --cloud: #F4F8FF;        /* white */
+  --steel: #8EA0B5;        /* steel grey for secondary text */
+  --steel-dim: #8EA0B5;
+
+  --radius: 0.5rem;
+
+  /* ---- shadcn tokens mapped to AtlasHub dark navy ---- */
+  --background: #040914;
+  --foreground: #F4F8FF;
+  --card: #071425;
+  --card-foreground: #F4F8FF;
+  --popover: #071A2D;
+  --popover-foreground: #F4F8FF;
+  --primary: #147DFF;
+  --primary-foreground: #F4F8FF;
+  --secondary: #071A2D;
+  --secondary-foreground: #F4F8FF;
+  --muted: #071A2D;
+  --muted-foreground: #8EA0B5;
+  --accent: #0C1F38;
+  --accent-foreground: #F4F8FF;
+  --destructive: #E5484D;
+  --border: rgba(244, 248, 255, 0.10);
+  --input: rgba(244, 248, 255, 0.12);
+  --ring: #147DFF;
+
+  --chart-1: #55C7FF;
+  --chart-2: #147DFF;
+  --chart-3: #66E0FF;
+  --chart-4: #8EA0B5;
+  --chart-5: #F4F8FF;
+
+  --sidebar: #050B14;
+  --sidebar-foreground: #F4F8FF;
+  --sidebar-primary: #147DFF;
+  --sidebar-primary-foreground: #F4F8FF;
+  --sidebar-accent: #071425;
+  --sidebar-accent-foreground: #F4F8FF;
+  --sidebar-border: rgba(244, 248, 255, 0.10);
+  --sidebar-ring: #147DFF;
+}
+
+/* The AtlasHub site is inherently dark navy. Keep .dark in sync. */
+.dark {
+  --background: #040914;
+  --foreground: #F4F8FF;
+  --card: #071425;
+  --card-foreground: #F4F8FF;
+  --popover: #071A2D;
+  --popover-foreground: #F4F8FF;
+  --primary: #147DFF;
+  --primary-foreground: #F4F8FF;
+  --secondary: #071A2D;
+  --secondary-foreground: #F4F8FF;
+  --muted: #071A2D;
+  --muted-foreground: #8EA0B5;
+  --accent: #0C1F38;
+  --accent-foreground: #F4F8FF;
+  --destructive: #E5484D;
+  --border: rgba(244, 248, 255, 0.10);
+  --input: rgba(244, 248, 255, 0.12);
+  --ring: #147DFF;
+}
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+
+  html {
+    scroll-behavior: smooth;
+    -webkit-text-size-adjust: 100%;
+  }
+
+  body {
+    @apply bg-background text-foreground;
+    font-feature-settings: "ss01", "cv01", "cv03";
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  ::selection {
+    background-color: rgba(85, 199, 255, 0.30);
+    color: #F4F8FF;
+  }
+}
+
+/* ----------------------------------------------------------------------------
+   Custom scrollbar
+---------------------------------------------------------------------------- */
+@layer utilities {
+  .scrollbar-atlas {
+    scrollbar-width: thin;
+    scrollbar-color: rgba(85, 199, 255, 0.35) transparent;
+  }
+  .scrollbar-atlas::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+  }
+  .scrollbar-atlas::-webkit-scrollbar-track {
+    background: transparent;
+  }
+  .scrollbar-atlas::-webkit-scrollbar-thumb {
+    background-color: rgba(85, 199, 255, 0.30);
+    border-radius: 9999px;
+  }
+  .scrollbar-atlas::-webkit-scrollbar-thumb:hover {
+    background-color: rgba(85, 199, 255, 0.55);
+  }
+}
+
+/* ----------------------------------------------------------------------------
+   AtlasHub component utilities
+---------------------------------------------------------------------------- */
+@layer components {
+  /* Cyan → electric blue gradient text (for hero highlight) */
+  .text-gradient-atlas {
+    background-image: linear-gradient(100deg, #66E0FF 0%, #55C7FF 35%, #168CFF 70%, #147DFF 100%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    color: transparent;
+  }
+
+  /* Thin uppercase eyebrow label */
+  .eyebrow {
+    @apply text-xs font-medium uppercase tracking-[0.28em] text-cyan-signal;
+  }
+
+  /* Hairline divider in brand cyan */
+  .hairline {
+    background-image: linear-gradient(90deg, transparent, rgba(85, 199, 255, 0.5), transparent);
+  }
+
+  /* Frosted nav surface */
+  .nav-atlas {
+    background: linear-gradient(180deg, rgba(4, 9, 20, 0.85) 0%, rgba(4, 9, 20, 0.55) 100%);
+    backdrop-filter: blur(14px) saturate(140%);
+    -webkit-backdrop-filter: blur(14px) saturate(140%);
+  }
+
+  /* Subtle navy panel with cyan top hairline */
+  .panel-atlas {
+    background: linear-gradient(180deg, rgba(7, 20, 37, 0.9) 0%, rgba(5, 11, 20, 0.9) 100%);
+    border: 1px solid rgba(244, 248, 255, 0.08);
+  }
+
+  /* Electric glow ring on hover for cards */
+  .glow-atlas {
+    transition: box-shadow 0.35s ease, border-color 0.35s ease, transform 0.35s ease;
+  }
+  .glow-atlas:hover {
+    border-color: rgba(85, 199, 255, 0.45);
+    box-shadow: 0 0 0 1px rgba(85, 199, 255, 0.20), 0 18px 50px -20px rgba(20, 125, 255, 0.55);
+    transform: translateY(-4px);
+  }
+
+  /* Animated marquee track */
+  .marquee-track {
+    display: inline-flex;
+    white-space: nowrap;
+    animation: marquee-atlas 38s linear infinite;
+  }
+  .marquee-atlas-paused:hover .marquee-track {
+    animation-play-state: paused;
+  }
+}
+
+/* ----------------------------------------------------------------------------
+   Keyframes — microinteractions only (no gaming)
+---------------------------------------------------------------------------- */
+@keyframes marquee-atlas {
+  from { transform: translateX(0); }
+  to { transform: translateX(-50%); }
+}
+
+@keyframes reveal-up {
+  from { opacity: 0; transform: translateY(22px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes float-soft {
+  0%, 100% { transform: translateY(0) rotateY(0deg); }
+  50% { transform: translateY(-10px) rotateY(0deg); }
+}
+
+@keyframes blue-sweep {
+  0% { opacity: 0; transform: translateX(-30%); }
+  50% { opacity: 0.5; }
+  100% { opacity: 0; transform: translateX(30%); }
+}
+
+@keyframes glow-pulse {
+  0%, 100% { opacity: 0.45; }
+  50% { opacity: 0.75; }
+}
+
+/* Reveal-on-scroll helper (toggled by IntersectionObserver).
+   Subtle & non-hiding: content is always visible (opacity 1) and only slides
+   up when revealed. This keeps the page legible for SEO/no-JS/static captures
+   and matches the brief's "scroll reveal discreto". */
+.reveal {
+  transform: translateY(18px);
+  transition: transform 0.7s cubic-bezier(0.22, 1, 0.36, 1);
+  will-change: transform;
+}
+.reveal.is-visible {
+  transform: translateY(0);
+}
+
+.animate-float-soft { animation: float-soft 7s ease-in-out infinite; }
+.animate-glow-pulse { animation: glow-pulse 6s ease-in-out infinite; }
+
+@media (prefers-reduced-motion: reduce) {
+  .marquee-track,
+  .animate-float-soft,
+  .animate-glow-pulse {
+    animation: none !important;
+  }
+  .reveal {
+    opacity: 1;
+    transform: none;
+    transition: none;
+  }
+}
+
+/* ----------------------------------------------------------------------------
+   Reader theme — calm editorial light surface (used on /ler route)
+---------------------------------------------------------------------------- */
+.reader-light {
+  --background: #F7F8FA;
+  --foreground: #14202E;
+  --card: #FFFFFF;
+  --card-foreground: #14202E;
+  --muted: #EEF1F5;
+  --muted-foreground: #5A6B7E;
+  --border: rgba(20, 32, 46, 0.10);
+  --ring: #147DFF;
+}
+.reader-light body { @apply bg-[#F7F8FA] text-[#14202E]; }
+:focus-visible { outline: 2px solid #55C7FF; outline-offset: 4px; }
+@media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } }
+
+/* Long-form reading */
+.reader-masthead{position:sticky;top:0;z-index:40;display:flex;align-items:center;justify-content:space-between;gap:1rem;padding:1rem max(1rem,calc((100vw - 1000px)/2));background:#f7f8faf5;border-bottom:1px solid #dde3ea;font:500 .85rem Arial,sans-serif}
+.reader-masthead>span{color:#5a6b7e}.reader-control{display:inline-block;border:1px solid #becbd8;border-radius:4px;padding:.65rem .85rem;font:500 .85rem Arial,sans-serif;cursor:pointer;color:#14202e}.reader-control:hover{background:#e7edf4}
+.reading-shell{max-width:800px;margin:auto;padding:4rem 1.25rem}.reading-title{font:bold clamp(2.1rem,5vw,3.5rem)/1.13 Georgia,serif;margin-top:1rem;overflow-wrap:anywhere}.reading-eyebrow{font:600 .72rem/1.8 Arial,sans-serif;letter-spacing:.16em;color:#315677;text-transform:uppercase}
+.manuscript{font:var(--reading-size,1.125rem)/1.85 Georgia,serif;color:#243244;margin-top:3rem;overflow-wrap:anywhere}.manuscript p{margin:1.2em 0}.manuscript h2{font:bold 1.65em/1.3 Georgia,serif;margin:2.2em 0 .7em}.manuscript h3{font:bold 1.25em/1.4 Georgia,serif;margin:1.8em 0 .6em}.manuscript h4{font-weight:bold;margin-top:1.5em}.manuscript ul,.manuscript ol{padding-left:1.6em;margin:1em 0}.manuscript ul{list-style:disc}.manuscript ol{list-style:decimal}.manuscript li{margin:.45em 0}.manuscript blockquote{border-left:3px solid #147dff;padding:.15em 1.3em;margin:1.8em 0;background:#edf2f8}.manuscript hr{margin:2.5em 0;border-color:#dde3ea}.manuscript a{color:#075daf;text-decoration:underline;text-underline-offset:3px}.manuscript pre{overflow:auto;max-width:100%;padding:1em;background:#e9eef4;font: .8em/1.6 monospace;white-space:pre-wrap}.manuscript img{margin:2em auto;max-width:100%;background:white;border-radius:5px}.manuscript table{border-collapse:collapse;width:100%;font: .85em/1.5 Arial,sans-serif}.manuscript th,.manuscript td{text-align:left;padding:.75em;border-bottom:1px solid #cbd5e1;min-width:100px}.manuscript th{background:#e9eef4}.table-scroll{overflow:auto;margin:2em 0;max-width:100%}
+.reader-index h2{margin:2.5rem 0 1rem;font:600 .8rem/1.6 Arial,sans-serif;letter-spacing:.1em;color:#315677}.reader-index a{display:flex;align-items:baseline;gap:1rem;border-bottom:1px solid #dde3ea;padding:1rem 0;font:1.1rem/1.6 Georgia,serif}.reader-index a:hover{color:#075daf}.reader-index a>span:first-child{font:.8rem monospace;color:#5a6b7e}.reader-index a>span:last-child{margin-left:auto}.reading-pagination{display:grid;grid-template-columns:1fr 1fr;gap:2rem;margin-top:4rem;border-top:1px solid #cbd5e1;padding-top:2rem;font: .95rem/1.6 Arial,sans-serif}.reading-pagination>a:last-child{text-align:right}.reading-footer{text-align:center;border-top:1px solid #dde3ea;padding:2rem 1rem;font:.75rem Arial,sans-serif;color:#5a6b7e}
+@media(max-width:600px){.reader-masthead>span{display:none}.reading-shell{padding-top:2.5rem}.reading-pagination{gap:1rem}.manuscript{line-height:1.8}}
+/* Homepage composition matched to the approved Editions mockup. */
+.home-page{position:relative}
+.home-header{position:absolute;
+  top:3vw;
+  left:2%;
+  width:96%;
+  border:1px solid #4584a966;
+  border-radius:11px 11px 0 0;
+  background:#020b17d9;
+  backdrop-filter:blur(12px)}
+.home-header .header-inner{max-width:none;
+  height:5.3vw;
+  min-height:70px;
+  padding:0 2.3vw}
+.home-header nav a{color:#f5f7fb;
+  font-size:clamp(14px,1vw,18px)}
+.home-header nav a:first-child{position:relative}
+.home-header nav a:first-child:after{content:'';
+  position:absolute;
+  bottom:-17px;
+  left:0;
+  width:100%;
+  height:3px;
+  background:#06d9ed}
+.home-header .header-inner>a>span{gap:12px}
+.home-header .header-inner>a img{width:46px;
+  height:46px}
+.home-header .header-inner>a>span>span>span:first-child{font-size:28px}
+.home-header .header-inner>a>span>span>span:last-child{font-size:14px;
+  letter-spacing:.28em}
+.home-header .header-inner>a>span>span{gap:14px}
+
+.editions-hero{position:relative;
+  isolation:isolate;
+  min-height:56.25vw;
+  background:#020b17;
+  overflow:hidden}
+.editions-hero-scene{position:absolute;
+  inset:0;
+  z-index:-1}
+.editions-hero-scene img{object-fit:cover}
+.editions-hero-copy{position:relative;
+  padding:11.35vw 0 10.9vw 5.65%;
+  width:60%}
+.hero-accent{display:block;
+  width:4.2vw;
+  height:4px;
+  background:linear-gradient(90deg,#29e7ed,#0088ff);
+  margin-bottom:1.7vw}
+.editions-hero h1{margin:0;
+  font-family:Arial,Helvetica,sans-serif;
+  font-weight:950;
+  letter-spacing:-.055em;
+  line-height:1.04}
+.editions-hero h1>span{display:block;
+  font-size:4.1vw;
+  white-space:nowrap;
+  color:#fff}
+.editions-hero h1 strong{display:block;
+  font-size:5.55vw;
+  white-space:nowrap;
+  font-weight:950;
+  letter-spacing:-.055em;
+  background:linear-gradient(110deg,#3bf4ec 0%,#00c6ef 48%,#007aff 100%);
+  background-clip:text;
+  color:transparent}
+.editions-hero-copy>p{margin:1.6vw 0 0;
+  color:#d8dfeb;
+  font-size:1.95vw;
+  line-height:1.18;
+  letter-spacing:-.018em;
+  max-width:44vw}
+.editions-hero-actions{display:flex;
+  gap:1.35vw;
+  margin-top:2vw}
+.editions-hero-actions a{display:inline-flex;
+  align-items:center;
+  justify-content:space-between;
+  gap:1.4vw;
+  padding:1.05vw 1.9vw;
+  border-radius:10px;
+  font-size:1.22vw;
+  min-height:3.85vw;
+  font-weight:700;
+  transition:filter .2s,background .2s}
+.editions-hero-actions svg{width:1.25vw;
+  height:1.25vw}
+.hero-primary{color:#00101c;
+  background:linear-gradient(115deg,#38edf0,#00a6f1 65%,#007cff);
+  border:1px solid #20dbe8}
+.hero-secondary{color:#fff;
+  border:1px solid #00deea;
+  background:#020a12a8}
+.editions-hero-actions a:hover{filter:brightness(1.15)}
+.editions-hero-metrics{display:grid;
+  grid-template-columns:repeat(4,1fr);
+  margin-top:3.1vw;
+  width:49vw}
+.editions-hero-metrics>div{padding:0 1.5vw;
+  border-right:1px solid #009bcd;
+  gap:1vw}
+.editions-hero-metrics>div:first-child{padding-left:0}
+.editions-hero-metrics>div:last-child{border:0}
+.editions-hero-metrics>div>span:first-child{border:0;
+  background:none;
+  width:3vw;
+  height:3vw}
+.editions-hero-metrics svg{width:2.8vw;
+  height:2.8vw;
+  color:#00c5f4}
+.editions-hero-metrics>div>span:last-child>span:first-child{font-size:1.75vw}
+.editions-hero-metrics>div>span:last-child>span:last-child{font-size:1.03vw;
+  letter-spacing:0;
+  text-transform:none;
+  line-height:1.25;
+  color:#e1e6ef}
+.hero-book-link{position:absolute;
+  left:62%;
+  top:18%;
+  width:23%;
+  height:63%;
+  border-radius:4px}
+.hero-book-link:focus-visible{outline-offset:8px}
+.editions-hero-strip{position:absolute;
+  bottom:3vw;
+  left:5%;
+  width:90%;
+  display:flex;
+  justify-content:space-around;
+  align-items:center;
+  padding:1.6vw 3vw;
+  border-top:1px solid #168ad1;
+  border-bottom:1px solid #168ad1;
+  background:linear-gradient(110deg,#001123cc,#00102096);
+  box-shadow:0 10px 24px -21px #00d9ff;
+  transform:skewX(-30deg)}
+.editions-hero-strip span{transform:skewX(30deg);
+  font-size:.88vw;
+  letter-spacing:.3em;
+  color:#e6ebf5;
+  position:relative}
+.editions-hero-strip span:not(:last-child):after{content:'•';
+  color:#05d9ef;
+  position:absolute;
+  right:-2.6vw}
+
+@media(min-width:1900px){.editions-hero{min-height:1069px}
+.editions-hero-copy{padding-top:216px;
+  padding-bottom:207px}
+.home-header{top:57px}
+}
+
+@media(max-width:1100px){.home-header .header-inner>a>span>span>span:first-child{font-size:22px}
+.home-header .header-inner>a>span>span>span:last-child{font-size:11px}
+.home-header .header-inner>a img{width:36px;
+  height:36px}
+.home-header .header-inner{min-height:62px}
+.home-header nav{gap:18px}
+.editions-hero-copy{padding-top:13vw}
+.editions-hero{min-height:60vw}
+}
+
+@media(max-width:767px){.home-header{top:16px;
+  left:4%;
+  width:92%}
+.home-header .header-inner{height:64px;
+  padding:0 14px}
+.home-header .header-inner>a>span>span{gap:9px}
+.home-header .header-inner>a>span>span>span:last-child{font-size:10px}
+.home-header nav a:first-child:after{display:none}
+.editions-hero{min-height:0;
+  padding-bottom:0}
+.editions-hero-scene{top:auto;
+  bottom:80px;
+  height:440px;
+  overflow:hidden}
+.editions-hero-scene img{object-fit:cover;
+  object-position:82% center;
+  width:100%;
+  }
+.editions-hero:after{content:'';
+  position:absolute;
+  z-index:-1;
+  inset:0;
+  background:linear-gradient(#020b17 0%,#020b17 44%,transparent 68%);
+  pointer-events:none}
+.editions-hero-copy{padding:120px 6% 430px;
+  width:100%}
+.hero-accent{width:48px;
+  height:3px;
+  margin-bottom:24px}
+.editions-hero h1>span{font-size:5.8vw;
+  letter-spacing:-.045em}
+.editions-hero h1 strong{font-size:8.4vw;
+  line-height:1.16;
+  letter-spacing:-.055em}
+.editions-hero-copy>p{font-size:19px;
+  line-height:1.45;
+  max-width:34rem;
+  margin-top:23px}
+.hero-desktop-break{display:none}
+.editions-hero-actions{gap:12px;
+  margin-top:26px;
+  flex-wrap:wrap}
+.editions-hero-actions a{font-size:15px;
+  min-height:52px;
+  padding:13px 18px;
+  gap:12px;
+  flex:1;
+  white-space:nowrap}
+.editions-hero-actions svg{height:18px;
+  width:18px}
+.editions-hero-metrics{width:100%;
+  grid-template-columns:repeat(2,1fr);
+  gap:22px 0;
+  margin-top:30px}
+.editions-hero-metrics>div{gap:12px;
+  padding:0 18px}
+.editions-hero-metrics>div:nth-child(odd){padding-left:0}
+.editions-hero-metrics>div:nth-child(even){border:0}
+.editions-hero-metrics>div>span:first-child{width:38px;
+  height:40px}
+.editions-hero-metrics svg{width:34px;
+  height:34px}
+.editions-hero-metrics>div>span:last-child>span:first-child{font-size:24px}
+.editions-hero-metrics>div>span:last-child>span:last-child{font-size:14px}
+.hero-book-link{left:37%;
+  top:auto;
+  bottom:130px;
+  height:300px;
+  width:44%}
+.editions-hero-strip{position:relative;
+  left:auto;
+  bottom:auto;
+  width:100%;
+  transform:none;
+  padding:20px 6%;
+  display:grid;
+  grid-template-columns:repeat(3,1fr);
+  gap:17px 12px;
+  background:#031120}
+.editions-hero-strip span{transform:none;
+  font-size:9px;
+  letter-spacing:.18em;
+  text-align:center}
+.editions-hero-strip span:not(:last-child):after{display:none}
+}
+
+
+@media(max-width:767px){.editions-hero-scene{mask-image:linear-gradient(transparent,black 12%)}
+.editions-hero-copy{padding-bottom:450px}
+}

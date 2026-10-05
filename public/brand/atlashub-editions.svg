@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 96" role="img" aria-labelledby="title">
+  <title id="title">AtlasHub Editions</title>
+  <defs><linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#66e0ff"/><stop offset=".52" stop-color="#168cff"/><stop offset="1" stop-color="#2440ff"/></linearGradient></defs>
+  <path d="M8 78 38 16l15 29-18 33Z" fill="#eef8ff"/>
+  <path d="M49 29 68 14l20 64H66Z" fill="url(#b)"/>
+  <path d="m36 78 18-29 14 29Z" fill="#f5fbff"/>
+  <text x="112" y="50" fill="#f5f9ff" font-family="Arial,Helvetica,sans-serif" font-size="34" font-weight="700">AtlasHub</text>
+  <text x="273" y="50" fill="#8ea0b5" font-family="Arial,Helvetica,sans-serif" font-size="34">Editions</text>
+  <text x="114" y="74" fill="#55c7ff" font-family="Arial,Helvetica,sans-serif" font-size="12" letter-spacing="3">IDEAS FOR THE AUGMENTED AGE</text>
+</svg>
