@@ -1,0 +1,18 @@
+import fs from 'node:fs'; import path from 'node:path';
+const runtime=process.env.CODEX_PRIMARY_RUNTIME_NODE_MODULES || 'C:/Users/conta/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/node_modules'; const {chromium}=await import(new URL('file:///'+path.join(runtime,'playwright/index.mjs').replaceAll('\\','/')));
+(async()=>{
+ const base=process.env.EA000_PREVIEW_URL||'http://localhost:3130',out='editorial/ea000/qa';fs.mkdirSync(out,{recursive:true});
+ const browser=await chromium.launch({headless:true,channel:'msedge'});const page=await browser.newPage({viewport:{width:1440,height:1000}});const errors=[];page.on('pageerror',e=>errors.push(e.message));
+ const report={base,sections:[],viewports:[],downloads:[],consoleErrors:errors};
+ const index=await page.goto(base+'/livros/empresa-aumentada/ler',{waitUntil:'networkidle',timeout:90000});if(index.status()!==200)throw Error('Reader index '+index.status());report.indexLinks=await page.locator('.reader-index a').count();if(report.indexLinks!==27)throw Error('Index incomplete');
+ const sections=JSON.parse(fs.readFileSync('content/empresa-aumentada-manuscript.json','utf8'));
+ for(const s of sections){const r=await page.goto(base+'/livros/empresa-aumentada/ler/'+s.slug,{waitUntil:'domcontentloaded',timeout:90000});const data=await page.evaluate(()=>({title:document.querySelector('h1')?.textContent,figures:document.querySelectorAll('.editorial-figure').length,duplicateIds:[...document.querySelectorAll('[id]')].map(x=>x.id).filter((id,i,a)=>a.indexOf(id)!==i),text:document.querySelector('.manuscript')?.textContent.length}));if(r.status()!==200||data.duplicateIds.length||data.text<300)throw Error('Section failed '+s.slug+JSON.stringify(data));report.sections.push({slug:s.slug,status:r.status(),...data});}
+ for(const [width,height] of [[390,844],[768,1024],[1440,1000]]){
+  await page.setViewportSize({width,height});await page.goto(base+'/livros/empresa-aumentada/ler/capitulo-10',{waitUntil:'networkidle'});await page.evaluate(()=>document.fonts.ready);
+  const overflow=await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth+1);if(overflow)throw Error('Viewport overflow '+width);await page.screenshot({path:path.join(out,'reader-'+width+'.png'),fullPage:false});report.viewports.push({width,height,overflow});
+ }
+ await page.getByRole('button',{name:'Tema escuro'}).click();report.night=await page.locator('.reader-light').getAttribute('data-theme');if(report.night!=='night')throw Error('Theme failed');await page.getByRole('button',{name:'Aumentar texto'}).click();report.textSize=await page.locator('.manuscript').evaluate(e=>getComputedStyle(e).fontSize);
+ await page.locator('.chapter-navigation summary').click();const link=page.locator('.chapter-navigation a').first();const href=await link.getAttribute('href');await link.click();report.anchor=await page.evaluate(()=>location.hash);if(report.anchor!==href)throw Error('Anchor failed');
+ for(const file of ['EA-000_Empresa-Aumentada_A5_digital.pdf','EA-000_Empresa-Aumentada_A4_digital.pdf','EA-000_Empresa-Aumentada.epub']){const r=await page.request.get(base+'/downloads/premium/'+file);const bytes=(await r.body()).length;if(r.status()!==200||bytes<100000)throw Error('Download failed '+file);report.downloads.push({file,status:r.status(),bytes});}
+ report.figures=report.sections.reduce((a,s)=>a+s.figures,0);if(report.figures!==29)throw Error('Figure count');if(errors.length)throw Error(errors.join('\n'));report.status='PASS';fs.writeFileSync(out+'/reader-browser.json',JSON.stringify(report,null,2));console.log(JSON.stringify(report));await browser.close();
+})().catch(e=>{console.error(e);process.exit(1)});

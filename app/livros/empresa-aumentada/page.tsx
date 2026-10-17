@@ -116,7 +116,7 @@ export default function BookDetailPage() {
               <div className="lg:col-span-7">
                 <span className="eyebrow inline-flex items-center gap-2">
                   <span className="h-px w-8 bg-cyan-signal/70" aria-hidden />
-                  AtlasHub Editions · EA–001
+                  AtlasHub Editions · EA-000
                 </span>
 
                 <h1
@@ -224,7 +224,7 @@ export default function BookDetailPage() {
                 className="panel-atlas glow-atlas flex flex-col rounded-lg p-6"
               >
                 <span className="font-mono text-[0.65rem] uppercase tracking-[0.28em] text-cyan-signal">
-                  EA–001 · Toolkit
+                  EA-000 · Toolkit
                 </span>
                 <h3 className="mt-3 text-lg font-semibold text-cloud">
                   Da leitura à aplicação

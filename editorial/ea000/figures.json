@@ -1,0 +1,3598 @@
+[
+  {
+    "file": "capitulo-07-1.svg",
+    "title": "A arquitetura da Empresa Aumentada",
+    "rows": [
+      [
+        "Objetivos do negócio"
+      ],
+      [
+        "Pessoas e agentes",
+        "Processos e tecnologia",
+        "Dados e contexto"
+      ],
+      [
+        "Governança e supervisão humana"
+      ],
+      [
+        "Execução e coordenação"
+      ],
+      [
+        "Resultados: receita, custos, velocidade e controle"
+      ]
+    ],
+    "feedback": true,
+    "caption": "A governança conecta a capacidade operacional aos objetivos; a avaliação dos resultados realimenta a direção.",
+    "number": 1,
+    "chapter": "capitulo-07",
+    "width": 720,
+    "height": 566,
+    "boxes": [
+      {
+        "row": 0,
+        "col": 0,
+        "x": 42,
+        "y": 24,
+        "width": 636,
+        "height": 70,
+        "lines": [
+          "Objetivos do negócio"
+        ]
+      },
+      {
+        "row": 1,
+        "col": 0,
+        "x": 42,
+        "y": 136,
+        "width": 198.66666666666666,
+        "height": 70,
+        "lines": [
+          "Pessoas e agentes"
+        ]
+      },
+      {
+        "row": 1,
+        "col": 1,
+        "x": 260.66666666666663,
+        "y": 136,
+        "width": 198.66666666666666,
+        "height": 70,
+        "lines": [
+          "Processos e",
+          "tecnologia"
+        ]
+      },
+      {
+        "row": 1,
+        "col": 2,
+        "x": 479.3333333333333,
+        "y": 136,
+        "width": 198.66666666666666,
+        "height": 70,
+        "lines": [
+          "Dados e contexto"
+        ]
+      },
+      {
+        "row": 2,
+        "col": 0,
+        "x": 42,
+        "y": 248,
+        "width": 636,
+        "height": 70,
+        "lines": [
+          "Governança e supervisão humana"
+        ]
+      },
+      {
+        "row": 3,
+        "col": 0,
+        "x": 42,
+        "y": 360,
+        "width": 636,
+        "height": 70,
+        "lines": [
+          "Execução e coordenação"
+        ]
+      },
+      {
+        "row": 4,
+        "col": 0,
+        "x": 42,
+        "y": 472,
+        "width": 636,
+        "height": 70,
+        "lines": [
+          "Resultados: receita, custos, velocidade e controle"
+        ]
+      }
+    ],
+    "edges": [
+      {
+        "x1": 360,
+        "y1": 94,
+        "x2": 141.33333333333331,
+        "y2": 136
+      },
+      {
+        "x1": 360,
+        "y1": 94,
+        "x2": 359.99999999999994,
+        "y2": 136
+      },
+      {
+        "x1": 360,
+        "y1": 94,
+        "x2": 578.6666666666666,
+        "y2": 136
+      },
+      {
+        "x1": 141.33333333333331,
+        "y1": 206,
+        "x2": 360,
+        "y2": 248
+      },
+      {
+        "x1": 359.99999999999994,
+        "y1": 206,
+        "x2": 360,
+        "y2": 248
+      },
+      {
+        "x1": 578.6666666666666,
+        "y1": 206,
+        "x2": 360,
+        "y2": 248
+      },
+      {
+        "x1": 360,
+        "y1": 318,
+        "x2": 360,
+        "y2": 360
+      },
+      {
+        "x1": 360,
+        "y1": 430,
+        "x2": 360,
+        "y2": 472
+      }
+    ],
+    "feedbackEdge": {
+      "x": 14,
+      "y1": 507,
+      "y2": 59
+    },
+    "source": "Elaboração editorial a partir do framework e dos cenários de Sérgio Monteiro.",
+    "rights": "Conteúdo do autor; desenho AtlasHub Editions. Homologação final pendente.",
+    "status": "REVIEW",
+    "alt": "A arquitetura da Empresa Aumentada. A governança conecta a capacidade operacional aos objetivos; a avaliação dos resultados realimenta a direção."
+  },
+  {
+    "file": "capitulo-07-2.svg",
+    "title": "Oito dimensões do framework",
+    "rows": [
+      [
+        "1 Objetivos do negócio",
+        "2 Pessoas"
+      ],
+      [
+        "3 Processos",
+        "4 Dados"
+      ],
+      [
+        "5 Sistemas",
+        "6 Agentes de IA"
+      ],
+      [
+        "7 Governança",
+        "8 Resultados"
+      ]
+    ],
+    "noArrows": true,
+    "caption": "Dimensões complementares do modelo do autor. A numeração organiza a leitura; não define uma sequência automática de implantação.",
+    "number": 2,
+    "chapter": "capitulo-07",
+    "width": 720,
+    "height": 454,
+    "boxes": [
+      {
+        "row": 0,
+        "col": 0,
+        "x": 42,
+        "y": 24,
+        "width": 308,
+        "height": 70,
+        "lines": [
+          "1 Objetivos do negócio"
+        ]
+      },
+      {
+        "row": 0,
+        "col": 1,
+        "x": 370,
+        "y": 24,
+        "width": 308,
+        "height": 70,
+        "lines": [
+          "2 Pessoas"
+        ]
+      },
+      {
+        "row": 1,
+        "col": 0,
+        "x": 42,
+        "y": 136,
+        "width": 308,
+        "height": 70,
+        "lines": [
+          "3 Processos"
+        ]
+      },
+      {
+        "row": 1,
+        "col": 1,
+        "x": 370,
+        "y": 136,
+        "width": 308,
+        "height": 70,
+        "lines": [
+          "4 Dados"
+        ]
+      },
+      {
+        "row": 2,
+        "col": 0,
+        "x": 42,
+        "y": 248,
+        "width": 308,
+        "height": 70,
+        "lines": [
+          "5 Sistemas"
+        ]
+      },
+      {
+        "row": 2,
+        "col": 1,
+        "x": 370,
+        "y": 248,
+        "width": 308,
+        "height": 70,
+        "lines": [
+          "6 Agentes de IA"
+        ]
+      },
+      {
+        "row": 3,
+        "col": 0,
+        "x": 42,
+        "y": 360,
+        "width": 308,
+        "height": 70,
+        "lines": [
+          "7 Governança"
+        ]
+      },
+      {
+        "row": 3,
+        "col": 1,
+        "x": 370,
+        "y": 360,
+        "width": 308,
+        "height": 70,
+        "lines": [
+          "8 Resultados"
+        ]
+      }
+    ],
+    "edges": [],
+    "feedbackEdge": null,
+    "source": "Elaboração editorial a partir do framework e dos cenários de Sérgio Monteiro.",
+    "rights": "Conteúdo do autor; desenho AtlasHub Editions. Homologação final pendente.",
+    "status": "REVIEW",
+    "alt": "Oito dimensões do framework. Dimensões complementares do modelo do autor. A numeração organiza a leitura; não define uma sequência automática de implantação."
+  },
+  {
+    "file": "capitulo-08-3.svg",
+    "title": "Política, execução e responsabilidade",
+    "rows": [
+      [
+        "Política: critérios e limites"
+      ],
+      [
+        "Execução: pessoa, agente ou automação"
+      ],
+      [
+        "Resultado observado"
+      ],
+      [
+        "Responsável humano pela função"
+      ]
+    ],
+    "feedback": true,
+    "caption": "A execução pode ser distribuída. A responsabilidade pela política e pelos resultados permanece atribuída a pessoas.",
+    "number": 3,
+    "chapter": "capitulo-08",
+    "width": 720,
+    "height": 454,
+    "boxes": [
+      {
+        "row": 0,
+        "col": 0,
+        "x": 42,
+        "y": 24,
+        "width": 636,
+        "height": 70,
+        "lines": [
+          "Política: critérios e limites"
+        ]
+      },
+      {
+        "row": 1,
+        "col": 0,
+        "x": 42,
+        "y": 136,
+        "width": 636,
+        "height": 70,
+        "lines": [
+          "Execução: pessoa, agente ou automação"
+        ]
+      },
+      {
+        "row": 2,
+        "col": 0,
+        "x": 42,
+        "y": 248,
+        "width": 636,
+        "height": 70,
+        "lines": [
+          "Resultado observado"
+        ]
+      },
+      {
+        "row": 3,
+        "col": 0,
+        "x": 42,
+        "y": 360,
+        "width": 636,
+        "height": 70,
+        "lines": [
+          "Responsável humano pela função"
+        ]
+      }
+    ],
+    "edges": [
+      {
+        "x1": 360,
+        "y1": 94,
+        "x2": 360,
+        "y2": 136
+      },
+      {
+        "x1": 360,
+        "y1": 206,
+        "x2": 360,
+        "y2": 248
+      },
+      {
+        "x1": 360,
+        "y1": 318,
+        "x2": 360,
+        "y2": 360
+      }
+    ],
+    "feedbackEdge": {
+      "x": 14,
+      "y1": 395,
+      "y2": 59
+    },
+    "source": "Elaboração editorial a partir do framework e dos cenários de Sérgio Monteiro.",
+    "rights": "Conteúdo do autor; desenho AtlasHub Editions. Homologação final pendente.",
+    "status": "REVIEW",
+    "alt": "Política, execução e responsabilidade. A execução pode ser distribuída. A responsabilidade pela política e pelos resultados permanece atribuída a pessoas."
+  },
+  {
+    "file": "capitulo-08-4.svg",
+    "title": "Quatro modos de decisão",
+    "rows": [
+      [
+        "A Execução automática"
+      ],
+      [
+        "B Execução supervisionada"
+      ],
+      [
+        "C Decisão aumentada"
+      ],
+      [
+        "D Liderança humana"
+      ]
+    ],
+    "noArrows": true,
+    "caption": "Modos escolhidos conforme contexto, risco e valor do julgamento humano. Não constituem degraus obrigatórios de maturidade.",
+    "number": 4,
+    "chapter": "capitulo-08",
+    "width": 720,
+    "height": 454,
+    "boxes": [
+      {
+        "row": 0,
+        "col": 0,
+        "x": 42,
+        "y": 24,
+        "width": 636,
+        "height": 70,
+        "lines": [
+          "A Execução automática"
+        ]
+      },
+      {
+        "row": 1,
+        "col": 0,
+        "x": 42,
+        "y": 136,
+        "width": 636,
+        "height": 70,
+        "lines": [
+          "B Execução supervisionada"
+        ]
+      },
+      {
+        "row": 2,
+        "col": 0,
+        "x": 42,
+        "y": 248,
+        "width": 636,
+        "height": 70,
+        "lines": [
+          "C Decisão aumentada"
+        ]
+      },
+      {
+        "row": 3,
+        "col": 0,
+        "x": 42,
+        "y": 360,
+        "width": 636,
+        "height": 70,
+        "lines": [
+          "D Liderança humana"
+        ]
+      }
+    ],
+    "edges": [],
+    "feedbackEdge": null,
+    "source": "Elaboração editorial a partir do framework e dos cenários de Sérgio Monteiro.",
+    "rights": "Conteúdo do autor; desenho AtlasHub Editions. Homologação final pendente.",
+    "status": "REVIEW",
+    "alt": "Quatro modos de decisão. Modos escolhidos conforme contexto, risco e valor do julgamento humano. Não constituem degraus obrigatórios de maturidade."
+  },
+  {
+    "file": "capitulo-09-5.svg",
+    "title": "O ciclo do agente e os limites de ação",
+    "rows": [
+      [
+        "Gatilho e contexto"
+      ],
+      [
+        "Interpretar e preparar decisão"
+      ],
+      [
+        "Verificar política e permissões"
+      ],
+      [
+        "Dentro dos limites: agir",
+        "Fora dos limites: escalar"
+      ],
+      [
+        "Observar e registrar o resultado"
+      ],
+      [
+        "Concluir ou reavaliar"
+      ]
+    ],
+    "caption": "Os limites são verificados antes de agir. O resultado também é observado; exceções exigem intervenção conforme a política.",
+    "number": 5,
+    "chapter": "capitulo-09",
+    "width": 720,
+    "height": 678,
+    "boxes": [
+      {
+        "row": 0,
+        "col": 0,
+        "x": 42,
+        "y": 24,
+        "width": 636,
+        "height": 70,
+        "lines": [
+          "Gatilho e contexto"
+        ]
+      },
+      {
+        "row": 1,
+        "col": 0,
+        "x": 42,
+        "y": 136,
+        "width": 636,
+        "height": 70,
+        "lines": [
+          "Interpretar e preparar decisão"
+        ]
+      },
+      {
+        "row": 2,
+        "col": 0,
+        "x": 42,
+        "y": 248,
+        "width": 636,
+        "height": 70,
+        "lines": [
+          "Verificar política e permissões"
+        ]
+      },
+      {
+        "row": 3,
+        "col": 0,
+        "x": 42,
+        "y": 360,
+        "width": 308,
+        "height": 70,
+        "lines": [
+          "Dentro dos limites: agir"
+        ]
+      },
+      {
+        "row": 3,
+        "col": 1,
+        "x": 370,
+        "y": 360,
+        "width": 308,
+        "height": 70,
+        "lines": [
+          "Fora dos limites: escalar"
+        ]
+      },
+      {
+        "row": 4,
+        "col": 0,
+        "x": 42,
+        "y": 472,
+        "width": 636,
+        "height": 70,
+        "lines": [
+          "Observar e registrar o resultado"
+        ]
+      },
+      {
+        "row": 5,
+        "col": 0,
+        "x": 42,
+        "y": 584,
+        "width": 636,
+        "height": 70,
+        "lines": [
+          "Concluir ou reavaliar"
+        ]
+      }
+    ],
+    "edges": [
+      {
+        "x1": 360,
+        "y1": 94,
+        "x2": 360,
+        "y2": 136
+      },
+      {
+        "x1": 360,
+        "y1": 206,
+        "x2": 360,
+        "y2": 248
+      },
+      {
+        "x1": 360,
+        "y1": 318,
+        "x2": 196,
+        "y2": 360
+      },
+      {
+        "x1": 360,
+        "y1": 318,
+        "x2": 524,
+        "y2": 360
+      },
+      {
+        "x1": 196,
+        "y1": 430,
+        "x2": 360,
+        "y2": 472
+      },
+      {
+        "x1": 524,
+        "y1": 430,
+        "x2": 360,
+        "y2": 472
+      },
+      {
+        "x1": 360,
+        "y1": 542,
+        "x2": 360,
+        "y2": 584
+      }
+    ],
+    "feedbackEdge": null,
+    "source": "Elaboração editorial a partir do framework e dos cenários de Sérgio Monteiro.",
+    "rights": "Conteúdo do autor; desenho AtlasHub Editions. Homologação final pendente.",
+    "status": "REVIEW",
+    "alt": "O ciclo do agente e os limites de ação. Os limites são verificados antes de agir. O resultado também é observado; exceções exigem intervenção conforme a política."
+  },
+  {
+    "file": "capitulo-09-6.svg",
+    "title": "Ciclo de vida de uma capacidade",
+    "rows": [
+      [
+        "Desenho e teste offline"
+      ],
+      [
+        "Modo sombra: sugerir sem executar"
+      ],
+      [
+        "Piloto e produção limitada"
+      ],
+      [
+        "Escala condicionada à evidência"
+      ],
+      [
+        "Revisão contínua e retirada"
+      ]
+    ],
+    "caption": "Passagens condicionadas à evidência e à autorização. Revisões podem devolver o sistema a uma etapa anterior.",
+    "number": 6,
+    "chapter": "capitulo-09",
+    "width": 720,
+    "height": 566,
+    "boxes": [
+      {
+        "row": 0,
+        "col": 0,
+        "x": 42,
+        "y": 24,
+        "width": 636,
+        "height": 70,
+        "lines": [
+          "Desenho e teste offline"
+        ]
+      },
+      {
+        "row": 1,
+        "col": 0,
+        "x": 42,
+        "y": 136,
+        "width": 636,
+        "height": 70,
+        "lines": [
+          "Modo sombra: sugerir sem executar"
+        ]
+      },
+      {
+        "row": 2,
+        "col": 0,
+        "x": 42,
+        "y": 248,
+        "width": 636,
+        "height": 70,
+        "lines": [
+          "Piloto e produção limitada"
+        ]
+      },
+      {
+        "row": 3,
+        "col": 0,
+        "x": 42,
+        "y": 360,
+        "width": 636,
+        "height": 70,
+        "lines": [
+          "Escala condicionada à evidência"
+        ]
+      },
+      {
+        "row": 4,
+        "col": 0,
+        "x": 42,
+        "y": 472,
+        "width": 636,
+        "height": 70,
+        "lines": [
+          "Revisão contínua e retirada"
+        ]
+      }
+    ],
+    "edges": [
+      {
+        "x1": 360,
+        "y1": 94,
+        "x2": 360,
+        "y2": 136
+      },
+      {
+        "x1": 360,
+        "y1": 206,
+        "x2": 360,
+        "y2": 248
+      },
+      {
+        "x1": 360,
+        "y1": 318,
+        "x2": 360,
+        "y2": 360
+      },
+      {
+        "x1": 360,
+        "y1": 430,
+        "x2": 360,
+        "y2": 472
+      }
+    ],
+    "feedbackEdge": null,
+    "source": "Elaboração editorial a partir do framework e dos cenários de Sérgio Monteiro.",
+    "rights": "Conteúdo do autor; desenho AtlasHub Editions. Homologação final pendente.",
+    "status": "REVIEW",
+    "alt": "Ciclo de vida de uma capacidade. Passagens condicionadas à evidência e à autorização. Revisões podem devolver o sistema a uma etapa anterior."
+  },
+  {
+    "file": "capitulo-10-7.svg",
+    "title": "O organograma tradicional",
+    "rows": [
+      [
+        "Direção"
+      ],
+      [
+        "Comercial",
+        "Operações",
+        "Financeiro"
+      ],
+      [
+        "Vendas",
+        "Compras e logística",
+        "Contas"
+      ]
+    ],
+    "caption": "O organograma representa linhas de autoridade, mas não descreve todos os fluxos de informação e coordenação.",
+    "number": 7,
+    "chapter": "capitulo-10",
+    "width": 720,
+    "height": 342,
+    "boxes": [
+      {
+        "row": 0,
+        "col": 0,
+        "x": 42,
+        "y": 24,
+        "width": 636,
+        "height": 70,
+        "lines": [
+          "Direção"
+        ]
+      },
+      {
+        "row": 1,
+        "col": 0,
+        "x": 42,
+        "y": 136,
+        "width": 198.66666666666666,
+        "height": 70,
+        "lines": [
+          "Comercial"
+        ]
+      },
+      {
+        "row": 1,
+        "col": 1,
+        "x": 260.66666666666663,
+        "y": 136,
+        "width": 198.66666666666666,
+        "height": 70,
+        "lines": [
+          "Operações"
+        ]
+      },
+      {
+        "row": 1,
+        "col": 2,
+        "x": 479.3333333333333,
+        "y": 136,
+        "width": 198.66666666666666,
+        "height": 70,
+        "lines": [
+          "Financeiro"
+        ]
+      },
+      {
+        "row": 2,
+        "col": 0,
+        "x": 42,
+        "y": 248,
+        "width": 198.66666666666666,
+        "height": 70,
+        "lines": [
+          "Vendas"
+        ]
+      },
+      {
+        "row": 2,
+        "col": 1,
+        "x": 260.66666666666663,
+        "y": 248,
+        "width": 198.66666666666666,
+        "height": 70,
+        "lines": [
+          "Compras e logística"
+        ]
+      },
+      {
+        "row": 2,
+        "col": 2,
+        "x": 479.3333333333333,
+        "y": 248,
+        "width": 198.66666666666666,
+        "height": 70,
+        "lines": [
+          "Contas"
+        ]
+      }
+    ],
+    "edges": [
+      {
+        "x1": 360,
+        "y1": 94,
+        "x2": 141.33333333333331,
+        "y2": 136
+      },
+      {
+        "x1": 360,
+        "y1": 94,
+        "x2": 359.99999999999994,
+        "y2": 136
+      },
+      {
+        "x1": 360,
+        "y1": 94,
+        "x2": 578.6666666666666,
+        "y2": 136
+      },
+      {
+        "x1": 141.33333333333331,
+        "y1": 206,
+        "x2": 141.33333333333331,
+        "y2": 248
+      },
+      {
+        "x1": 359.99999999999994,
+        "y1": 206,
+        "x2": 359.99999999999994,
+        "y2": 248
+      },
+      {
+        "x1": 578.6666666666666,
+        "y1": 206,
+        "x2": 578.6666666666666,
+        "y2": 248
+      }
+    ],
+    "feedbackEdge": null,
+    "source": "Elaboração editorial a partir do framework e dos cenários de Sérgio Monteiro.",
+    "rights": "Conteúdo do autor; desenho AtlasHub Editions. Homologação final pendente.",
+    "status": "REVIEW",
+    "alt": "O organograma tradicional. O organograma representa linhas de autoridade, mas não descreve todos os fluxos de informação e coordenação."
+  },
+  {
+    "file": "capitulo-10-8.svg",
+    "title": "Estrutura híbrida com direção humana",
+    "rows": [
+      [
+        "Direção humana"
+      ],
+      [
+        "Direção comercial",
+        "Direção de operações",
+        "Direção financeira"
+      ],
+      [
+        "Coordenação comercial por IA",
+        "Coordenação operacional por IA",
+        "Coordenação financeira por IA"
+      ],
+      [
+        "Leads, CRM e follow-up",
+        "Estoque, compras e logística",
+        "Conciliação e cobrança"
+      ],
+      [
+        "Vendedores",
+        "Equipe operacional",
+        "Equipe financeira"
+      ]
+    ],
+    "caption": "Pessoas continuam responsáveis pelas funções. Os grupos de agentes ampliam a execução dentro de limites explícitos. O arranjo mostra camadas e funções; não atribui autoridade de agentes sobre pessoas.",
+    "noArrows": true,
+    "number": 8,
+    "chapter": "capitulo-10",
+    "width": 720,
+    "height": 566,
+    "boxes": [
+      {
+        "row": 0,
+        "col": 0,
+        "x": 42,
+        "y": 24,
+        "width": 636,
+        "height": 70,
+        "lines": [
+          "Direção humana"
+        ]
+      },
+      {
+        "row": 1,
+        "col": 0,
+        "x": 42,
+        "y": 136,
+        "width": 198.66666666666666,
+        "height": 70,
+        "lines": [
+          "Direção comercial"
+        ]
+      },
+      {
+        "row": 1,
+        "col": 1,
+        "x": 260.66666666666663,
+        "y": 136,
+        "width": 198.66666666666666,
+        "height": 70,
+        "lines": [
+          "Direção de operações"
+        ]
+      },
+      {
+        "row": 1,
+        "col": 2,
+        "x": 479.3333333333333,
+        "y": 136,
+        "width": 198.66666666666666,
+        "height": 70,
+        "lines": [
+          "Direção financeira"
+        ]
+      },
+      {
+        "row": 2,
+        "col": 0,
+        "x": 42,
+        "y": 248,
+        "width": 198.66666666666666,
+        "height": 70,
+        "lines": [
+          "Coordenação comercial",
+          "por IA"
+        ]
+      },
+      {
+        "row": 2,
+        "col": 1,
+        "x": 260.66666666666663,
+        "y": 248,
+        "width": 198.66666666666666,
+        "height": 70,
+        "lines": [
+          "Coordenação",
+          "operacional por IA"
+        ]
+      },
+      {
+        "row": 2,
+        "col": 2,
+        "x": 479.3333333333333,
+        "y": 248,
+        "width": 198.66666666666666,
+        "height": 70,
+        "lines": [
+          "Coordenação",
+          "financeira por IA"
+        ]
+      },
+      {
+        "row": 3,
+        "col": 0,
+        "x": 42,
+        "y": 360,
+        "width": 198.66666666666666,
+        "height": 70,
+        "lines": [
+          "Leads, CRM e",
+          "follow-up"
+        ]
+      },
+      {
+        "row": 3,
+        "col": 1,
+        "x": 260.66666666666663,
+        "y": 360,
+        "width": 198.66666666666666,
+        "height": 70,
+        "lines": [
+          "Estoque, compras e",
+          "logística"
+        ]
+      },
+      {
+        "row": 3,
+        "col": 2,
+        "x": 479.3333333333333,
+        "y": 360,
+        "width": 198.66666666666666,
+        "height": 70,
+        "lines": [
+          "Conciliação e",
+          "cobrança"
+        ]
+      },
+      {
+        "row": 4,
+        "col": 0,
+        "x": 42,
+        "y": 472,
+        "width": 198.66666666666666,
+        "height": 70,
+        "lines": [
+          "Vendedores"
+        ]
+      },
+      {
+        "row": 4,
+        "col": 1,
+        "x": 260.66666666666663,
+        "y": 472,
+        "width": 198.66666666666666,
+        "height": 70,
+        "lines": [
+          "Equipe operacional"
+        ]
+      },
+      {
+        "row": 4,
+        "col": 2,
+        "x": 479.3333333333333,
+        "y": 472,
+        "width": 198.66666666666666,
+        "height": 70,
+        "lines": [
+          "Equipe financeira"
+        ]
+      }
+    ],
+    "edges": [],
+    "feedbackEdge": null,
+    "source": "Elaboração editorial a partir do framework e dos cenários de Sérgio Monteiro.",
+    "rights": "Conteúdo do autor; desenho AtlasHub Editions. Homologação final pendente.",
+    "status": "REVIEW",
+    "alt": "Estrutura híbrida com direção humana. Pessoas continuam responsáveis pelas funções. Os grupos de agentes ampliam a execução dentro de limites explícitos. O arranjo mostra camadas e funções; não atribui autoridade de agentes sobre pessoas."
+  },
+  {
+    "file": "capitulo-10-9.svg",
+    "title": "Camadas da arquitetura operacional",
+    "rows": [
+      [
+        "Autoridade humana"
+      ],
+      [
+        "Coordenação"
+      ],
+      [
+        "Pessoas e agentes especializados"
+      ],
+      [
+        "Processos"
+      ],
+      [
+        "Sistemas e dados"
+      ],
+      [
+        "Clientes, fornecedores e ambiente"
+      ]
+    ],
+    "caption": "Camadas de leitura da organização. O ambiente gera sinais e recebe os efeitos da operação; o desenho não substitui um mapa detalhado de dependências. O arranjo mostra camadas e funções; não atribui autoridade de agentes sobre pessoas.",
+    "noArrows": true,
+    "number": 9,
+    "chapter": "capitulo-10",
+    "width": 720,
+    "height": 678,
+    "boxes": [
+      {
+        "row": 0,
+        "col": 0,
+        "x": 42,
+        "y": 24,
+        "width": 636,
+        "height": 70,
+        "lines": [
+          "Autoridade humana"
+        ]
+      },
+      {
+        "row": 1,
+        "col": 0,
+        "x": 42,
+        "y": 136,
+        "width": 636,
+        "height": 70,
+        "lines": [
+          "Coordenação"
+        ]
+      },
+      {
+        "row": 2,
+        "col": 0,
+        "x": 42,
+        "y": 248,
+        "width": 636,
+        "height": 70,
+        "lines": [
+          "Pessoas e agentes especializados"
+        ]
+      },
+      {
+        "row": 3,
+        "col": 0,
+        "x": 42,
+        "y": 360,
+        "width": 636,
+        "height": 70,
+        "lines": [
+          "Processos"
+        ]
+      },
+      {
+        "row": 4,
+        "col": 0,
+        "x": 42,
+        "y": 472,
+        "width": 636,
+        "height": 70,
+        "lines": [
+          "Sistemas e dados"
+        ]
+      },
+      {
+        "row": 5,
+        "col": 0,
+        "x": 42,
+        "y": 584,
+        "width": 636,
+        "height": 70,
+        "lines": [
+          "Clientes, fornecedores e ambiente"
+        ]
+      }
+    ],
+    "edges": [],
+    "feedbackEdge": null,
+    "source": "Elaboração editorial a partir do framework e dos cenários de Sérgio Monteiro.",
+    "rights": "Conteúdo do autor; desenho AtlasHub Editions. Homologação final pendente.",
+    "status": "REVIEW",
+    "alt": "Camadas da arquitetura operacional. Camadas de leitura da organização. O ambiente gera sinais e recebe os efeitos da operação; o desenho não substitui um mapa detalhado de dependências. O arranjo mostra camadas e funções; não atribui autoridade de agentes sobre pessoas."
+  },
+  {
+    "file": "capitulo-10-10.svg",
+    "title": "Autoridade, ação e exceções",
+    "rows": [
+      [
+        "Política e autoridade humana"
+      ],
+      [
+        "Agente verifica condições"
+      ],
+      [
+        "Ação autorizada",
+        "Exceção: responsável humano"
+      ],
+      [
+        "Resultado observado e registrado"
+      ]
+    ],
+    "caption": "A ação regular segue a política; uma exceção deve chegar ao responsável antes de exceder a autoridade concedida.",
+    "number": 10,
+    "chapter": "capitulo-10",
+    "width": 720,
+    "height": 454,
+    "boxes": [
+      {
+        "row": 0,
+        "col": 0,
+        "x": 42,
+        "y": 24,
+        "width": 636,
+        "height": 70,
+        "lines": [
+          "Política e autoridade humana"
+        ]
+      },
+      {
+        "row": 1,
+        "col": 0,
+        "x": 42,
+        "y": 136,
+        "width": 636,
+        "height": 70,
+        "lines": [
+          "Agente verifica condições"
+        ]
+      },
+      {
+        "row": 2,
+        "col": 0,
+        "x": 42,
+        "y": 248,
+        "width": 308,
+        "height": 70,
+        "lines": [
+          "Ação autorizada"
+        ]
+      },
+      {
+        "row": 2,
+        "col": 1,
+        "x": 370,
+        "y": 248,
+        "width": 308,
+        "height": 70,
+        "lines": [
+          "Exceção: responsável humano"
+        ]
+      },
+      {
+        "row": 3,
+        "col": 0,
+        "x": 42,
+        "y": 360,
+        "width": 636,
+        "height": 70,
+        "lines": [
+          "Resultado observado e registrado"
+        ]
+      }
+    ],
+    "edges": [
+      {
+        "x1": 360,
+        "y1": 94,
+        "x2": 360,
+        "y2": 136
+      },
+      {
+        "x1": 360,
+        "y1": 206,
+        "x2": 196,
+        "y2": 248
+      },
+      {
+        "x1": 360,
+        "y1": 206,
+        "x2": 524,
+        "y2": 248
+      },
+      {
+        "x1": 196,
+        "y1": 318,
+        "x2": 360,
+        "y2": 360
+      },
+      {
+        "x1": 524,
+        "y1": 318,
+        "x2": 360,
+        "y2": 360
+      }
+    ],
+    "feedbackEdge": null,
+    "source": "Elaboração editorial a partir do framework e dos cenários de Sérgio Monteiro.",
+    "rights": "Conteúdo do autor; desenho AtlasHub Editions. Homologação final pendente.",
+    "status": "REVIEW",
+    "alt": "Autoridade, ação e exceções. A ação regular segue a política; uma exceção deve chegar ao responsável antes de exceder a autoridade concedida."
+  },
+  {
+    "file": "capitulo-10-11.svg",
+    "title": "Coordenação transversal de uma rede",
+    "rows": [
+      [
+        "Direção"
+      ],
+      [
+        "Coordenação de operações"
+      ],
+      [
+        "Estoque e compras",
+        "Atendimento",
+        "Informação de gestão"
+      ],
+      [
+        "Lojas 1 a 10"
+      ],
+      [
+        "PDV, ERP, CRM e financeiro"
+      ]
+    ],
+    "caption": "As lojas compartilham capacidade transversal. Sistemas fornecem dados e recebem ações autorizadas; a direção recebe resultados e exceções. O arranjo mostra camadas e funções; não atribui autoridade de agentes sobre pessoas.",
+    "noArrows": true,
+    "number": 11,
+    "chapter": "capitulo-10",
+    "width": 720,
+    "height": 566,
+    "boxes": [
+      {
+        "row": 0,
+        "col": 0,
+        "x": 42,
+        "y": 24,
+        "width": 636,
+        "height": 70,
+        "lines": [
+          "Direção"
+        ]
+      },
+      {
+        "row": 1,
+        "col": 0,
+        "x": 42,
+        "y": 136,
+        "width": 636,
+        "height": 70,
+        "lines": [
+          "Coordenação de operações"
+        ]
+      },
+      {
+        "row": 2,
+        "col": 0,
+        "x": 42,
+        "y": 248,
+        "width": 198.66666666666666,
+        "height": 70,
+        "lines": [
+          "Estoque e compras"
+        ]
+      },
+      {
+        "row": 2,
+        "col": 1,
+        "x": 260.66666666666663,
+        "y": 248,
+        "width": 198.66666666666666,
+        "height": 70,
+        "lines": [
+          "Atendimento"
+        ]
+      },
+      {
+        "row": 2,
+        "col": 2,
+        "x": 479.3333333333333,
+        "y": 248,
+        "width": 198.66666666666666,
+        "height": 70,
+        "lines": [
+          "Informação de gestão"
+        ]
+      },
+      {
+        "row": 3,
+        "col": 0,
+        "x": 42,
+        "y": 360,
+        "width": 636,
+        "height": 70,
+        "lines": [
+          "Lojas 1 a 10"
+        ]
+      },
+      {
+        "row": 4,
+        "col": 0,
+        "x": 42,
+        "y": 472,
+        "width": 636,
+        "height": 70,
+        "lines": [
+          "PDV, ERP, CRM e financeiro"
+        ]
+      }
+    ],
+    "edges": [],
+    "feedbackEdge": null,
+    "source": "Elaboração editorial a partir do framework e dos cenários de Sérgio Monteiro.",
+    "rights": "Conteúdo do autor; desenho AtlasHub Editions. Homologação final pendente.",
+    "status": "REVIEW",
+    "alt": "Coordenação transversal de uma rede. As lojas compartilham capacidade transversal. Sistemas fornecem dados e recebem ações autorizadas; a direção recebe resultados e exceções. O arranjo mostra camadas e funções; não atribui autoridade de agentes sobre pessoas."
+  },
+  {
+    "file": "capitulo-11-12.svg",
+    "title": "Especialização paralela e síntese",
+    "rows": [
+      [
+        "Sinal de mercado"
+      ],
+      [
+        "Coordenação comercial"
+      ],
+      [
+        "Pesquisa e preços",
+        "Logística e pagamentos",
+        "Conteúdo, atendimento e conformidade"
+      ],
+      [
+        "Síntese de evidências e opções"
+      ],
+      [
+        "Decisão humana"
+      ]
+    ],
+    "caption": "A coordenação distribui análises especializadas e reúne conclusões para a decisão. Os grupos condensam funções, não eliminam suas responsabilidades.",
+    "number": 12,
+    "chapter": "capitulo-11",
+    "width": 720,
+    "height": 566,
+    "boxes": [
+      {
+        "row": 0,
+        "col": 0,
+        "x": 42,
+        "y": 24,
+        "width": 636,
+        "height": 70,
+        "lines": [
+          "Sinal de mercado"
+        ]
+      },
+      {
+        "row": 1,
+        "col": 0,
+        "x": 42,
+        "y": 136,
+        "width": 636,
+        "height": 70,
+        "lines": [
+          "Coordenação comercial"
+        ]
+      },
+      {
+        "row": 2,
+        "col": 0,
+        "x": 42,
+        "y": 248,
+        "width": 198.66666666666666,
+        "height": 70,
+        "lines": [
+          "Pesquisa e preços"
+        ]
+      },
+      {
+        "row": 2,
+        "col": 1,
+        "x": 260.66666666666663,
+        "y": 248,
+        "width": 198.66666666666666,
+        "height": 70,
+        "lines": [
+          "Logística e",
+          "pagamentos"
+        ]
+      },
+      {
+        "row": 2,
+        "col": 2,
+        "x": 479.3333333333333,
+        "y": 248,
+        "width": 198.66666666666666,
+        "height": 70,
+        "lines": [
+          "Conteúdo, atendimento",
+          "e conformidade"
+        ]
+      },
+      {
+        "row": 3,
+        "col": 0,
+        "x": 42,
+        "y": 360,
+        "width": 636,
+        "height": 70,
+        "lines": [
+          "Síntese de evidências e opções"
+        ]
+      },
+      {
+        "row": 4,
+        "col": 0,
+        "x": 42,
+        "y": 472,
+        "width": 636,
+        "height": 70,
+        "lines": [
+          "Decisão humana"
+        ]
+      }
+    ],
+    "edges": [
+      {
+        "x1": 360,
+        "y1": 94,
+        "x2": 360,
+        "y2": 136
+      },
+      {
+        "x1": 360,
+        "y1": 206,
+        "x2": 141.33333333333331,
+        "y2": 248
+      },
+      {
+        "x1": 360,
+        "y1": 206,
+        "x2": 359.99999999999994,
+        "y2": 248
+      },
+      {
+        "x1": 360,
+        "y1": 206,
+        "x2": 578.6666666666666,
+        "y2": 248
+      },
+      {
+        "x1": 141.33333333333331,
+        "y1": 318,
+        "x2": 360,
+        "y2": 360
+      },
+      {
+        "x1": 359.99999999999994,
+        "y1": 318,
+        "x2": 360,
+        "y2": 360
+      },
+      {
+        "x1": 578.6666666666666,
+        "y1": 318,
+        "x2": 360,
+        "y2": 360
+      },
+      {
+        "x1": 360,
+        "y1": 430,
+        "x2": 360,
+        "y2": 472
+      }
+    ],
+    "feedbackEdge": null,
+    "source": "Elaboração editorial a partir do framework e dos cenários de Sérgio Monteiro.",
+    "rights": "Conteúdo do autor; desenho AtlasHub Editions. Homologação final pendente.",
+    "status": "REVIEW",
+    "alt": "Especialização paralela e síntese. A coordenação distribui análises especializadas e reúne conclusões para a decisão. Os grupos condensam funções, não eliminam suas responsabilidades."
+  },
+  {
+    "file": "capitulo-11-13.svg",
+    "title": "Dependências na preparação de uma oferta",
+    "rows": [
+      [
+        "Dados de mercado",
+        "Custos logísticos"
+      ],
+      [
+        "Precificação"
+      ],
+      [
+        "Oferta"
+      ],
+      [
+        "Conteúdo",
+        "Atendimento"
+      ]
+    ],
+    "caption": "Conteúdo e atendimento dependem de uma oferta consistente; a precificação precisa considerar o mercado e o custo de servir.",
+    "number": 13,
+    "chapter": "capitulo-11",
+    "width": 720,
+    "height": 454,
+    "boxes": [
+      {
+        "row": 0,
+        "col": 0,
+        "x": 42,
+        "y": 24,
+        "width": 308,
+        "height": 70,
+        "lines": [
+          "Dados de mercado"
+        ]
+      },
+      {
+        "row": 0,
+        "col": 1,
+        "x": 370,
+        "y": 24,
+        "width": 308,
+        "height": 70,
+        "lines": [
+          "Custos logísticos"
+        ]
+      },
+      {
+        "row": 1,
+        "col": 0,
+        "x": 42,
+        "y": 136,
+        "width": 636,
+        "height": 70,
+        "lines": [
+          "Precificação"
+        ]
+      },
+      {
+        "row": 2,
+        "col": 0,
+        "x": 42,
+        "y": 248,
+        "width": 636,
+        "height": 70,
+        "lines": [
+          "Oferta"
+        ]
+      },
+      {
+        "row": 3,
+        "col": 0,
+        "x": 42,
+        "y": 360,
+        "width": 308,
+        "height": 70,
+        "lines": [
+          "Conteúdo"
+        ]
+      },
+      {
+        "row": 3,
+        "col": 1,
+        "x": 370,
+        "y": 360,
+        "width": 308,
+        "height": 70,
+        "lines": [
+          "Atendimento"
+        ]
+      }
+    ],
+    "edges": [
+      {
+        "x1": 196,
+        "y1": 94,
+        "x2": 360,
+        "y2": 136
+      },
+      {
+        "x1": 524,
+        "y1": 94,
+        "x2": 360,
+        "y2": 136
+      },
+      {
+        "x1": 360,
+        "y1": 206,
+        "x2": 360,
+        "y2": 248
+      },
+      {
+        "x1": 360,
+        "y1": 318,
+        "x2": 196,
+        "y2": 360
+      },
+      {
+        "x1": 360,
+        "y1": 318,
+        "x2": 524,
+        "y2": 360
+      }
+    ],
+    "feedbackEdge": null,
+    "source": "Elaboração editorial a partir do framework e dos cenários de Sérgio Monteiro.",
+    "rights": "Conteúdo do autor; desenho AtlasHub Editions. Homologação final pendente.",
+    "status": "REVIEW",
+    "alt": "Dependências na preparação de uma oferta. Conteúdo e atendimento dependem de uma oferta consistente; a precificação precisa considerar o mercado e o custo de servir."
+  },
+  {
+    "file": "capitulo-12-14.svg",
+    "title": "Mapa operacional do supermercado",
+    "rows": [
+      [
+        "Proprietário e direção"
+      ],
+      [
+        "Coordenação da loja"
+      ],
+      [
+        "Estoque e compras",
+        "Promoção e atendimento",
+        "Conciliação financeira"
+      ],
+      [
+        "ERP e PDV",
+        "WhatsApp e entregas",
+        "Financeiro"
+      ],
+      [
+        "Equipe da loja e tratamento de exceções"
+      ]
+    ],
+    "caption": "Cenário didático. Os fluxos regulares são coordenados; divergências e decisões sensíveis retornam ao responsável humano. O arranjo mostra camadas e funções; não atribui autoridade de agentes sobre pessoas.",
+    "noArrows": true,
+    "number": 14,
+    "chapter": "capitulo-12",
+    "width": 720,
+    "height": 566,
+    "boxes": [
+      {
+        "row": 0,
+        "col": 0,
+        "x": 42,
+        "y": 24,
+        "width": 636,
+        "height": 70,
+        "lines": [
+          "Proprietário e direção"
+        ]
+      },
+      {
+        "row": 1,
+        "col": 0,
+        "x": 42,
+        "y": 136,
+        "width": 636,
+        "height": 70,
+        "lines": [
+          "Coordenação da loja"
+        ]
+      },
+      {
+        "row": 2,
+        "col": 0,
+        "x": 42,
+        "y": 248,
+        "width": 198.66666666666666,
+        "height": 70,
+        "lines": [
+          "Estoque e compras"
+        ]
+      },
+      {
+        "row": 2,
+        "col": 1,
+        "x": 260.66666666666663,
+        "y": 248,
+        "width": 198.66666666666666,
+        "height": 70,
+        "lines": [
+          "Promoção e",
+          "atendimento"
+        ]
+      },
+      {
+        "row": 2,
+        "col": 2,
+        "x": 479.3333333333333,
+        "y": 248,
+        "width": 198.66666666666666,
+        "height": 70,
+        "lines": [
+          "Conciliação",
+          "financeira"
+        ]
+      },
+      {
+        "row": 3,
+        "col": 0,
+        "x": 42,
+        "y": 360,
+        "width": 198.66666666666666,
+        "height": 70,
+        "lines": [
+          "ERP e PDV"
+        ]
+      },
+      {
+        "row": 3,
+        "col": 1,
+        "x": 260.66666666666663,
+        "y": 360,
+        "width": 198.66666666666666,
+        "height": 70,
+        "lines": [
+          "WhatsApp e entregas"
+        ]
+      },
+      {
+        "row": 3,
+        "col": 2,
+        "x": 479.3333333333333,
+        "y": 360,
+        "width": 198.66666666666666,
+        "height": 70,
+        "lines": [
+          "Financeiro"
+        ]
+      },
+      {
+        "row": 4,
+        "col": 0,
+        "x": 42,
+        "y": 472,
+        "width": 636,
+        "height": 70,
+        "lines": [
+          "Equipe da loja e tratamento de exceções"
+        ]
+      }
+    ],
+    "edges": [],
+    "feedbackEdge": null,
+    "source": "Elaboração editorial a partir do framework e dos cenários de Sérgio Monteiro.",
+    "rights": "Conteúdo do autor; desenho AtlasHub Editions. Homologação final pendente.",
+    "status": "REVIEW",
+    "alt": "Mapa operacional do supermercado. Cenário didático. Os fluxos regulares são coordenados; divergências e decisões sensíveis retornam ao responsável humano. O arranjo mostra camadas e funções; não atribui autoridade de agentes sobre pessoas."
+  },
+  {
+    "file": "capitulo-13-15.svg",
+    "title": "Autonomia local e inteligência transversal",
+    "rows": [
+      [
+        "Direção e responsáveis humanos"
+      ],
+      [
+        "Coordenação da rede"
+      ],
+      [
+        "Estoque e compras",
+        "Campanhas e atendimento",
+        "Gestão e exceções"
+      ],
+      [
+        "Lojas 1 a 10"
+      ],
+      [
+        "ERP, PDV, CRM e comércio eletrônico"
+      ]
+    ],
+    "caption": "Cenário didático de uma rede de farmácias. As funções operacionais não transferem a responsabilidade profissional farmacêutica para os agentes. O arranjo mostra camadas e funções; não atribui autoridade de agentes sobre pessoas.",
+    "noArrows": true,
+    "number": 15,
+    "chapter": "capitulo-13",
+    "width": 720,
+    "height": 566,
+    "boxes": [
+      {
+        "row": 0,
+        "col": 0,
+        "x": 42,
+        "y": 24,
+        "width": 636,
+        "height": 70,
+        "lines": [
+          "Direção e responsáveis humanos"
+        ]
+      },
+      {
+        "row": 1,
+        "col": 0,
+        "x": 42,
+        "y": 136,
+        "width": 636,
+        "height": 70,
+        "lines": [
+          "Coordenação da rede"
+        ]
+      },
+      {
+        "row": 2,
+        "col": 0,
+        "x": 42,
+        "y": 248,
+        "width": 198.66666666666666,
+        "height": 70,
+        "lines": [
+          "Estoque e compras"
+        ]
+      },
+      {
+        "row": 2,
+        "col": 1,
+        "x": 260.66666666666663,
+        "y": 248,
+        "width": 198.66666666666666,
+        "height": 70,
+        "lines": [
+          "Campanhas e",
+          "atendimento"
+        ]
+      },
+      {
+        "row": 2,
+        "col": 2,
+        "x": 479.3333333333333,
+        "y": 248,
+        "width": 198.66666666666666,
+        "height": 70,
+        "lines": [
+          "Gestão e exceções"
+        ]
+      },
+      {
+        "row": 3,
+        "col": 0,
+        "x": 42,
+        "y": 360,
+        "width": 636,
+        "height": 70,
+        "lines": [
+          "Lojas 1 a 10"
+        ]
+      },
+      {
+        "row": 4,
+        "col": 0,
+        "x": 42,
+        "y": 472,
+        "width": 636,
+        "height": 70,
+        "lines": [
+          "ERP, PDV, CRM e comércio eletrônico"
+        ]
+      }
+    ],
+    "edges": [],
+    "feedbackEdge": null,
+    "source": "Elaboração editorial a partir do framework e dos cenários de Sérgio Monteiro.",
+    "rights": "Conteúdo do autor; desenho AtlasHub Editions. Homologação final pendente.",
+    "status": "REVIEW",
+    "alt": "Autonomia local e inteligência transversal. Cenário didático de uma rede de farmácias. As funções operacionais não transferem a responsabilidade profissional farmacêutica para os agentes. O arranjo mostra camadas e funções; não atribui autoridade de agentes sobre pessoas."
+  },
+  {
+    "file": "capitulo-13-16.svg",
+    "title": "Fronteira entre atendimento e orientação clínica",
+    "rows": [
+      [
+        "Contato e triagem"
+      ],
+      [
+        "Tema administrativo confirmado",
+        "Tema clínico ou dúvida"
+      ],
+      [
+        "Agente dentro da política",
+        "Farmacêutico responsável"
+      ],
+      [
+        "Registrar; novo tema clínico exige escalamento"
+      ]
+    ],
+    "caption": "A incerteza sobre a natureza do pedido já é motivo para encaminhamento profissional. A triagem deve ser reavaliada durante a conversa.",
+    "number": 16,
+    "chapter": "capitulo-13",
+    "width": 720,
+    "height": 454,
+    "boxes": [
+      {
+        "row": 0,
+        "col": 0,
+        "x": 42,
+        "y": 24,
+        "width": 636,
+        "height": 70,
+        "lines": [
+          "Contato e triagem"
+        ]
+      },
+      {
+        "row": 1,
+        "col": 0,
+        "x": 42,
+        "y": 136,
+        "width": 308,
+        "height": 70,
+        "lines": [
+          "Tema administrativo confirmado"
+        ]
+      },
+      {
+        "row": 1,
+        "col": 1,
+        "x": 370,
+        "y": 136,
+        "width": 308,
+        "height": 70,
+        "lines": [
+          "Tema clínico ou dúvida"
+        ]
+      },
+      {
+        "row": 2,
+        "col": 0,
+        "x": 42,
+        "y": 248,
+        "width": 308,
+        "height": 70,
+        "lines": [
+          "Agente dentro da política"
+        ]
+      },
+      {
+        "row": 2,
+        "col": 1,
+        "x": 370,
+        "y": 248,
+        "width": 308,
+        "height": 70,
+        "lines": [
+          "Farmacêutico responsável"
+        ]
+      },
+      {
+        "row": 3,
+        "col": 0,
+        "x": 42,
+        "y": 360,
+        "width": 636,
+        "height": 70,
+        "lines": [
+          "Registrar; novo tema clínico exige escalamento"
+        ]
+      }
+    ],
+    "edges": [
+      {
+        "x1": 360,
+        "y1": 94,
+        "x2": 196,
+        "y2": 136
+      },
+      {
+        "x1": 360,
+        "y1": 94,
+        "x2": 524,
+        "y2": 136
+      },
+      {
+        "x1": 196,
+        "y1": 206,
+        "x2": 196,
+        "y2": 248
+      },
+      {
+        "x1": 524,
+        "y1": 206,
+        "x2": 524,
+        "y2": 248
+      },
+      {
+        "x1": 196,
+        "y1": 318,
+        "x2": 360,
+        "y2": 360
+      },
+      {
+        "x1": 524,
+        "y1": 318,
+        "x2": 360,
+        "y2": 360
+      }
+    ],
+    "feedbackEdge": null,
+    "source": "Elaboração editorial a partir do framework e dos cenários de Sérgio Monteiro.",
+    "rights": "Conteúdo do autor; desenho AtlasHub Editions. Homologação final pendente.",
+    "status": "REVIEW",
+    "alt": "Fronteira entre atendimento e orientação clínica. A incerteza sobre a natureza do pedido já é motivo para encaminhamento profissional. A triagem deve ser reavaliada durante a conversa."
+  },
+  {
+    "file": "capitulo-14-17.svg",
+    "title": "Da procura internacional ao piloto",
+    "rows": [
+      [
+        "Sinal de mercado"
+      ],
+      [
+        "Coordenação comercial"
+      ],
+      [
+        "Pesquisa e cultura",
+        "Logística e finanças",
+        "Risco e conformidade"
+      ],
+      [
+        "Síntese: oportunidade e limites"
+      ],
+      [
+        "Decisão humana sobre o piloto"
+      ]
+    ],
+    "caption": "Cenário composto. A análise paralela prepara uma decisão limitada; não autoriza expansão, compromissos ou pagamentos automaticamente.",
+    "number": 17,
+    "chapter": "capitulo-14",
+    "width": 720,
+    "height": 566,
+    "boxes": [
+      {
+        "row": 0,
+        "col": 0,
+        "x": 42,
+        "y": 24,
+        "width": 636,
+        "height": 70,
+        "lines": [
+          "Sinal de mercado"
+        ]
+      },
+      {
+        "row": 1,
+        "col": 0,
+        "x": 42,
+        "y": 136,
+        "width": 636,
+        "height": 70,
+        "lines": [
+          "Coordenação comercial"
+        ]
+      },
+      {
+        "row": 2,
+        "col": 0,
+        "x": 42,
+        "y": 248,
+        "width": 198.66666666666666,
+        "height": 70,
+        "lines": [
+          "Pesquisa e cultura"
+        ]
+      },
+      {
+        "row": 2,
+        "col": 1,
+        "x": 260.66666666666663,
+        "y": 248,
+        "width": 198.66666666666666,
+        "height": 70,
+        "lines": [
+          "Logística e finanças"
+        ]
+      },
+      {
+        "row": 2,
+        "col": 2,
+        "x": 479.3333333333333,
+        "y": 248,
+        "width": 198.66666666666666,
+        "height": 70,
+        "lines": [
+          "Risco e conformidade"
+        ]
+      },
+      {
+        "row": 3,
+        "col": 0,
+        "x": 42,
+        "y": 360,
+        "width": 636,
+        "height": 70,
+        "lines": [
+          "Síntese: oportunidade e limites"
+        ]
+      },
+      {
+        "row": 4,
+        "col": 0,
+        "x": 42,
+        "y": 472,
+        "width": 636,
+        "height": 70,
+        "lines": [
+          "Decisão humana sobre o piloto"
+        ]
+      }
+    ],
+    "edges": [
+      {
+        "x1": 360,
+        "y1": 94,
+        "x2": 360,
+        "y2": 136
+      },
+      {
+        "x1": 360,
+        "y1": 206,
+        "x2": 141.33333333333331,
+        "y2": 248
+      },
+      {
+        "x1": 360,
+        "y1": 206,
+        "x2": 359.99999999999994,
+        "y2": 248
+      },
+      {
+        "x1": 360,
+        "y1": 206,
+        "x2": 578.6666666666666,
+        "y2": 248
+      },
+      {
+        "x1": 141.33333333333331,
+        "y1": 318,
+        "x2": 360,
+        "y2": 360
+      },
+      {
+        "x1": 359.99999999999994,
+        "y1": 318,
+        "x2": 360,
+        "y2": 360
+      },
+      {
+        "x1": 578.6666666666666,
+        "y1": 318,
+        "x2": 360,
+        "y2": 360
+      },
+      {
+        "x1": 360,
+        "y1": 430,
+        "x2": 360,
+        "y2": 472
+      }
+    ],
+    "feedbackEdge": null,
+    "source": "Elaboração editorial a partir do framework e dos cenários de Sérgio Monteiro.",
+    "rights": "Conteúdo do autor; desenho AtlasHub Editions. Homologação final pendente.",
+    "status": "REVIEW",
+    "alt": "Da procura internacional ao piloto. Cenário composto. A análise paralela prepara uma decisão limitada; não autoriza expansão, compromissos ou pagamentos automaticamente."
+  },
+  {
+    "file": "capitulo-15-18.svg",
+    "title": "A jornada administrativa da clínica",
+    "rows": [
+      [
+        "Interesse e triagem administrativa"
+      ],
+      [
+        "Informação e agendamento"
+      ],
+      [
+        "Confirmação"
+      ],
+      [
+        "Atendimento profissional"
+      ],
+      [
+        "Pós-atendimento e continuidade"
+      ]
+    ],
+    "caption": "A automação apoia a jornada administrativa. Questões clínicas e situações sensíveis são encaminhadas ao profissional competente.",
+    "number": 18,
+    "chapter": "capitulo-15",
+    "width": 720,
+    "height": 566,
+    "boxes": [
+      {
+        "row": 0,
+        "col": 0,
+        "x": 42,
+        "y": 24,
+        "width": 636,
+        "height": 70,
+        "lines": [
+          "Interesse e triagem administrativa"
+        ]
+      },
+      {
+        "row": 1,
+        "col": 0,
+        "x": 42,
+        "y": 136,
+        "width": 636,
+        "height": 70,
+        "lines": [
+          "Informação e agendamento"
+        ]
+      },
+      {
+        "row": 2,
+        "col": 0,
+        "x": 42,
+        "y": 248,
+        "width": 636,
+        "height": 70,
+        "lines": [
+          "Confirmação"
+        ]
+      },
+      {
+        "row": 3,
+        "col": 0,
+        "x": 42,
+        "y": 360,
+        "width": 636,
+        "height": 70,
+        "lines": [
+          "Atendimento profissional"
+        ]
+      },
+      {
+        "row": 4,
+        "col": 0,
+        "x": 42,
+        "y": 472,
+        "width": 636,
+        "height": 70,
+        "lines": [
+          "Pós-atendimento e continuidade"
+        ]
+      }
+    ],
+    "edges": [
+      {
+        "x1": 360,
+        "y1": 94,
+        "x2": 360,
+        "y2": 136
+      },
+      {
+        "x1": 360,
+        "y1": 206,
+        "x2": 360,
+        "y2": 248
+      },
+      {
+        "x1": 360,
+        "y1": 318,
+        "x2": 360,
+        "y2": 360
+      },
+      {
+        "x1": 360,
+        "y1": 430,
+        "x2": 360,
+        "y2": 472
+      }
+    ],
+    "feedbackEdge": null,
+    "source": "Elaboração editorial a partir do framework e dos cenários de Sérgio Monteiro.",
+    "rights": "Conteúdo do autor; desenho AtlasHub Editions. Homologação final pendente.",
+    "status": "REVIEW",
+    "alt": "A jornada administrativa da clínica. A automação apoia a jornada administrativa. Questões clínicas e situações sensíveis são encaminhadas ao profissional competente."
+  },
+  {
+    "file": "capitulo-16-19.svg",
+    "title": "Da mensagem à oportunidade imobiliária",
+    "rows": [
+      [
+        "Canais de entrada e registro no CRM"
+      ],
+      [
+        "Critérios declarados e busca no inventário"
+      ],
+      [
+        "Coordenação comercial"
+      ],
+      [
+        "Profissional comercial",
+        "Agenda e follow-up"
+      ],
+      [
+        "Visita, negociação e documentação"
+      ],
+      [
+        "Fechamento e pós-venda"
+      ]
+    ],
+    "caption": "O contexto acompanha a oportunidade ao longo do processo. Negociação, compromissos e verificações profissionais mantêm responsáveis humanos.",
+    "number": 19,
+    "chapter": "capitulo-16",
+    "width": 720,
+    "height": 678,
+    "boxes": [
+      {
+        "row": 0,
+        "col": 0,
+        "x": 42,
+        "y": 24,
+        "width": 636,
+        "height": 70,
+        "lines": [
+          "Canais de entrada e registro no CRM"
+        ]
+      },
+      {
+        "row": 1,
+        "col": 0,
+        "x": 42,
+        "y": 136,
+        "width": 636,
+        "height": 70,
+        "lines": [
+          "Critérios declarados e busca no inventário"
+        ]
+      },
+      {
+        "row": 2,
+        "col": 0,
+        "x": 42,
+        "y": 248,
+        "width": 636,
+        "height": 70,
+        "lines": [
+          "Coordenação comercial"
+        ]
+      },
+      {
+        "row": 3,
+        "col": 0,
+        "x": 42,
+        "y": 360,
+        "width": 308,
+        "height": 70,
+        "lines": [
+          "Profissional comercial"
+        ]
+      },
+      {
+        "row": 3,
+        "col": 1,
+        "x": 370,
+        "y": 360,
+        "width": 308,
+        "height": 70,
+        "lines": [
+          "Agenda e follow-up"
+        ]
+      },
+      {
+        "row": 4,
+        "col": 0,
+        "x": 42,
+        "y": 472,
+        "width": 636,
+        "height": 70,
+        "lines": [
+          "Visita, negociação e documentação"
+        ]
+      },
+      {
+        "row": 5,
+        "col": 0,
+        "x": 42,
+        "y": 584,
+        "width": 636,
+        "height": 70,
+        "lines": [
+          "Fechamento e pós-venda"
+        ]
+      }
+    ],
+    "edges": [
+      {
+        "x1": 360,
+        "y1": 94,
+        "x2": 360,
+        "y2": 136
+      },
+      {
+        "x1": 360,
+        "y1": 206,
+        "x2": 360,
+        "y2": 248
+      },
+      {
+        "x1": 360,
+        "y1": 318,
+        "x2": 196,
+        "y2": 360
+      },
+      {
+        "x1": 360,
+        "y1": 318,
+        "x2": 524,
+        "y2": 360
+      },
+      {
+        "x1": 196,
+        "y1": 430,
+        "x2": 360,
+        "y2": 472
+      },
+      {
+        "x1": 524,
+        "y1": 430,
+        "x2": 360,
+        "y2": 472
+      },
+      {
+        "x1": 360,
+        "y1": 542,
+        "x2": 360,
+        "y2": 584
+      }
+    ],
+    "feedbackEdge": null,
+    "source": "Elaboração editorial a partir do framework e dos cenários de Sérgio Monteiro.",
+    "rights": "Conteúdo do autor; desenho AtlasHub Editions. Homologação final pendente.",
+    "status": "REVIEW",
+    "alt": "Da mensagem à oportunidade imobiliária. O contexto acompanha a oportunidade ao longo do processo. Negociação, compromissos e verificações profissionais mantêm responsáveis humanos."
+  },
+  {
+    "file": "capitulo-17-20.svg",
+    "title": "Resposta coordenada ao atraso de fornecedor",
+    "rows": [
+      [
+        "Evento do fornecedor"
+      ],
+      [
+        "Coordenação do risco de abastecimento"
+      ],
+      [
+        "Estoque e produção",
+        "Demanda e alternativas",
+        "Transporte e qualidade"
+      ],
+      [
+        "Cenários e opções"
+      ],
+      [
+        "Decisão humana"
+      ]
+    ],
+    "caption": "Cenário industrial composto. As análises são reunidas em opções comparáveis; qualidade e compromissos precisam de validação apropriada.",
+    "number": 20,
+    "chapter": "capitulo-17",
+    "width": 720,
+    "height": 566,
+    "boxes": [
+      {
+        "row": 0,
+        "col": 0,
+        "x": 42,
+        "y": 24,
+        "width": 636,
+        "height": 70,
+        "lines": [
+          "Evento do fornecedor"
+        ]
+      },
+      {
+        "row": 1,
+        "col": 0,
+        "x": 42,
+        "y": 136,
+        "width": 636,
+        "height": 70,
+        "lines": [
+          "Coordenação do risco de abastecimento"
+        ]
+      },
+      {
+        "row": 2,
+        "col": 0,
+        "x": 42,
+        "y": 248,
+        "width": 198.66666666666666,
+        "height": 70,
+        "lines": [
+          "Estoque e produção"
+        ]
+      },
+      {
+        "row": 2,
+        "col": 1,
+        "x": 260.66666666666663,
+        "y": 248,
+        "width": 198.66666666666666,
+        "height": 70,
+        "lines": [
+          "Demanda e",
+          "alternativas"
+        ]
+      },
+      {
+        "row": 2,
+        "col": 2,
+        "x": 479.3333333333333,
+        "y": 248,
+        "width": 198.66666666666666,
+        "height": 70,
+        "lines": [
+          "Transporte e",
+          "qualidade"
+        ]
+      },
+      {
+        "row": 3,
+        "col": 0,
+        "x": 42,
+        "y": 360,
+        "width": 636,
+        "height": 70,
+        "lines": [
+          "Cenários e opções"
+        ]
+      },
+      {
+        "row": 4,
+        "col": 0,
+        "x": 42,
+        "y": 472,
+        "width": 636,
+        "height": 70,
+        "lines": [
+          "Decisão humana"
+        ]
+      }
+    ],
+    "edges": [
+      {
+        "x1": 360,
+        "y1": 94,
+        "x2": 360,
+        "y2": 136
+      },
+      {
+        "x1": 360,
+        "y1": 206,
+        "x2": 141.33333333333331,
+        "y2": 248
+      },
+      {
+        "x1": 360,
+        "y1": 206,
+        "x2": 359.99999999999994,
+        "y2": 248
+      },
+      {
+        "x1": 360,
+        "y1": 206,
+        "x2": 578.6666666666666,
+        "y2": 248
+      },
+      {
+        "x1": 141.33333333333331,
+        "y1": 318,
+        "x2": 360,
+        "y2": 360
+      },
+      {
+        "x1": 359.99999999999994,
+        "y1": 318,
+        "x2": 360,
+        "y2": 360
+      },
+      {
+        "x1": 578.6666666666666,
+        "y1": 318,
+        "x2": 360,
+        "y2": 360
+      },
+      {
+        "x1": 360,
+        "y1": 430,
+        "x2": 360,
+        "y2": 472
+      }
+    ],
+    "feedbackEdge": null,
+    "source": "Elaboração editorial a partir do framework e dos cenários de Sérgio Monteiro.",
+    "rights": "Conteúdo do autor; desenho AtlasHub Editions. Homologação final pendente.",
+    "status": "REVIEW",
+    "alt": "Resposta coordenada ao atraso de fornecedor. Cenário industrial composto. As análises são reunidas em opções comparáveis; qualidade e compromissos precisam de validação apropriada."
+  },
+  {
+    "file": "capitulo-17-21.svg",
+    "title": "Três latências operacionais",
+    "rows": [
+      [
+        "Evento real"
+      ],
+      [
+        "Dado disponível: latência dos dados"
+      ],
+      [
+        "Decisão: latência da decisão"
+      ],
+      [
+        "Ação: latência da execução"
+      ]
+    ],
+    "caption": "Medir separadamente o tempo para disponibilizar o dado, decidir e executar ajuda a localizar o gargalo.",
+    "number": 21,
+    "chapter": "capitulo-17",
+    "width": 720,
+    "height": 454,
+    "boxes": [
+      {
+        "row": 0,
+        "col": 0,
+        "x": 42,
+        "y": 24,
+        "width": 636,
+        "height": 70,
+        "lines": [
+          "Evento real"
+        ]
+      },
+      {
+        "row": 1,
+        "col": 0,
+        "x": 42,
+        "y": 136,
+        "width": 636,
+        "height": 70,
+        "lines": [
+          "Dado disponível: latência dos dados"
+        ]
+      },
+      {
+        "row": 2,
+        "col": 0,
+        "x": 42,
+        "y": 248,
+        "width": 636,
+        "height": 70,
+        "lines": [
+          "Decisão: latência da decisão"
+        ]
+      },
+      {
+        "row": 3,
+        "col": 0,
+        "x": 42,
+        "y": 360,
+        "width": 636,
+        "height": 70,
+        "lines": [
+          "Ação: latência da execução"
+        ]
+      }
+    ],
+    "edges": [
+      {
+        "x1": 360,
+        "y1": 94,
+        "x2": 360,
+        "y2": 136
+      },
+      {
+        "x1": 360,
+        "y1": 206,
+        "x2": 360,
+        "y2": 248
+      },
+      {
+        "x1": 360,
+        "y1": 318,
+        "x2": 360,
+        "y2": 360
+      }
+    ],
+    "feedbackEdge": null,
+    "source": "Elaboração editorial a partir do framework e dos cenários de Sérgio Monteiro.",
+    "rights": "Conteúdo do autor; desenho AtlasHub Editions. Homologação final pendente.",
+    "status": "REVIEW",
+    "alt": "Três latências operacionais. Medir separadamente o tempo para disponibilizar o dado, decidir e executar ajuda a localizar o gargalo."
+  },
+  {
+    "file": "capitulo-18-22.svg",
+    "title": "A equação como teste de valor",
+    "rows": [
+      [
+        "Receita e custos",
+        "Velocidade e controle"
+      ],
+      [
+        "Resultado empresarial"
+      ],
+      [
+        "Valor sustentável sob risco aceitável"
+      ]
+    ],
+    "caption": "As setas da equação expressam objetivos de melhoria, não resultados garantidos nem uma identidade matemática de retorno.",
+    "number": 22,
+    "chapter": "capitulo-18",
+    "width": 720,
+    "height": 342,
+    "boxes": [
+      {
+        "row": 0,
+        "col": 0,
+        "x": 42,
+        "y": 24,
+        "width": 308,
+        "height": 70,
+        "lines": [
+          "Receita e custos"
+        ]
+      },
+      {
+        "row": 0,
+        "col": 1,
+        "x": 370,
+        "y": 24,
+        "width": 308,
+        "height": 70,
+        "lines": [
+          "Velocidade e controle"
+        ]
+      },
+      {
+        "row": 1,
+        "col": 0,
+        "x": 42,
+        "y": 136,
+        "width": 636,
+        "height": 70,
+        "lines": [
+          "Resultado empresarial"
+        ]
+      },
+      {
+        "row": 2,
+        "col": 0,
+        "x": 42,
+        "y": 248,
+        "width": 636,
+        "height": 70,
+        "lines": [
+          "Valor sustentável sob risco aceitável"
+        ]
+      }
+    ],
+    "edges": [
+      {
+        "x1": 196,
+        "y1": 94,
+        "x2": 360,
+        "y2": 136
+      },
+      {
+        "x1": 524,
+        "y1": 94,
+        "x2": 360,
+        "y2": 136
+      },
+      {
+        "x1": 360,
+        "y1": 206,
+        "x2": 360,
+        "y2": 248
+      }
+    ],
+    "feedbackEdge": null,
+    "source": "Elaboração editorial a partir do framework e dos cenários de Sérgio Monteiro.",
+    "rights": "Conteúdo do autor; desenho AtlasHub Editions. Homologação final pendente.",
+    "status": "REVIEW",
+    "alt": "A equação como teste de valor. As setas da equação expressam objetivos de melhoria, não resultados garantidos nem uma identidade matemática de retorno."
+  },
+  {
+    "file": "capitulo-18-23.svg",
+    "title": "Do evento à ação",
+    "rows": [
+      [
+        "Evento"
+      ],
+      [
+        "Dado"
+      ],
+      [
+        "Decisão"
+      ],
+      [
+        "Ação"
+      ]
+    ],
+    "caption": "A velocidade de resposta depende do percurso completo. Acelerar uma etapa pode não reduzir o tempo total.",
+    "number": 23,
+    "chapter": "capitulo-18",
+    "width": 720,
+    "height": 454,
+    "boxes": [
+      {
+        "row": 0,
+        "col": 0,
+        "x": 42,
+        "y": 24,
+        "width": 636,
+        "height": 70,
+        "lines": [
+          "Evento"
+        ]
+      },
+      {
+        "row": 1,
+        "col": 0,
+        "x": 42,
+        "y": 136,
+        "width": 636,
+        "height": 70,
+        "lines": [
+          "Dado"
+        ]
+      },
+      {
+        "row": 2,
+        "col": 0,
+        "x": 42,
+        "y": 248,
+        "width": 636,
+        "height": 70,
+        "lines": [
+          "Decisão"
+        ]
+      },
+      {
+        "row": 3,
+        "col": 0,
+        "x": 42,
+        "y": 360,
+        "width": 636,
+        "height": 70,
+        "lines": [
+          "Ação"
+        ]
+      }
+    ],
+    "edges": [
+      {
+        "x1": 360,
+        "y1": 94,
+        "x2": 360,
+        "y2": 136
+      },
+      {
+        "x1": 360,
+        "y1": 206,
+        "x2": 360,
+        "y2": 248
+      },
+      {
+        "x1": 360,
+        "y1": 318,
+        "x2": 360,
+        "y2": 360
+      }
+    ],
+    "feedbackEdge": null,
+    "source": "Elaboração editorial a partir do framework e dos cenários de Sérgio Monteiro.",
+    "rights": "Conteúdo do autor; desenho AtlasHub Editions. Homologação final pendente.",
+    "status": "REVIEW",
+    "alt": "Do evento à ação. A velocidade de resposta depende do percurso completo. Acelerar uma etapa pode não reduzir o tempo total."
+  },
+  {
+    "file": "capitulo-18-24.svg",
+    "title": "Hipótese de geração de valor no follow-up",
+    "rows": [
+      [
+        "Agente amplia cobertura de follow-up"
+      ],
+      [
+        "Hipótese: mais respostas e reuniões"
+      ],
+      [
+        "Hipótese: conversão incremental"
+      ],
+      [
+        "Receita e margem atribuíveis"
+      ]
+    ],
+    "caption": "Cadeia causal proposta para teste. Cada ligação exige medição; mais mensagens não demonstram, por si, aumento de receita.",
+    "number": 24,
+    "chapter": "capitulo-18",
+    "width": 720,
+    "height": 454,
+    "boxes": [
+      {
+        "row": 0,
+        "col": 0,
+        "x": 42,
+        "y": 24,
+        "width": 636,
+        "height": 70,
+        "lines": [
+          "Agente amplia cobertura de follow-up"
+        ]
+      },
+      {
+        "row": 1,
+        "col": 0,
+        "x": 42,
+        "y": 136,
+        "width": 636,
+        "height": 70,
+        "lines": [
+          "Hipótese: mais respostas e reuniões"
+        ]
+      },
+      {
+        "row": 2,
+        "col": 0,
+        "x": 42,
+        "y": 248,
+        "width": 636,
+        "height": 70,
+        "lines": [
+          "Hipótese: conversão incremental"
+        ]
+      },
+      {
+        "row": 3,
+        "col": 0,
+        "x": 42,
+        "y": 360,
+        "width": 636,
+        "height": 70,
+        "lines": [
+          "Receita e margem atribuíveis"
+        ]
+      }
+    ],
+    "edges": [
+      {
+        "x1": 360,
+        "y1": 94,
+        "x2": 360,
+        "y2": 136
+      },
+      {
+        "x1": 360,
+        "y1": 206,
+        "x2": 360,
+        "y2": 248
+      },
+      {
+        "x1": 360,
+        "y1": 318,
+        "x2": 360,
+        "y2": 360
+      }
+    ],
+    "feedbackEdge": null,
+    "source": "Elaboração editorial a partir do framework e dos cenários de Sérgio Monteiro.",
+    "rights": "Conteúdo do autor; desenho AtlasHub Editions. Homologação final pendente.",
+    "status": "REVIEW",
+    "alt": "Hipótese de geração de valor no follow-up. Cadeia causal proposta para teste. Cada ligação exige medição; mais mensagens não demonstram, por si, aumento de receita."
+  },
+  {
+    "file": "capitulo-20-25.svg",
+    "title": "Impacto do erro e reversibilidade",
+    "kind": "matrix",
+    "rows": [
+      [
+        "Alto impacto · difícil reverter",
+        "Alto impacto · fácil reverter"
+      ],
+      [
+        "Baixo impacto · difícil reverter",
+        "Baixo impacto · fácil reverter"
+      ]
+    ],
+    "caption": "A reversibilidade não elimina o risco. Alto impacto exige supervisão proporcional; casos de baixo impacto e alta reversibilidade tendem a ser candidatos melhores à automação.",
+    "number": 25,
+    "chapter": "capitulo-20",
+    "width": 720,
+    "height": 230,
+    "boxes": [
+      {
+        "row": 0,
+        "col": 0,
+        "x": 42,
+        "y": 24,
+        "width": 308,
+        "height": 70,
+        "lines": [
+          "Alto impacto · difícil reverter"
+        ]
+      },
+      {
+        "row": 0,
+        "col": 1,
+        "x": 370,
+        "y": 24,
+        "width": 308,
+        "height": 70,
+        "lines": [
+          "Alto impacto · fácil reverter"
+        ]
+      },
+      {
+        "row": 1,
+        "col": 0,
+        "x": 42,
+        "y": 136,
+        "width": 308,
+        "height": 70,
+        "lines": [
+          "Baixo impacto · difícil reverter"
+        ]
+      },
+      {
+        "row": 1,
+        "col": 1,
+        "x": 370,
+        "y": 136,
+        "width": 308,
+        "height": 70,
+        "lines": [
+          "Baixo impacto · fácil reverter"
+        ]
+      }
+    ],
+    "edges": [],
+    "feedbackEdge": null,
+    "source": "Elaboração editorial a partir do framework e dos cenários de Sérgio Monteiro.",
+    "rights": "Conteúdo do autor; desenho AtlasHub Editions. Homologação final pendente.",
+    "status": "REVIEW",
+    "alt": "Impacto do erro e reversibilidade. A reversibilidade não elimina o risco. Alto impacto exige supervisão proporcional; casos de baixo impacto e alta reversibilidade tendem a ser candidatos melhores à automação."
+  },
+  {
+    "file": "capitulo-20-26.svg",
+    "title": "Gate para decisões de alto impacto",
+    "rows": [
+      [
+        "Ação proposta e avaliação de impacto"
+      ],
+      [
+        "Baixo impacto: política aplicável",
+        "Alto impacto: evidência e decisão humana"
+      ],
+      [
+        "Registro da decisão"
+      ],
+      [
+        "Execução autorizada"
+      ]
+    ],
+    "caption": "A avaliação define a rota. Decisões de alto impacto exigem evidência, autoridade humana e registro antes da execução.",
+    "number": 26,
+    "chapter": "capitulo-20",
+    "width": 720,
+    "height": 454,
+    "boxes": [
+      {
+        "row": 0,
+        "col": 0,
+        "x": 42,
+        "y": 24,
+        "width": 636,
+        "height": 70,
+        "lines": [
+          "Ação proposta e avaliação de impacto"
+        ]
+      },
+      {
+        "row": 1,
+        "col": 0,
+        "x": 42,
+        "y": 136,
+        "width": 308,
+        "height": 70,
+        "lines": [
+          "Baixo impacto: política",
+          "aplicável"
+        ]
+      },
+      {
+        "row": 1,
+        "col": 1,
+        "x": 370,
+        "y": 136,
+        "width": 308,
+        "height": 70,
+        "lines": [
+          "Alto impacto: evidência e",
+          "decisão humana"
+        ]
+      },
+      {
+        "row": 2,
+        "col": 0,
+        "x": 42,
+        "y": 248,
+        "width": 636,
+        "height": 70,
+        "lines": [
+          "Registro da decisão"
+        ]
+      },
+      {
+        "row": 3,
+        "col": 0,
+        "x": 42,
+        "y": 360,
+        "width": 636,
+        "height": 70,
+        "lines": [
+          "Execução autorizada"
+        ]
+      }
+    ],
+    "edges": [
+      {
+        "x1": 360,
+        "y1": 94,
+        "x2": 196,
+        "y2": 136
+      },
+      {
+        "x1": 360,
+        "y1": 94,
+        "x2": 524,
+        "y2": 136
+      },
+      {
+        "x1": 196,
+        "y1": 206,
+        "x2": 360,
+        "y2": 248
+      },
+      {
+        "x1": 524,
+        "y1": 206,
+        "x2": 360,
+        "y2": 248
+      },
+      {
+        "x1": 360,
+        "y1": 318,
+        "x2": 360,
+        "y2": 360
+      }
+    ],
+    "feedbackEdge": null,
+    "source": "Elaboração editorial a partir do framework e dos cenários de Sérgio Monteiro.",
+    "rights": "Conteúdo do autor; desenho AtlasHub Editions. Homologação final pendente.",
+    "status": "REVIEW",
+    "alt": "Gate para decisões de alto impacto. A avaliação define a rota. Decisões de alto impacto exigem evidência, autoridade humana e registro antes da execução."
+  },
+  {
+    "file": "capitulo-20-27.svg",
+    "title": "Escolher como redesenhar o trabalho",
+    "rows": [
+      [
+        "O processo cria valor?"
+      ],
+      [
+        "Não: eliminar ou simplificar",
+        "Sim: avaliar estrutura e risco"
+      ],
+      [
+        "Baixo risco e reversível: automatizar",
+        "Julgamento relevante: aumentar ou preservar"
+      ],
+      [
+        "Condições insuficientes: redesenhar ou adiar"
+      ]
+    ],
+    "noArrows": true,
+    "caption": "Rotas condicionais de decisão, não uma sequência linear. Eliminar, automatizar, aumentar, preservar ou adiar dependem do diagnóstico.",
+    "number": 27,
+    "chapter": "capitulo-20",
+    "width": 720,
+    "height": 454,
+    "boxes": [
+      {
+        "row": 0,
+        "col": 0,
+        "x": 42,
+        "y": 24,
+        "width": 636,
+        "height": 70,
+        "lines": [
+          "O processo cria valor?"
+        ]
+      },
+      {
+        "row": 1,
+        "col": 0,
+        "x": 42,
+        "y": 136,
+        "width": 308,
+        "height": 70,
+        "lines": [
+          "Não: eliminar ou simplificar"
+        ]
+      },
+      {
+        "row": 1,
+        "col": 1,
+        "x": 370,
+        "y": 136,
+        "width": 308,
+        "height": 70,
+        "lines": [
+          "Sim: avaliar estrutura e risco"
+        ]
+      },
+      {
+        "row": 2,
+        "col": 0,
+        "x": 42,
+        "y": 248,
+        "width": 308,
+        "height": 70,
+        "lines": [
+          "Baixo risco e reversível:",
+          "automatizar"
+        ]
+      },
+      {
+        "row": 2,
+        "col": 1,
+        "x": 370,
+        "y": 248,
+        "width": 308,
+        "height": 70,
+        "lines": [
+          "Julgamento relevante: aumentar",
+          "ou preservar"
+        ]
+      },
+      {
+        "row": 3,
+        "col": 0,
+        "x": 42,
+        "y": 360,
+        "width": 636,
+        "height": 70,
+        "lines": [
+          "Condições insuficientes: redesenhar ou adiar"
+        ]
+      }
+    ],
+    "edges": [],
+    "feedbackEdge": null,
+    "source": "Elaboração editorial a partir do framework e dos cenários de Sérgio Monteiro.",
+    "rights": "Conteúdo do autor; desenho AtlasHub Editions. Homologação final pendente.",
+    "status": "REVIEW",
+    "alt": "Escolher como redesenhar o trabalho. Rotas condicionais de decisão, não uma sequência linear. Eliminar, automatizar, aumentar, preservar ou adiar dependem do diagnóstico."
+  },
+  {
+    "file": "capitulo-21-28.svg",
+    "title": "Mapear o processo como ele acontece",
+    "rows": [
+      [
+        "Gatilho e pessoa"
+      ],
+      [
+        "Sistema, planilha e mensagens"
+      ],
+      [
+        "Aprovação"
+      ],
+      [
+        "Sistema seguinte"
+      ],
+      [
+        "Resultado"
+      ]
+    ],
+    "caption": "O mapa registra transferências reais entre pessoas e sistemas. A finalidade é revelar esperas, dependências e retrabalho.",
+    "number": 28,
+    "chapter": "capitulo-21",
+    "width": 720,
+    "height": 566,
+    "boxes": [
+      {
+        "row": 0,
+        "col": 0,
+        "x": 42,
+        "y": 24,
+        "width": 636,
+        "height": 70,
+        "lines": [
+          "Gatilho e pessoa"
+        ]
+      },
+      {
+        "row": 1,
+        "col": 0,
+        "x": 42,
+        "y": 136,
+        "width": 636,
+        "height": 70,
+        "lines": [
+          "Sistema, planilha e mensagens"
+        ]
+      },
+      {
+        "row": 2,
+        "col": 0,
+        "x": 42,
+        "y": 248,
+        "width": 636,
+        "height": 70,
+        "lines": [
+          "Aprovação"
+        ]
+      },
+      {
+        "row": 3,
+        "col": 0,
+        "x": 42,
+        "y": 360,
+        "width": 636,
+        "height": 70,
+        "lines": [
+          "Sistema seguinte"
+        ]
+      },
+      {
+        "row": 4,
+        "col": 0,
+        "x": 42,
+        "y": 472,
+        "width": 636,
+        "height": 70,
+        "lines": [
+          "Resultado"
+        ]
+      }
+    ],
+    "edges": [
+      {
+        "x1": 360,
+        "y1": 94,
+        "x2": 360,
+        "y2": 136
+      },
+      {
+        "x1": 360,
+        "y1": 206,
+        "x2": 360,
+        "y2": 248
+      },
+      {
+        "x1": 360,
+        "y1": 318,
+        "x2": 360,
+        "y2": 360
+      },
+      {
+        "x1": 360,
+        "y1": 430,
+        "x2": 360,
+        "y2": 472
+      }
+    ],
+    "feedbackEdge": null,
+    "source": "Elaboração editorial a partir do framework e dos cenários de Sérgio Monteiro.",
+    "rights": "Conteúdo do autor; desenho AtlasHub Editions. Homologação final pendente.",
+    "status": "REVIEW",
+    "alt": "Mapear o processo como ele acontece. O mapa registra transferências reais entre pessoas e sistemas. A finalidade é revelar esperas, dependências e retrabalho."
+  },
+  {
+    "file": "capitulo-21-29.svg",
+    "title": "Portfólio de descoberta e operação",
+    "rows": [
+      [
+        "Descobrir e desenhar"
+      ],
+      [
+        "Piloto com critérios de decisão"
+      ],
+      [
+        "Operar",
+        "Interromper"
+      ],
+      [
+        "Revisar antes de ampliar a escala"
+      ]
+    ],
+    "caption": "Um piloto pode avançar ou parar. A operação permanece sujeita a revisão; escala não é uma consequência automática.",
+    "number": 29,
+    "chapter": "capitulo-21",
+    "width": 720,
+    "height": 454,
+    "boxes": [
+      {
+        "row": 0,
+        "col": 0,
+        "x": 42,
+        "y": 24,
+        "width": 636,
+        "height": 70,
+        "lines": [
+          "Descobrir e desenhar"
+        ]
+      },
+      {
+        "row": 1,
+        "col": 0,
+        "x": 42,
+        "y": 136,
+        "width": 636,
+        "height": 70,
+        "lines": [
+          "Piloto com critérios de decisão"
+        ]
+      },
+      {
+        "row": 2,
+        "col": 0,
+        "x": 42,
+        "y": 248,
+        "width": 308,
+        "height": 70,
+        "lines": [
+          "Operar"
+        ]
+      },
+      {
+        "row": 2,
+        "col": 1,
+        "x": 370,
+        "y": 248,
+        "width": 308,
+        "height": 70,
+        "lines": [
+          "Interromper"
+        ]
+      },
+      {
+        "row": 3,
+        "col": 0,
+        "x": 42,
+        "y": 360,
+        "width": 636,
+        "height": 70,
+        "lines": [
+          "Revisar antes de ampliar a escala"
+        ]
+      }
+    ],
+    "edges": [
+      {
+        "x1": 360,
+        "y1": 94,
+        "x2": 360,
+        "y2": 136
+      },
+      {
+        "x1": 360,
+        "y1": 206,
+        "x2": 196,
+        "y2": 248
+      },
+      {
+        "x1": 360,
+        "y1": 206,
+        "x2": 524,
+        "y2": 248
+      },
+      {
+        "x1": 196,
+        "y1": 318,
+        "x2": 360,
+        "y2": 360
+      },
+      {
+        "x1": 524,
+        "y1": 318,
+        "x2": 360,
+        "y2": 360
+      }
+    ],
+    "feedbackEdge": null,
+    "source": "Elaboração editorial a partir do framework e dos cenários de Sérgio Monteiro.",
+    "rights": "Conteúdo do autor; desenho AtlasHub Editions. Homologação final pendente.",
+    "status": "REVIEW",
+    "alt": "Portfólio de descoberta e operação. Um piloto pode avançar ou parar. A operação permanece sujeita a revisão; escala não é uma consequência automática."
+  }
+]

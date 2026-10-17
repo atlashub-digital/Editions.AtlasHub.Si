@@ -1,0 +1,9 @@
+import fs from 'node:fs';
+const chapter='app/livros/empresa-aumentada/ler/[section]/page.tsx';let s=fs.readFileSync(chapter,'utf8');
+s=s.replace('sectionUrl }','sectionUrl, sectionHeadings }').replaceAll('EA-001','EA-000');
+s=s.replace('<Manuscript>{s.markdown}</Manuscript>','<details className="chapter-navigation"><summary>Neste capítulo</summary><nav aria-label="Seções deste capítulo">{sectionHeadings(s.markdown).map(h=><a key={h.id} href={"#"+h.id}>{h.title}</a>)}</nav></details>\n      <Manuscript>{s.markdown}</Manuscript>');fs.writeFileSync(chapter,s);
+const idx='app/livros/empresa-aumentada/ler/page.tsx';s=fs.readFileSync(idx,'utf8').replaceAll('EA-001','EA-000');s=s.replace(/<div className="mt-12 flex flex-wrap gap-6">[\s\S]*?<\/div>/,'<section className="edition-downloads" aria-label="Edições de revisão"><h2>Edições de revisão</h2><p>O mesmo texto em três formatos de leitura.</p><div><a href="/downloads/premium/EA-000_Empresa-Aumentada_A5_digital.pdf" download>Livro A5 · PDF</a><a href="/downloads/premium/EA-000_Empresa-Aumentada_A4_digital.pdf" download>Executive A4 · PDF</a><a href="/downloads/premium/EA-000_Empresa-Aumentada.epub" download>EPUB</a></div></section>');fs.writeFileSync(idx,s);
+for(const p of ['lib/atlas-content.ts','lib/catalog.ts','app/livros/empresa-aumentada/page.tsx','app/livros/empresa-aumentada/toolkit/page.tsx']){let v=fs.readFileSync(p,'utf8');v=v.replaceAll('EA-001','EA-000');fs.writeFileSync(p,v);}
+const layout='app/layout.tsx';s=fs.readFileSync(layout,'utf8').replace('lang="pt-PT"','lang="pt-BR"').replace('locale: "pt_PT"','locale: "pt_BR"');fs.writeFileSync(layout,s);
+fs.mkdirSync('public/fonts',{recursive:true});for(const n of ['CrimsonText-Regular.ttf','CrimsonText-Bold.ttf','CrimsonText-Italic.ttf','OFL-CrimsonText.txt'])fs.copyFileSync('editorial/ea000/fonts/'+n,'public/fonts/'+n);
+console.log('Reader atualizado nas rotas existentes.');

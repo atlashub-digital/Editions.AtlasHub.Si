@@ -34,7 +34,7 @@ export const metadata: Metadata = {
     url: siteUrl,
     siteName: "AtlasHub Editions",
     type: "website",
-    locale: "pt_PT",
+    locale: "pt_BR",
   },
   twitter: {
     card: "summary_large_image",
@@ -58,7 +58,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="pt-PT" data-scroll-behavior="smooth">
+    <html lang="pt-BR" data-scroll-behavior="smooth">
       <body
         className="font-sans antialiased bg-background text-foreground"
       >

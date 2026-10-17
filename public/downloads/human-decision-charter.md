@@ -1,6 +1,6 @@
 # Human Decision Charter
 
-Extraído de Empresa Aumentada, Sérgio Monteiro. Todos os direitos reservados.
+Trecho de Empresa Aumentada, Sérgio Monteiro. EA-000.
 
 ## 28. O Human Decision Charter
 Podemos criar um complemento ao Agent Charter.
@@ -8,7 +8,7 @@ Chamemos-lhe **Human Decision Charter**.
 Para decisões críticas, definir:
 ### Decisão
 O que está em causa.
-### responsável
+### Responsável
 Quem responde.
 ### Evidência
 Que informação deve ser apresentada.
@@ -18,14 +18,12 @@ Pesquisar, simular, comparar, recomendar.
 Executar ou concluir sem aprovação.
 ### Critério
 Que trade-offs precisam ser considerados.
-### Registo
+### Registro
 Como a decisão será documentada.
 Isto evita que “human-in-the-loop” seja apenas uma frase vaga.
 
 
 ***
-
-
 
 
 ***

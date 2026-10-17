@@ -6,7 +6,7 @@ export default function ReaderIndex(){
  return <div className="reader-light min-h-screen bg-[#F7F8FA] text-[#14202E]">
   <header className="reader-masthead"><Link href="/livros/empresa-aumentada">← Sobre o livro</Link><span>AtlasHub Editions</span></header>
   <main id="conteudo" className="reading-shell">
-   <p className="reading-eyebrow">EA–001 · Sérgio Monteiro</p>
+   <p className="reading-eyebrow">EA-000 · Sérgio Monteiro</p>
    <h1 className="reading-title">Empresa Aumentada</h1>
    <p className="mt-5 text-xl font-serif text-[#5A6B7E]">Da Inteligência Artificial à Organização Inteligente</p>
    <div className="my-8 flex flex-wrap gap-5"><Link className="reader-control" href={sectionUrl('nota-editorial')}>Começar a ler →</Link><ResumeReading slugs={bookSections.map(s=>s.slug)}/></div>
@@ -15,7 +15,7 @@ export default function ReaderIndex(){
     {s.part && s.part!==bookSections[i-1]?.part && <h2>{s.part}</h2>}
     <Link href={sectionUrl(s.slug)}><span>{s.number || '·'}</span>{s.title}<span aria-hidden>→</span></Link>
    </div>)}</nav>
-   <div className="mt-12 flex flex-wrap gap-6"><a href="/downloads/empresa-aumentada.pdf" download>Descarregar PDF ↓</a><a href="/downloads/empresa-aumentada.epub" download>Descarregar EPUB ↓</a></div>
+   <section className="edition-downloads" aria-label="Edições de revisão"><h2>Edições de revisão</h2><p>O mesmo texto em três formatos de leitura.</p><div><a href="/downloads/premium/EA-000_Empresa-Aumentada_A5_digital.pdf" download>Livro A5 · PDF</a><a href="/downloads/premium/EA-000_Empresa-Aumentada_A4_digital.pdf" download>Executive A4 · PDF</a><a href="/downloads/premium/EA-000_Empresa-Aumentada.epub" download>EPUB</a></div></section>
   </main><footer className="reading-footer">© AtlasHub · Todos os direitos reservados.</footer>
  </div>;
 }

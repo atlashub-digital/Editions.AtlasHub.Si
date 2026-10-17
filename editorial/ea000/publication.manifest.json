@@ -1,0 +1,42 @@
+{
+  "schemaVersion": "1.0",
+  "project": "atlashub-editions",
+  "publication": {
+    "id": "EA-000",
+    "legacyIds": [
+      "EA-001"
+    ],
+    "slug": "empresa-aumentada",
+    "locale": "pt-BR",
+    "title": "Empresa Aumentada",
+    "author": "Sérgio Monteiro",
+    "canonicalUrl": "https://editions.atlashub.si/livros/empresa-aumentada",
+    "status": "editorial-review",
+    "master": "content/empresa-aumentada-manuscript.json",
+    "sections": 27,
+    "chapters": 21,
+    "parts": 5,
+    "figures": 29,
+    "masterSha256": "b53ddc0beab6534530ebdd272e2f1a760a1ae7aacc482e9113d12ff394aedb3a"
+  },
+  "adapter": "existing-git-json",
+  "amfReference": {
+    "schema": "0.2.0",
+    "experienceCore": "0.2.1",
+    "directDependency": false,
+    "adoptedPatterns": [
+      "provenance",
+      "master-projection",
+      "asset-hashes",
+      "validation",
+      "branch-preview-review-release"
+    ]
+  },
+  "gates": {
+    "technicalQA": "in-progress",
+    "editorialApproval": false,
+    "assetApproval": false,
+    "productionRelease": false,
+    "commercialActivation": false
+  }
+}

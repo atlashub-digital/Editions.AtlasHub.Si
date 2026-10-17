@@ -58,7 +58,7 @@ export const EDITORIAL_CATEGORIES: Category[] = [
     key: "livros",
     title: "LIVROS",
     description: "Pensamento estruturado de longo prazo.",
-    count: "EA–001",
+    count: "EA-000",
   },
   {
     key: "papers",
@@ -198,7 +198,7 @@ export const ECOSYSTEM_STEPS: EcosystemStep[] = [
 ];
 
 /* ----------------------------------------------------------------------------
-   Flagship publication — EA–001 EMPRESA AUMENTADA
+   Flagship publication — EA-000 EMPRESA AUMENTADA
 ---------------------------------------------------------------------------- */
 
 export type Chapter = {
@@ -234,7 +234,7 @@ export type FlagshipBook = {
 };
 
 export const FLAGSHIP_BOOK: FlagshipBook = {
-  code: "EA–001",
+  code: "EA-000",
   slug: "empresa-aumentada",
   title: "EMPRESA",
   titleAccent: "AUMENTADA",

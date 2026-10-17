@@ -1,0 +1,2498 @@
+[
+  {
+    "slug": "nota-editorial",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "artefactos",
+    "after": "artefatos",
+    "count": 1
+  },
+  {
+    "slug": "prefacio",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "connosco",
+    "after": "conosco",
+    "count": 1
+  },
+  {
+    "slug": "prefacio",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "Controlo",
+    "after": "Controle",
+    "count": 1
+  },
+  {
+    "slug": "prefacio",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "económica",
+    "after": "econômica",
+    "count": 1
+  },
+  {
+    "slug": "prefacio",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "autónomos",
+    "after": "autônomos",
+    "count": 1
+  },
+  {
+    "slug": "prefacio",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "stock",
+    "after": "estoque",
+    "count": 1
+  },
+  {
+    "slug": "prefacio",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "aspetos",
+    "after": "aspectos",
+    "count": 1
+  },
+  {
+    "slug": "prefacio",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "chegámos",
+    "after": "chegamos",
+    "count": 1
+  },
+  {
+    "slug": "prefacio",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "começámos",
+    "after": "começamos",
+    "count": 2
+  },
+  {
+    "slug": "prefacio",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "Começámos",
+    "after": "Começamos",
+    "count": 1
+  },
+  {
+    "slug": "prefacio",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "perguntámos",
+    "after": "perguntamos",
+    "count": 2
+  },
+  {
+    "slug": "prefacio",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "Ligámo-las",
+    "after": "Ligamos essas capacidades",
+    "count": 1
+  },
+  {
+    "slug": "prefacio",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "incómoda",
+    "after": "incômoda",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-01",
+    "field": "part",
+    "kind": "pt-BR",
+    "before": "CHEGÁMOS",
+    "after": "CHEGAMOS",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-01",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "utilizador",
+    "after": "usuário",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-01",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "connosco",
+    "after": "conosco",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-01",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "governação",
+    "after": "governança",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-01",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "controlo",
+    "after": "controle",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-01",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "CONTROLO",
+    "after": "CONTROLE",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-01",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "equipa",
+    "after": "equipe",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-01",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "contacto",
+    "after": "contato",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-01",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "Deteção",
+    "after": "Detecção",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-01",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "stock",
+    "after": "estoque",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-01",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "aspetos",
+    "after": "aspectos",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-01",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "começámos",
+    "after": "começamos",
+    "count": 2
+  },
+  {
+    "slug": "capitulo-01",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "ensinámos",
+    "after": "ensinamos",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-01",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "email",
+    "after": "e-mail",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-02",
+    "field": "part",
+    "kind": "pt-BR",
+    "before": "CHEGÁMOS",
+    "after": "CHEGAMOS",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-02",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "utilizador",
+    "after": "usuário",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-02",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "governação",
+    "after": "governança",
+    "count": 3
+  },
+  {
+    "slug": "capitulo-02",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "controlo",
+    "after": "controle",
+    "count": 3
+  },
+  {
+    "slug": "capitulo-02",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "CONTROLO",
+    "after": "CONTROLE",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-02",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "equipa",
+    "after": "equipe",
+    "count": 5
+  },
+  {
+    "slug": "capitulo-02",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "autónomo",
+    "after": "autônomo",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-02",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "contacto",
+    "after": "contato",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-02",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "monitorização",
+    "after": "monitoramento",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-02",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "stock",
+    "after": "estoque",
+    "count": 4
+  },
+  {
+    "slug": "capitulo-02",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "stocks",
+    "after": "estoques",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-02",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "email",
+    "after": "e-mail",
+    "count": 2
+  },
+  {
+    "slug": "capitulo-02",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "emails",
+    "after": "e-mails",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-02",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "ecrã",
+    "after": "tela",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-03",
+    "field": "part",
+    "kind": "pt-BR",
+    "before": "CHEGÁMOS",
+    "after": "CHEGAMOS",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-03",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "governação",
+    "after": "governança",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-03",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "controlo",
+    "after": "controle",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-03",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "equipas",
+    "after": "equipes",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-03",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "ficheiro",
+    "after": "arquivo",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-03",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "registar",
+    "after": "registrar",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-03",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "Planeamento",
+    "after": "Planejamento",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-03",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "email",
+    "after": "e-mail",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-04",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "utilizador",
+    "after": "usuário",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-04",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "Poupámos",
+    "after": "Economizamos",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-04",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "governação",
+    "after": "governança",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-04",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "controlo",
+    "after": "controle",
+    "count": 2
+  },
+  {
+    "slug": "capitulo-04",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "CONTROLO",
+    "after": "CONTROLE",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-04",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "equipa",
+    "after": "equipe",
+    "count": 3
+  },
+  {
+    "slug": "capitulo-04",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "equipas",
+    "after": "equipes",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-04",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "económico",
+    "after": "econômico",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-04",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "autónoma",
+    "after": "autônoma",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-04",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "registo",
+    "after": "registro",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-04",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "regista",
+    "after": "registra",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-04",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "registar",
+    "after": "registrar",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-04",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "contacto",
+    "after": "contato",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-04",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "poupados",
+    "after": "economizados",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-04",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "email",
+    "after": "e-mail",
+    "count": 6
+  },
+  {
+    "slug": "capitulo-04",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "emails",
+    "after": "e-mails",
+    "count": 3
+  },
+  {
+    "slug": "capitulo-05",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "controlo",
+    "after": "controle",
+    "count": 5
+  },
+  {
+    "slug": "capitulo-05",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "Controlo",
+    "after": "Controle",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-05",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "CONTROLO",
+    "after": "CONTROLE",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-05",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "económicos",
+    "after": "econômicos",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-05",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "Autónomo",
+    "after": "Autônomo",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-05",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "registos",
+    "after": "registros",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-05",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "contacto",
+    "after": "contato",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-05",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "contactos",
+    "after": "contatos",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-05",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "monitorização",
+    "after": "monitoramento",
+    "count": 2
+  },
+  {
+    "slug": "capitulo-05",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "stock",
+    "after": "estoque",
+    "count": 4
+  },
+  {
+    "slug": "capitulo-05",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "Stock",
+    "after": "Estoque",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-05",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "email",
+    "after": "e-mail",
+    "count": 2
+  },
+  {
+    "slug": "capitulo-06",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "governação",
+    "after": "governança",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-06",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "controlo",
+    "after": "controle",
+    "count": 2
+  },
+  {
+    "slug": "capitulo-06",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "Controlo",
+    "after": "Controle",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-06",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "CONTROLO",
+    "after": "CONTROLE",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-06",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "equipa",
+    "after": "equipe",
+    "count": 3
+  },
+  {
+    "slug": "capitulo-06",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "equipas",
+    "after": "equipes",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-06",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "económico",
+    "after": "econômico",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-06",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "económica",
+    "after": "econômica",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-06",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "Planeamento",
+    "after": "Planejamento",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-06",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "stock",
+    "after": "estoque",
+    "count": 3
+  },
+  {
+    "slug": "capitulo-06",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "Stock",
+    "after": "Estoque",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-06",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "email",
+    "after": "e-mail",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-06",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "emails",
+    "after": "e-mails",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-07",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "governação",
+    "after": "governança",
+    "count": 8
+  },
+  {
+    "slug": "capitulo-07",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "controlo",
+    "after": "controle",
+    "count": 3
+  },
+  {
+    "slug": "capitulo-07",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "Controlo",
+    "after": "Controle",
+    "count": 2
+  },
+  {
+    "slug": "capitulo-07",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "CONTROLO",
+    "after": "CONTROLE",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-07",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "equipa",
+    "after": "equipe",
+    "count": 2
+  },
+  {
+    "slug": "capitulo-07",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "detetar",
+    "after": "detectar",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-07",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "monitorização",
+    "after": "monitoramento",
+    "count": 2
+  },
+  {
+    "slug": "capitulo-07",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "stock",
+    "after": "estoque",
+    "count": 2
+  },
+  {
+    "slug": "capitulo-08",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "governação",
+    "after": "governança",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-08",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "controlo",
+    "after": "controle",
+    "count": 2
+  },
+  {
+    "slug": "capitulo-08",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "CONTROLO",
+    "after": "CONTROLE",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-08",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "equipa",
+    "after": "equipe",
+    "count": 3
+  },
+  {
+    "slug": "capitulo-08",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "Equipa",
+    "after": "Equipe",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-08",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "equipas",
+    "after": "equipes",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-08",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "económicos",
+    "after": "econômicos",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-08",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "ficheiro",
+    "after": "arquivo",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-08",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "Registo",
+    "after": "Registro",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-08",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "stock",
+    "after": "estoque",
+    "count": 2
+  },
+  {
+    "slug": "capitulo-08",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "libertado",
+    "after": "liberado",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-08",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "libertar",
+    "after": "liberar",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-08",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "humano a clicar",
+    "after": "humano clicando",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-08",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "augmentação",
+    "after": "ampliação de capacidade",
+    "count": 2
+  },
+  {
+    "slug": "capitulo-09",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "governação",
+    "after": "governança",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-09",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "CONTROLO",
+    "after": "CONTROLE",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-09",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "económica",
+    "after": "econômica",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-09",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "autónomo",
+    "after": "autônomo",
+    "count": 2
+  },
+  {
+    "slug": "capitulo-09",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "registo",
+    "after": "registro",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-09",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "regista",
+    "after": "registra",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-09",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "contacto",
+    "after": "contato",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-09",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "deteta",
+    "after": "detecta",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-09",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "Planeamento",
+    "after": "Planejamento",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-09",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "monitorização",
+    "after": "monitoramento",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-09",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "Monitorização",
+    "after": "Monitoramento",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-09",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "stock",
+    "after": "estoque",
+    "count": 2
+  },
+  {
+    "slug": "capitulo-09",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "Stock",
+    "after": "Estoque",
+    "count": 2
+  },
+  {
+    "slug": "capitulo-09",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "artefacto",
+    "after": "artefato",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-09",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "percentagem",
+    "after": "porcentagem",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-09",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "libertado",
+    "after": "liberado",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-09",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "email",
+    "after": "e-mail",
+    "count": 2
+  },
+  {
+    "slug": "capitulo-10",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "governação",
+    "after": "governança",
+    "count": 4
+  },
+  {
+    "slug": "capitulo-10",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "controlo",
+    "after": "controle",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-10",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "CONTROLO",
+    "after": "CONTROLE",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-10",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "equipa",
+    "after": "equipe",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-10",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "Equipas",
+    "after": "Equipes",
+    "count": 2
+  },
+  {
+    "slug": "capitulo-10",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "autónoma",
+    "after": "autônoma",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-10",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "autónomos",
+    "after": "autônomos",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-10",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "stock",
+    "after": "estoque",
+    "count": 4
+  },
+  {
+    "slug": "capitulo-10",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "Stock",
+    "after": "Estoque",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-11",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "governação",
+    "after": "governança",
+    "count": 13
+  },
+  {
+    "slug": "capitulo-11",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "controlo",
+    "after": "controle",
+    "count": 5
+  },
+  {
+    "slug": "capitulo-11",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "Controlo",
+    "after": "Controle",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-11",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "CONTROLO",
+    "after": "CONTROLE",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-11",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "equipa",
+    "after": "equipe",
+    "count": 3
+  },
+  {
+    "slug": "capitulo-11",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "equipas",
+    "after": "equipes",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-11",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "contactos",
+    "after": "contatos",
+    "count": 2
+  },
+  {
+    "slug": "capitulo-11",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "Deteta",
+    "after": "Detecta",
+    "count": 2
+  },
+  {
+    "slug": "capitulo-11",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "planeamento",
+    "after": "planejamento",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-11",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "monitorização",
+    "after": "monitoramento",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-11",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "stock",
+    "after": "estoque",
+    "count": 4
+  },
+  {
+    "slug": "capitulo-11",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "Stock",
+    "after": "Estoque",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-11",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "email",
+    "after": "e-mail",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-12",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "CONTROLO",
+    "after": "CONTROLE",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-12",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "equipa",
+    "after": "equipe",
+    "count": 4
+  },
+  {
+    "slug": "capitulo-12",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "equipas",
+    "after": "equipes",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-12",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "económico",
+    "after": "econômico",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-12",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "registadas",
+    "after": "registradas",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-12",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "registar",
+    "after": "registrar",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-12",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "deteta",
+    "after": "detecta",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-12",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "detetado",
+    "after": "detectado",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-12",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "rutura",
+    "after": "ruptura",
+    "count": 8
+  },
+  {
+    "slug": "capitulo-12",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "Rutura",
+    "after": "Ruptura",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-12",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "ruturas",
+    "after": "rupturas",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-12",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "faturação",
+    "after": "faturamento",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-12",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "stock",
+    "after": "estoque",
+    "count": 16
+  },
+  {
+    "slug": "capitulo-12",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "Stock",
+    "after": "Estoque",
+    "count": 3
+  },
+  {
+    "slug": "capitulo-12",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "poupadas",
+    "after": "economizadas",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-13",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "governação",
+    "after": "governança",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-13",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "controlo",
+    "after": "controle",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-13",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "CONTROLO",
+    "after": "CONTROLE",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-13",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "equipa",
+    "after": "equipe",
+    "count": 3
+  },
+  {
+    "slug": "capitulo-13",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "económico",
+    "after": "econômico",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-13",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "registado",
+    "after": "registrado",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-13",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "contacto",
+    "after": "contato",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-13",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "detetar",
+    "after": "detectar",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-13",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "rutura",
+    "after": "ruptura",
+    "count": 8
+  },
+  {
+    "slug": "capitulo-13",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "Rutura",
+    "after": "Ruptura",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-13",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "planeamento",
+    "after": "planejamento",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-13",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "stock",
+    "after": "estoque",
+    "count": 14
+  },
+  {
+    "slug": "capitulo-13",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "Stock",
+    "after": "Estoque",
+    "count": 3
+  },
+  {
+    "slug": "capitulo-13",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "percentagens",
+    "after": "porcentagens",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-13",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "libertar",
+    "after": "liberar",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-14",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "telefónica",
+    "after": "telefônica",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-14",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "CONTROLO",
+    "after": "CONTROLE",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-14",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "equipa",
+    "after": "equipe",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-14",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "contactos",
+    "after": "contatos",
+    "count": 2
+  },
+  {
+    "slug": "capitulo-14",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "detetar",
+    "after": "detectar",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-14",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "Deteta",
+    "after": "Detecta",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-14",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "Deteção",
+    "after": "Detecção",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-14",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "stock",
+    "after": "estoque",
+    "count": 2
+  },
+  {
+    "slug": "capitulo-14",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "emails",
+    "after": "e-mails",
+    "count": 2
+  },
+  {
+    "slug": "capitulo-15",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "governação",
+    "after": "governança",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-15",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "CONTROLO",
+    "after": "CONTROLE",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-15",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "equipa",
+    "after": "equipe",
+    "count": 6
+  },
+  {
+    "slug": "capitulo-15",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "económico",
+    "after": "econômico",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-15",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "Registo",
+    "after": "Registro",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-15",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "contacto",
+    "after": "contato",
+    "count": 2
+  },
+  {
+    "slug": "capitulo-15",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "contactos",
+    "after": "contatos",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-15",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "receção",
+    "after": "recepção",
+    "count": 11
+  },
+  {
+    "slug": "capitulo-15",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "Receção",
+    "after": "Recepção",
+    "count": 2
+  },
+  {
+    "slug": "capitulo-16",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "CONTROLO",
+    "after": "CONTROLE",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-16",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "equipa",
+    "after": "equipe",
+    "count": 5
+  },
+  {
+    "slug": "capitulo-16",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "económico",
+    "after": "econômico",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-16",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "económica",
+    "after": "econômica",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-16",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "contacto",
+    "after": "contato",
+    "count": 3
+  },
+  {
+    "slug": "capitulo-16",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "contactos",
+    "after": "contatos",
+    "count": 7
+  },
+  {
+    "slug": "capitulo-16",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "percentagem",
+    "after": "porcentagem",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-17",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "Controlo",
+    "after": "Controle",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-17",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "CONTROLO",
+    "after": "CONTROLE",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-17",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "equipa",
+    "after": "equipe",
+    "count": 2
+  },
+  {
+    "slug": "capitulo-17",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "equipas",
+    "after": "equipes",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-17",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "económico",
+    "after": "econômico",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-17",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "registada",
+    "after": "registrada",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-17",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "planeamento",
+    "after": "planejamento",
+    "count": 4
+  },
+  {
+    "slug": "capitulo-17",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "Planeamento",
+    "after": "Planejamento",
+    "count": 6
+  },
+  {
+    "slug": "capitulo-17",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "planeador",
+    "after": "planejador",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-17",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "stock",
+    "after": "estoque",
+    "count": 6
+  },
+  {
+    "slug": "capitulo-17",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "Stock",
+    "after": "Estoque",
+    "count": 2
+  },
+  {
+    "slug": "capitulo-17",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "percentagem",
+    "after": "porcentagem",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-17",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "Começámos",
+    "after": "Começamos",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-17",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "Observámos",
+    "after": "Observamos",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-17",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "augmentação",
+    "after": "ampliação de capacidade",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-17",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "email",
+    "after": "e-mail",
+    "count": 3
+  },
+  {
+    "slug": "capitulo-17",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "ecrã",
+    "after": "tela",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-17",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "paragem",
+    "after": "parada",
+    "count": 3
+  },
+  {
+    "slug": "capitulo-18",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "governação",
+    "after": "governança",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-18",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "controlo",
+    "after": "controle",
+    "count": 7
+  },
+  {
+    "slug": "capitulo-18",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "Controlo",
+    "after": "Controle",
+    "count": 11
+  },
+  {
+    "slug": "capitulo-18",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "económico",
+    "after": "econômico",
+    "count": 2
+  },
+  {
+    "slug": "capitulo-18",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "económica",
+    "after": "econômica",
+    "count": 5
+  },
+  {
+    "slug": "capitulo-18",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "económicos",
+    "after": "econômicos",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-18",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "contacto",
+    "after": "contato",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-18",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "rutura",
+    "after": "ruptura",
+    "count": 4
+  },
+  {
+    "slug": "capitulo-18",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "faturação",
+    "after": "faturamento",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-18",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "monitorização",
+    "after": "monitoramento",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-18",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "stock",
+    "after": "estoque",
+    "count": 3
+  },
+  {
+    "slug": "capitulo-18",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "Stock",
+    "after": "Estoque",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-19",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "utilizadores",
+    "after": "usuários",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-19",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "Poupámos",
+    "after": "Economizamos",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-19",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "governação",
+    "after": "governança",
+    "count": 2
+  },
+  {
+    "slug": "capitulo-19",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "controlo",
+    "after": "controle",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-19",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "CONTROLO",
+    "after": "CONTROLE",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-19",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "equipa",
+    "after": "equipe",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-19",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "equipas",
+    "after": "equipes",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-19",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "económico",
+    "after": "econômico",
+    "count": 4
+  },
+  {
+    "slug": "capitulo-19",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "económica",
+    "after": "econômica",
+    "count": 2
+  },
+  {
+    "slug": "capitulo-19",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "rutura",
+    "after": "ruptura",
+    "count": 2
+  },
+  {
+    "slug": "capitulo-19",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "faturação",
+    "after": "faturamento",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-19",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "receção",
+    "after": "recepção",
+    "count": 2
+  },
+  {
+    "slug": "capitulo-19",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "monitorização",
+    "after": "monitoramento",
+    "count": 2
+  },
+  {
+    "slug": "capitulo-19",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "artefacto",
+    "after": "artefato",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-19",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "libertada",
+    "after": "liberada",
+    "count": 3
+  },
+  {
+    "slug": "capitulo-19",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "libertado",
+    "after": "liberado",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-19",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "poupança",
+    "after": "economia",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-19",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "Poupança",
+    "after": "Economia",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-19",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "poupadas",
+    "after": "economizadas",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-19",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "paragem",
+    "after": "parada",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-20",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "governação",
+    "after": "governança",
+    "count": 4
+  },
+  {
+    "slug": "capitulo-20",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "controlo",
+    "after": "controle",
+    "count": 2
+  },
+  {
+    "slug": "capitulo-20",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "CONTROLO",
+    "after": "CONTROLE",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-20",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "equipa",
+    "after": "equipe",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-20",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "económico",
+    "after": "econômico",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-20",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "económica",
+    "after": "econômica",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-20",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "detetar",
+    "after": "detectar",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-20",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "planeamento",
+    "after": "planejamento",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-20",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "monitorização",
+    "after": "monitoramento",
+    "count": 3
+  },
+  {
+    "slug": "capitulo-21",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "governação",
+    "after": "governança",
+    "count": 6
+  },
+  {
+    "slug": "capitulo-21",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "Controlo",
+    "after": "Controle",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-21",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "CONTROLO",
+    "after": "CONTROLE",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-21",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "equipa",
+    "after": "equipe",
+    "count": 5
+  },
+  {
+    "slug": "capitulo-21",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "equipas",
+    "after": "equipes",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-21",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "Autónomo",
+    "after": "Autônomo",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-21",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "rutura",
+    "after": "ruptura",
+    "count": 2
+  },
+  {
+    "slug": "capitulo-21",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "receção",
+    "after": "recepção",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-21",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "monitorização",
+    "after": "monitoramento",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-21",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "Monitorização",
+    "after": "Monitoramento",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-21",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "stock",
+    "after": "estoque",
+    "count": 2
+  },
+  {
+    "slug": "capitulo-21",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "artefactos",
+    "after": "artefatos",
+    "count": 2
+  },
+  {
+    "slug": "capitulo-21",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "portfolio",
+    "after": "portfólio",
+    "count": 1
+  },
+  {
+    "slug": "epilogo",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "connosco",
+    "after": "conosco",
+    "count": 1
+  },
+  {
+    "slug": "epilogo",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "governação",
+    "after": "governança",
+    "count": 1
+  },
+  {
+    "slug": "epilogo",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "controlo",
+    "after": "controle",
+    "count": 1
+  },
+  {
+    "slug": "epilogo",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "Controlo",
+    "after": "Controle",
+    "count": 2
+  },
+  {
+    "slug": "epilogo",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "CONTROLO",
+    "after": "CONTROLE",
+    "count": 1
+  },
+  {
+    "slug": "epilogo",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "equipa",
+    "after": "equipe",
+    "count": 3
+  },
+  {
+    "slug": "epilogo",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "económica",
+    "after": "econômica",
+    "count": 1
+  },
+  {
+    "slug": "epilogo",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "registam",
+    "after": "registram",
+    "count": 1
+  },
+  {
+    "slug": "epilogo",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "rutura",
+    "after": "ruptura",
+    "count": 2
+  },
+  {
+    "slug": "epilogo",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "stock",
+    "after": "estoque",
+    "count": 1
+  },
+  {
+    "slug": "epilogo",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "libertar",
+    "after": "liberar",
+    "count": 1
+  },
+  {
+    "slug": "referencias",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "governação",
+    "after": "governança",
+    "count": 1
+  },
+  {
+    "slug": "referencias",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "Governação",
+    "after": "Governança",
+    "count": 1
+  },
+  {
+    "slug": "referencias",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "académica",
+    "after": "acadêmica",
+    "count": 1
+  },
+  {
+    "slug": "referencias",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "académicas",
+    "after": "acadêmicas",
+    "count": 1
+  },
+  {
+    "slug": "referencias",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "percentagens",
+    "after": "porcentagens",
+    "count": 1
+  },
+  {
+    "slug": "glossario",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "governação",
+    "after": "governança",
+    "count": 1
+  },
+  {
+    "slug": "glossario",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "Governação",
+    "after": "Governança",
+    "count": 1
+  },
+  {
+    "slug": "glossario",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "Controlo",
+    "after": "Controle",
+    "count": 2
+  },
+  {
+    "slug": "glossario",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "detetar",
+    "after": "detectar",
+    "count": 1
+  },
+  {
+    "slug": "glossario",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "monitorização",
+    "after": "monitoramento",
+    "count": 1
+  },
+  {
+    "slug": "glossario",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "Augmentação",
+    "after": "Ampliação de capacidade",
+    "count": 1
+  },
+  {
+    "slug": "sobre-o-autor",
+    "field": "markdown",
+    "kind": "pt-BR",
+    "before": "retalho",
+    "after": "varejo",
+    "count": 1
+  },
+  {
+    "slug": "prefacio",
+    "kind": "editorial",
+    "before": "Fontes históricas de base para edição final",
+    "after": "Fontes históricas",
+    "reason": "Remover instrução interna de trabalho da edição de leitura.",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-01",
+    "kind": "editorial",
+    "before": "Fontes históricas de base para edição final",
+    "after": "Fontes históricas",
+    "reason": "Remover instrução interna de trabalho da edição de leitura.",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-19",
+    "kind": "editorial",
+    "before": "faturamento bruta",
+    "after": "faturamento bruto",
+    "reason": "Concordância nominal após adaptação para pt-BR.",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-02",
+    "kind": "editorial",
+    "before": "No próximo capítulo entraremos exatamente nesse problema.\n# O paradoxo do prompt.\nPorque talvez estejamos a utilizar uma inteligência nova com um modelo de gestão antigo.",
+    "after": "Antes de entrar no paradoxo do prompt, precisamos esclarecer a linguagem com que descrevemos essa mudança. É o tema do próximo capítulo.\n\nDepois, voltaremos ao problema da delegação: talvez estejamos utilizando uma inteligência nova com um modelo de gestão antigo.",
+    "reason": "Restabelecer sequência real: capítulo 3 sobre terminologia, capítulo 4 sobre prompts.",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-10",
+    "kind": "editorial",
+    "before": "Human responsáveis",
+    "after": "Responsáveis humanos",
+    "reason": "Corrigir rótulo híbrido e definir responsabilidade em português.",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-21",
+    "kind": "editorial",
+    "before": "Value responsável",
+    "after": "Responsável pelo valor",
+    "reason": "Uniformizar designação do papel e do fundamento organizacional.",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-15",
+    "kind": "editorial",
+    "before": "Se a clínica reduz 34 faltas para 25, por exemplo, o impacto potencial pode ser estimado.",
+    "after": "Com 280 agendamentos e taxa de ausência de 12%, a expectativa é de 33,6 faltas, aproximadamente 34. Se, em um período comparável, as faltas caem para 25, o impacto potencial pode ser estimado.",
+    "reason": "Explicitar arredondamento e comparabilidade do exemplo; não apresentar causalidade comprovada.",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-03",
+    "kind": "editorial",
+    "before": "[https://nickbostrom.com/superintelligence](https://nickbostrom.com/superintelligence)",
+    "after": "[Artigo de Nick Bostrom](https://nickbostrom.com/papers/how-long-before-superintelligence/)",
+    "reason": "Apontar para o artigo citado e dar ao link um rótulo legível.",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-03",
+    "kind": "editorial",
+    "before": "## 3. A ideia de “Synthetic Intelligence” é muito anterior\nA expressão *Synthetic Intelligence* não nasceu com a discussão de 2026.\nJohn Haugeland, filósofo ligado à reflexão sobre Inteligência Artificial, utilizou uma analogia particularmente interessante na década de 1980.\nA diferença entre algo artificial e algo sintético pode parecer pequena.\nMas semanticamente é poderosa.\nUm diamante artificial pode sugerir uma imitação.\nUm diamante sintético é um diamante produzido por um processo diferente do natural.\nA pergunta implícita era:\n> Se um sistema construído demonstrar inteligência genuína, por que razão devemos continuar a chamar-lhe “artificial” no sentido de algo meramente imitado?\n\nNão é necessário concordar com esta posição para perceber a força da questão.\nA palavra **artificial** carrega significados culturais.\nFabricado.\nNão natural.\nImitação.\nFalso.\nConstruído.\nEnquanto **sintético** pode sugerir:\nconstruído por combinação;\nproduzido;\nengenheirado;\nmas ainda real na propriedade que interessa.\nA distinção é filosófica.\nMas antecipa um problema que hoje se tornou empresarial.\n\n\n***\n\n\n",
+    "after": "## 3. Artificial, sintético e o que o nome sugere\n\nA discussão sobre o nome também envolve a diferença entre algo artificial e algo sintético.\n\nUma flor artificial imita a aparência de uma flor. Um material sintético pode ser produzido por outra via e ainda apresentar propriedades relevantes para o uso pretendido.\n\nA analogia ajuda a formular uma pergunta, mas não demonstra que os sistemas atuais possuam consciência, intenção ou inteligência humana. Também não resolve as limitações técnicas que precisam ser avaliadas em cada aplicação.\n\nPara este livro, a questão útil é operacional: que capacidade o sistema oferece, em quais condições funciona e sob quais limites pode ser utilizado?\n\n***\n\n",
+    "reason": "Retirar atribuição histórica específica a Haugeland sem página primária acessível; conservar o argumento como analogia do ensaio.",
+    "count": 1
+  },
+  {
+    "slug": "capitulo-03",
+    "kind": "editorial",
+    "before": " — referência histórica à expressão “Synthetic Intelligence”.",
+    "after": " — leitura de enquadramento filosófico.",
+    "reason": "Distinguir obra verificada de atribuição textual ainda não documentada.",
+    "count": 1
+  },
+  {
+    "slug": "sobre-o-autor",
+    "kind": "bio-conservadora",
+    "before": "**Sérgio Monteiro** trabalha há mais de quinze anos em projetos, operações, supply chain, aprovisionamento, tecnologia e transformação organizacional, com experiência em diferentes mercados e contextos internacionais.\nAo longo do percurso profissional participou em projetos ligados à otimização do fluxo logístico da fileira do leite em Marrocos, estudos e operações agroindustriais no Brasil e na Turquia, sistemas de aprovisionamento e melhoria operacional no varejo europeu, e projetos de otimização de fluxos industriais e logísticos envolvendo grupos como Ferrero, Mondelez e CEMOI.\nEntre os projetos que marcaram esse percurso está o **MG2+**, associado à mutualização e coordenação de fluxos logísticos europeus e internacionais e distinguido no ecossistema europeu de supply chain.\nHoje, a sua atenção está concentrada na intersecção entre **operações, Inteligência Artificial, automação, software e desenho organizacional**.\nA tese que orienta este livro nasceu menos de uma pergunta tecnológica do que de uma pergunta de gestão:\n> **Se já sabemos organizar pessoas em torno de objetivos, responsabilidades, limites e resultados, por que continuamos a utilizar sistemas inteligentes como ferramentas isoladas à espera da próxima instrução?**\n\n**EMPRESA AUMENTADA** propõe uma resposta: desenhar organizações em que pessoas e capacidade computacional façam parte do mesmo sistema operacional, sem confundir velocidade com direção nem automação com responsabilidade.\n**AtlasHub**  \n**© **[**AtlasHub.SI**](http://AtlasHub.SI)** • People \\| Technology \\| Results**",
+    "after": "**Sérgio Monteiro** atua em operações, tecnologia e transformação organizacional. Sua abordagem combina análise de processos, sistemas, dados e coordenação do trabalho.\n\nNeste livro, essa perspectiva se volta à relação entre capacidade humana e sistemas inteligentes dentro da empresa.\n\nA pergunta que orienta a obra é de gestão:\n\n> **Se sabemos organizar pessoas em torno de objetivos, responsabilidades, limites e resultados, como podemos organizar também a capacidade dos sistemas inteligentes?**\n\n**Empresa Aumentada** propõe uma resposta: desenhar organizações em que pessoas e capacidade computacional façam parte do mesmo sistema operacional, com direção e responsabilidade humanas.\n\n**Sérgio Monteiro · AtlasHub Editions**",
+    "reason": "Conservar apenas descrição geral; participação em empresas, MG2+ e distinções aguardam documentação e validação do autor.",
+    "count": 1
+  }
+]

@@ -8,7 +8,7 @@
     "start": "next start",
     "lint": "eslint .",
     "typecheck": "next typegen && tsc --noEmit",
-    "test:content": "node scripts/check-content.mjs"
+    "test:content": "node scripts/check-content.mjs && node scripts/ea000-contract.mjs"
   },
   "dependencies": {
     "clsx": "^2.1.1",
