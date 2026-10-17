@@ -1,7 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE svg
-  PUBLIC '-//W3C//DTD SVG 1.0//EN'
-  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
 <svg width="600" height="280" preserveAspectRatio="xMinYMin meet" viewBox="0 0 600 280" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
 	<title>Estudo visual — O ROI da inteligência</title>
 	<desc>Composição gráfica conceptual para O ROI da inteligência. Não é um diagrama técnico.</desc>
@@ -10,10 +7,10 @@
 	</clipPath>
 	<g id="group" transform="scale(1,-1) translate(0,-280)" style="clip-path: url(#clip)">
 		<g transform="">
-			<text x="55" y="123" style="font-family: Crimson Text; font-size: 80px;fill: rgb(2%,9%,16%); stroke:none;" transform="translate(0,246) scale(1,-1)">ROI</text>
+			<text x="55" y="123" style="font-family: Crimson Text, Georgia, serif; font-size: 80px;fill: rgb(2%,9%,16%); stroke:none;" transform="translate(0,246) scale(1,-1)">ROI</text>
 			<path d="M 265,150 L 555,150 Z" style="stroke: rgb(34%,80%,89%); stroke-linecap: butt; stroke-width: 2;"/>
-			<text x="291.0546875" y="180" style="font-family: Liberation Sans; font-size: 16px;fill: rgb(10%,18%,23%); stroke:none;" transform="translate(0,360) scale(1,-1)">Valor Criado − Investimento Total</text>
-			<text x="340.551513671875" y="113" style="font-family: Liberation Sans; font-size: 17px;fill: rgb(10%,18%,23%); stroke:none;" transform="translate(0,226) scale(1,-1)">Investimento Total</text>
+			<text x="291.0546875" y="180" style="font-family: Liberation Sans, Arial, sans-serif; font-size: 16px;fill: rgb(10%,18%,23%); stroke:none;" transform="translate(0,360) scale(1,-1)">Valor Criado − Investimento Total</text>
+			<text x="340.551513671875" y="113" style="font-family: Liberation Sans, Arial, sans-serif; font-size: 17px;fill: rgb(10%,18%,23%); stroke:none;" transform="translate(0,226) scale(1,-1)">Investimento Total</text>
 		</g>
 	</g>
 </svg>

@@ -109,7 +109,8 @@ def concept(n,w=600,h=280):
  return d
 def save_svg(d,path,title,alt):
  renderSVG.drawToFile(d,str(path));s=path.read_text(encoding='utf8').replace('<title>...</title>','<title>'+html.escape(title)+'</title>').replace('<desc>...</desc>','<desc>'+html.escape(alt)+'</desc>')
- s=s.replace('font-family: AtlasSans-Bold;','font-family: Liberation Sans; font-weight: bold;').replace('font-family: AtlasSans;','font-family: Liberation Sans;').replace('font-family: Crimson;','font-family: Crimson Text;')
+ s=re.sub(r'<!DOCTYPE[\s\S]*?>\s*','',s)
+ s=s.replace('font-family: AtlasSans-Bold;','font-family: Liberation Sans, Arial, sans-serif; font-weight: bold;').replace('font-family: AtlasSans;','font-family: Liberation Sans, Arial, sans-serif;').replace('font-family: Crimson;','font-family: Crimson Text, Georgia, serif;')
  path.write_text(s,encoding='utf8')
 
 class Painter:

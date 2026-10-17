@@ -1,7 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE svg
-  PUBLIC '-//W3C//DTD SVG 1.0//EN'
-  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
 <svg width="720" height="230" preserveAspectRatio="xMinYMin meet" viewBox="0 0 720 230" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
 	<title>Impacto do erro e reversibilidade</title>
 	<desc>Impacto do erro e reversibilidade. A reversibilidade não elimina o risco. Alto impacto exige supervisão proporcional; casos de baixo impacto e alta reversibilidade tendem a ser candidatos melhores à automação.</desc>
@@ -12,16 +9,16 @@
 		<g transform="">
 			<rect x="42" y="136" width="308" height="70" style="stroke: rgb(2%,9%,16%); stroke-linecap: butt; stroke-width: 0.9; fill: rgb(2%,9%,16%); fill-rule: evenodd;"/>
 			<rect x="42" y="136" width="3" height="70" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(34%,80%,89%); fill-rule: evenodd;"/>
-			<text x="74.46923828124999" y="165.0" style="font-family: Liberation Sans; font-weight: bold; font-size: 18px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,330) scale(1,-1)">Alto impacto · difícil reverter</text>
+			<text x="74.46923828124999" y="165.0" style="font-family: Liberation Sans, Arial, sans-serif; font-weight: bold; font-size: 18px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,330) scale(1,-1)">Alto impacto · difícil reverter</text>
 			<rect x="370" y="136" width="308" height="70" style="stroke: rgb(2%,9%,16%); stroke-linecap: butt; stroke-width: 0.9; fill: rgb(2%,9%,16%); fill-rule: evenodd;"/>
 			<rect x="370" y="136" width="3" height="70" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(34%,80%,89%); fill-rule: evenodd;"/>
-			<text x="407.96240234375" y="165.0" style="font-family: Liberation Sans; font-weight: bold; font-size: 18px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,330) scale(1,-1)">Alto impacto · fácil reverter</text>
+			<text x="407.96240234375" y="165.0" style="font-family: Liberation Sans, Arial, sans-serif; font-weight: bold; font-size: 18px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,330) scale(1,-1)">Alto impacto · fácil reverter</text>
 			<rect x="42" y="24" width="308" height="70" style="stroke: rgb(77%,82%,83%); stroke-linecap: butt; stroke-width: 0.9; fill: rgb(92%,94%,93%); fill-rule: evenodd;"/>
 			<rect x="42" y="24" width="3" height="70" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(50%,66%,69%); fill-rule: evenodd;"/>
-			<text x="77.95849609374999" y="53.0" style="font-family: Liberation Sans; font-size: 18px;fill: rgb(10%,18%,23%); stroke:none;" transform="translate(0,106) scale(1,-1)">Baixo impacto · difícil reverter</text>
+			<text x="77.95849609374999" y="53.0" style="font-family: Liberation Sans, Arial, sans-serif; font-size: 18px;fill: rgb(10%,18%,23%); stroke:none;" transform="translate(0,106) scale(1,-1)">Baixo impacto · difícil reverter</text>
 			<rect x="370" y="24" width="308" height="70" style="stroke: rgb(77%,82%,83%); stroke-linecap: butt; stroke-width: 0.9; fill: rgb(92%,94%,93%); fill-rule: evenodd;"/>
 			<rect x="370" y="24" width="3" height="70" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(50%,66%,69%); fill-rule: evenodd;"/>
-			<text x="410.45849609375" y="53.0" style="font-family: Liberation Sans; font-size: 18px;fill: rgb(10%,18%,23%); stroke:none;" transform="translate(0,106) scale(1,-1)">Baixo impacto · fácil reverter</text>
+			<text x="410.45849609375" y="53.0" style="font-family: Liberation Sans, Arial, sans-serif; font-size: 18px;fill: rgb(10%,18%,23%); stroke:none;" transform="translate(0,106) scale(1,-1)">Baixo impacto · fácil reverter</text>
 		</g>
 	</g>
 </svg>

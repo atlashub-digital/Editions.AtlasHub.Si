@@ -277,7 +277,17 @@
       "destinations": [
         "capitulo-07",
         "PARTE V — A EQUAÇÃO DA EMPRESA AUMENTADA"
-      ]
+      ],
+      "locations": {
+        "A4": [
+          84,
+          250
+        ],
+        "A5": [
+          116,
+          336
+        ]
+      }
     },
     {
       "id": "EA000-IMG-002",
@@ -299,7 +309,17 @@
       "destinations": [
         "capitulo-16",
         "PARTE II — ESTAMOS A USAR IA DA FORMA ERRADA?"
-      ]
+      ],
+      "locations": {
+        "A4": [
+          43,
+          222
+        ],
+        "A5": [
+          60,
+          299
+        ]
+      }
     },
     {
       "id": "EA000-IMG-003",
@@ -320,7 +340,15 @@
       "sha256": "a08fafa963e1c79dbbfd6782eb06bc2d4feaa4dfdf9c4cc5ef0cf588d3cea057",
       "destinations": [
         "PARTE III — A EMPRESA AUMENTADA"
-      ]
+      ],
+      "locations": {
+        "A4": [
+          83
+        ],
+        "A5": [
+          115
+        ]
+      }
     },
     {
       "id": "EA000-IMG-004",
@@ -341,7 +369,15 @@
       "sha256": "95d62e19ab0c9fdbdf2a48b1121d301f2928b747daaa5254712ac060c4c743db",
       "destinations": [
         "capitulo-12"
-      ]
+      ],
+      "locations": {
+        "A4": [
+          166
+        ],
+        "A5": [
+          226
+        ]
+      }
     },
     {
       "id": "EA000-IMG-005",
@@ -363,7 +399,17 @@
       "destinations": [
         "capitulo-17",
         "PARTE IV — A EMPRESA EM FUNCIONAMENTO"
-      ]
+      ],
+      "locations": {
+        "A4": [
+          165,
+          234
+        ],
+        "A5": [
+          225,
+          315
+        ]
+      }
     },
     {
       "id": "EA000-IMG-006",
@@ -384,7 +430,15 @@
       "sha256": "73a770fac39566d1d346429a8cc93af05d39d15d38368cda7ac5c985665403a1",
       "destinations": [
         "capitulo-13"
-      ]
+      ],
+      "locations": {
+        "A4": [
+          181
+        ],
+        "A5": [
+          246
+        ]
+      }
     },
     {
       "id": "EA000-IMG-007",
@@ -405,7 +459,15 @@
       "sha256": "33f8c9472dc6ccbd76e86a70b8046bea2e52e768b8cdc26afb21c53a3dfb16ef",
       "destinations": [
         "capitulo-15"
-      ]
+      ],
+      "locations": {
+        "A4": [
+          209
+        ],
+        "A5": [
+          282
+        ]
+      }
     },
     {
       "id": "EA000-IMG-008",
@@ -426,7 +488,15 @@
       "sha256": "264a3c74bbffbc3769b29447d610d7b59644103cd193cc35ff86bedde505010e",
       "destinations": [
         "PARTE I — COMO CHEGAMOS AQUI"
-      ]
+      ],
+      "locations": {
+        "A4": [
+          10
+        ],
+        "A5": [
+          12
+        ]
+      }
     },
     {
       "id": "EA000-FIG-001",
@@ -441,7 +511,7 @@
       "rights": "Conteúdo do autor; desenho AtlasHub Editions. Homologação final pendente.",
       "resolution": "vector",
       "canonical_sha256": "d8ff671ad31aa12bfbc83ec4c5a1643738ae5aba52b41961a88fa8440c5229c1",
-      "sha256": "85065a62927aa171f180524ee5705d9cbd6e384dc35ae774ca40d257759175ec",
+      "sha256": "fccc5a630b2f095eb08799a8071d7507eed72470d22a764c7eb90d16fc5b1c52",
       "canonical_rows": [
         [
           "Objetivos do negócio"
@@ -465,7 +535,15 @@
       "feedback": true,
       "destinations": [
         "capitulo-07"
-      ]
+      ],
+      "locations": {
+        "A4": [
+          87
+        ],
+        "A5": [
+          119
+        ]
+      }
     },
     {
       "id": "EA000-FIG-002",
@@ -480,7 +558,7 @@
       "rights": "Conteúdo do autor; desenho AtlasHub Editions. Homologação final pendente.",
       "resolution": "vector",
       "canonical_sha256": "2f891280fbc554c95551b5af0aa00f5738d298d9764dbe56423ab77c49d6dd95",
-      "sha256": "333dd73129cf5b4f5c695597261a94c9309e6a6e3c0e95968216aa4dd0dc2da4",
+      "sha256": "ca5972a31faab7caf7ebace6c364fb5ea73093c384f95290e77af48d2d5efb8d",
       "canonical_rows": [
         [
           "1 Objetivos do negócio",
@@ -503,7 +581,15 @@
       "feedback": false,
       "destinations": [
         "capitulo-07"
-      ]
+      ],
+      "locations": {
+        "A4": [
+          93
+        ],
+        "A5": [
+          128
+        ]
+      }
     },
     {
       "id": "EA000-FIG-003",
@@ -518,7 +604,7 @@
       "rights": "Conteúdo do autor; desenho AtlasHub Editions. Homologação final pendente.",
       "resolution": "vector",
       "canonical_sha256": "30fb8a8250fb9da3a687b9c3ac736fc9f6c4a7b42756b2590d81c7a3134f0424",
-      "sha256": "d1b05adb84a45f52f4633e4f09017bf1ab166a7c5188192e76c436a9791300d3",
+      "sha256": "5ad8ada528ea09fd3e72e0a2cf7b254ea2c2b2838a948069146c8fa2f9995d6a",
       "canonical_rows": [
         [
           "Política: critérios e limites"
@@ -537,7 +623,15 @@
       "feedback": true,
       "destinations": [
         "capitulo-08"
-      ]
+      ],
+      "locations": {
+        "A4": [
+          100
+        ],
+        "A5": [
+          137
+        ]
+      }
     },
     {
       "id": "EA000-FIG-004",
@@ -552,7 +646,7 @@
       "rights": "Conteúdo do autor; desenho AtlasHub Editions. Homologação final pendente.",
       "resolution": "vector",
       "canonical_sha256": "07699a42186f830b145afc126a662b13d180d4e3e48e3a19f521934c00e35d02",
-      "sha256": "3ba60ae24f2d863c019d760d12557ed9e5e556d66d67db3982206cc8d48658a6",
+      "sha256": "2300ab2c4a81b98bd43af88d63846ef0d7321322611fde2a5ec7facf40daf2d8",
       "canonical_rows": [
         [
           "A Execução automática"
@@ -571,7 +665,15 @@
       "feedback": false,
       "destinations": [
         "capitulo-08"
-      ]
+      ],
+      "locations": {
+        "A4": [
+          106
+        ],
+        "A5": [
+          146
+        ]
+      }
     },
     {
       "id": "EA000-FIG-005",
@@ -586,7 +688,7 @@
       "rights": "Conteúdo do autor; desenho AtlasHub Editions. Homologação final pendente.",
       "resolution": "vector",
       "canonical_sha256": "1c25b687a03fbf815b66287626351dc290b2eb954325edb46a25941be6146800",
-      "sha256": "e3abd52bd041c03e57a75f6c7e70e69b4f876c714f227cde81eb2859ee40f738",
+      "sha256": "2a6c033c261dca9ff051601fbd6e11306e646d745a60336e5bf4d6becde551f3",
       "canonical_rows": [
         [
           "Gatilho e contexto"
@@ -612,7 +714,15 @@
       "feedback": false,
       "destinations": [
         "capitulo-09"
-      ]
+      ],
+      "locations": {
+        "A4": [
+          114
+        ],
+        "A5": [
+          155
+        ]
+      }
     },
     {
       "id": "EA000-FIG-006",
@@ -627,7 +737,7 @@
       "rights": "Conteúdo do autor; desenho AtlasHub Editions. Homologação final pendente.",
       "resolution": "vector",
       "canonical_sha256": "f781d129aa9d888c5365cb89d8d287a0e6aa23f9a402a84cdaedcf215c89d466",
-      "sha256": "c21fa5239ffc5472ea8d14274f2715db09614cde46dd346d878e6594543f604e",
+      "sha256": "16ec776db30cf9155af02f2f831825d89407f00cb14c5313859dac86e3d4ac75",
       "canonical_rows": [
         [
           "Desenho e teste offline"
@@ -649,7 +759,15 @@
       "feedback": false,
       "destinations": [
         "capitulo-09"
-      ]
+      ],
+      "locations": {
+        "A4": [
+          126
+        ],
+        "A5": [
+          171
+        ]
+      }
     },
     {
       "id": "EA000-FIG-007",
@@ -664,7 +782,7 @@
       "rights": "Conteúdo do autor; desenho AtlasHub Editions. Homologação final pendente.",
       "resolution": "vector",
       "canonical_sha256": "150c32b2fb8855f5d3202f7635f260aa1a26ac70e0447ef1ce6d3110d45339bf",
-      "sha256": "a72fea4b5797429b553b5a092f643eeb7d91e3e9f96d2410ef959dce75d3904e",
+      "sha256": "1fb91e418163cd1c34c0660398154962cf6c3993082bb89ab12873f90eaadb43",
       "canonical_rows": [
         [
           "Direção"
@@ -684,7 +802,15 @@
       "feedback": false,
       "destinations": [
         "capitulo-10"
-      ]
+      ],
+      "locations": {
+        "A4": [
+          133
+        ],
+        "A5": [
+          180
+        ]
+      }
     },
     {
       "id": "EA000-FIG-008",
@@ -699,7 +825,7 @@
       "rights": "Conteúdo do autor; desenho AtlasHub Editions. Homologação final pendente.",
       "resolution": "vector",
       "canonical_sha256": "739e14798d65e04f87f5e34976c2f00ff1a344f214413d401f5f07f77138fed1",
-      "sha256": "f77cbd6b02c0fb4f8da2b2197df4325b19cbbb280708c5db4789255a4c1b7b25",
+      "sha256": "fda512417d8c69c75cbe99e63d6e3b5a0c77f93bf60846c164b66ed4c542b3c0",
       "canonical_rows": [
         [
           "Direção humana"
@@ -729,7 +855,15 @@
       "feedback": false,
       "destinations": [
         "capitulo-10"
-      ]
+      ],
+      "locations": {
+        "A4": [
+          134
+        ],
+        "A5": [
+          181
+        ]
+      }
     },
     {
       "id": "EA000-FIG-009",
@@ -744,7 +878,7 @@
       "rights": "Conteúdo do autor; desenho AtlasHub Editions. Homologação final pendente.",
       "resolution": "vector",
       "canonical_sha256": "0fca7af232f6d7e0fcbada759c6f7838bb92ab73870af2da9d1e6b2dc7fb0053",
-      "sha256": "67c070a3927173d7f73eb0e52b9e36d545b01c3be1e821726c9f97f0079b5da2",
+      "sha256": "0d8995c554811a5de197b6da9274401c243d287d2a12fee0be8408bccac6a747",
       "canonical_rows": [
         [
           "Autoridade humana"
@@ -769,7 +903,15 @@
       "feedback": false,
       "destinations": [
         "capitulo-10"
-      ]
+      ],
+      "locations": {
+        "A4": [
+          135
+        ],
+        "A5": [
+          182
+        ]
+      }
     },
     {
       "id": "EA000-FIG-010",
@@ -784,7 +926,7 @@
       "rights": "Conteúdo do autor; desenho AtlasHub Editions. Homologação final pendente.",
       "resolution": "vector",
       "canonical_sha256": "7d552a961745780ec6e055eb72a7cffde570eff525d753f6927c91f131bf2e67",
-      "sha256": "0239878c868180fed9c845d47b5ce5765e39be514bf95e8b8bf475adadfbf7cd",
+      "sha256": "d80309ba8df9b73552f6100c8d8a99a2c9b769eb26ecae75f95bc7fbaa74cee7",
       "canonical_rows": [
         [
           "Política e autoridade humana"
@@ -804,7 +946,15 @@
       "feedback": false,
       "destinations": [
         "capitulo-10"
-      ]
+      ],
+      "locations": {
+        "A4": [
+          137
+        ],
+        "A5": [
+          185
+        ]
+      }
     },
     {
       "id": "EA000-FIG-011",
@@ -819,7 +969,7 @@
       "rights": "Conteúdo do autor; desenho AtlasHub Editions. Homologação final pendente.",
       "resolution": "vector",
       "canonical_sha256": "711cab77c19e9b472239d75d90eff5f58aeae1479baa76931fecb8f0f60621c6",
-      "sha256": "30bc4d81519a3fe4d43482c15903889eb9b1f8df688b23ed70587c54e9bd2540",
+      "sha256": "92f07f4435b4acb47514e21f82828a9ab5c53cf2cabe0c350026443f770f2353",
       "canonical_rows": [
         [
           "Direção"
@@ -843,7 +993,15 @@
       "feedback": false,
       "destinations": [
         "capitulo-10"
-      ]
+      ],
+      "locations": {
+        "A4": [
+          139
+        ],
+        "A5": [
+          188
+        ]
+      }
     },
     {
       "id": "EA000-FIG-012",
@@ -858,7 +1016,7 @@
       "rights": "Conteúdo do autor; desenho AtlasHub Editions. Homologação final pendente.",
       "resolution": "vector",
       "canonical_sha256": "d1cdfa46fbd1f47af44784577683e8a8011d717bb1d4e6bf6e55310b43e0860f",
-      "sha256": "9a73dd628c442bee7b428ef1ff8136ff7719e24fa0b72f422881601e7243c3e4",
+      "sha256": "a8b970d952a91efce94b6102f418bb4a46f396b7c22d7b71f8a8d4a3d7342392",
       "canonical_rows": [
         [
           "Sinal de mercado"
@@ -882,7 +1040,15 @@
       "feedback": false,
       "destinations": [
         "capitulo-11"
-      ]
+      ],
+      "locations": {
+        "A4": [
+          153
+        ],
+        "A5": [
+          207
+        ]
+      }
     },
     {
       "id": "EA000-FIG-013",
@@ -897,7 +1063,7 @@
       "rights": "Conteúdo do autor; desenho AtlasHub Editions. Homologação final pendente.",
       "resolution": "vector",
       "canonical_sha256": "7a2b5133fd3f65cc2a3ea08f386e9dbee872c9597e8dd5b9687d72c0f1987680",
-      "sha256": "a0b23c0ec3878563bfd453d5c33c8b971f43308437a8083819af77572a3d72ce",
+      "sha256": "ebf0cf28c2b131173474e557116b840aae9524fe05c87568075e9444258e41eb",
       "canonical_rows": [
         [
           "Dados de mercado",
@@ -918,7 +1084,15 @@
       "feedback": false,
       "destinations": [
         "capitulo-11"
-      ]
+      ],
+      "locations": {
+        "A4": [
+          154
+        ],
+        "A5": [
+          209
+        ]
+      }
     },
     {
       "id": "EA000-FIG-014",
@@ -933,7 +1107,7 @@
       "rights": "Conteúdo do autor; desenho AtlasHub Editions. Homologação final pendente.",
       "resolution": "vector",
       "canonical_sha256": "6af1e01f03d0f674e1d787781ceb1c68e2549086ad9dec44aa3842f29f726eeb",
-      "sha256": "3d4970ab451bda2bc4217eff5a311fe245f09cba8d62a835bd97bc137baa61bf",
+      "sha256": "bbc5d20495095a3fa2c544155d5ed73f156e5838bb68a713223500edd0ecbbf7",
       "canonical_rows": [
         [
           "Proprietário e direção"
@@ -959,7 +1133,15 @@
       "feedback": false,
       "destinations": [
         "capitulo-12"
-      ]
+      ],
+      "locations": {
+        "A4": [
+          170
+        ],
+        "A5": [
+          232
+        ]
+      }
     },
     {
       "id": "EA000-FIG-015",
@@ -974,7 +1156,7 @@
       "rights": "Conteúdo do autor; desenho AtlasHub Editions. Homologação final pendente.",
       "resolution": "vector",
       "canonical_sha256": "2de9dfcb017621ba6efc21c4345677706025415974980ab6c4e2acf6b0ce3fd3",
-      "sha256": "96cd4d3796618abe540659383f3b6b0bcf7c589bf477a4d34addaa1e43831592",
+      "sha256": "fcd91a676f5d7a006fdc054b3de18ca177c56f4e2a2a9f86c6c578b7459bc12d",
       "canonical_rows": [
         [
           "Direção e responsáveis humanos"
@@ -998,7 +1180,15 @@
       "feedback": false,
       "destinations": [
         "capitulo-13"
-      ]
+      ],
+      "locations": {
+        "A4": [
+          184
+        ],
+        "A5": [
+          249
+        ]
+      }
     },
     {
       "id": "EA000-FIG-016",
@@ -1013,7 +1203,7 @@
       "rights": "Conteúdo do autor; desenho AtlasHub Editions. Homologação final pendente.",
       "resolution": "vector",
       "canonical_sha256": "be159ae2e4d0f1a8255e707e94777f4448dd7f7e52f712e8fbacd24302f82c87",
-      "sha256": "947fc5ccea82dc1482986d9dd75be09754170d54c5fbe821968d0e1f19f19fce",
+      "sha256": "339f8cde194e319ac3483b191632972b732d8d64ca912f1afbd7dc3e6873aa3f",
       "canonical_rows": [
         [
           "Contato e triagem"
@@ -1034,7 +1224,15 @@
       "feedback": false,
       "destinations": [
         "capitulo-13"
-      ]
+      ],
+      "locations": {
+        "A4": [
+          189
+        ],
+        "A5": [
+          255
+        ]
+      }
     },
     {
       "id": "EA000-FIG-017",
@@ -1049,7 +1247,7 @@
       "rights": "Conteúdo do autor; desenho AtlasHub Editions. Homologação final pendente.",
       "resolution": "vector",
       "canonical_sha256": "91cb3629d654730eced7826e0e85ed2b76c79942a34fba90040d8e19a98a5389",
-      "sha256": "fc4efddf12f6c5ce279403257f9b097dfa9ba98b9ecad7c1a9d7c8174b5b9171",
+      "sha256": "669be753e07c4d5c4bb904e2a0e3ef5e71af661628c05cd56d8ec1afe55507d1",
       "canonical_rows": [
         [
           "Sinal de mercado"
@@ -1073,7 +1271,15 @@
       "feedback": false,
       "destinations": [
         "capitulo-14"
-      ]
+      ],
+      "locations": {
+        "A4": [
+          201
+        ],
+        "A5": [
+          272
+        ]
+      }
     },
     {
       "id": "EA000-FIG-018",
@@ -1088,7 +1294,7 @@
       "rights": "Conteúdo do autor; desenho AtlasHub Editions. Homologação final pendente.",
       "resolution": "vector",
       "canonical_sha256": "479e163e4eb943fa0859d643ffaed9b86c0384136d8c1cdac4bc771f3a06dee5",
-      "sha256": "fc73ee7d9b30ca0c4abe601629d37a4d4604a6e97d9fe12205bc00d60377d297",
+      "sha256": "d9046895f6fad7c7884ae75c6a427264112b75f8d88e85ab93509bd69c97a403",
       "canonical_rows": [
         [
           "Interesse e triagem administrativa"
@@ -1110,7 +1316,15 @@
       "feedback": false,
       "destinations": [
         "capitulo-15"
-      ]
+      ],
+      "locations": {
+        "A4": [
+          211
+        ],
+        "A5": [
+          285
+        ]
+      }
     },
     {
       "id": "EA000-FIG-019",
@@ -1125,7 +1339,7 @@
       "rights": "Conteúdo do autor; desenho AtlasHub Editions. Homologação final pendente.",
       "resolution": "vector",
       "canonical_sha256": "75f2d8886f35968dc902830a2cc63c9d64e3f0d741d439e96e931f8ab97614ac",
-      "sha256": "c1a7af3d8dda5d097498c4eec374547231847ac3069a4e571860ad9f8b35250e",
+      "sha256": "4c1d1d739348b458c5a46c3df5a055fb0ac8c588d923d8ee184d87cfee33aed2",
       "canonical_rows": [
         [
           "Canais de entrada e registro no CRM"
@@ -1151,7 +1365,15 @@
       "feedback": false,
       "destinations": [
         "capitulo-16"
-      ]
+      ],
+      "locations": {
+        "A4": [
+          224
+        ],
+        "A5": [
+          302
+        ]
+      }
     },
     {
       "id": "EA000-FIG-020",
@@ -1166,7 +1388,7 @@
       "rights": "Conteúdo do autor; desenho AtlasHub Editions. Homologação final pendente.",
       "resolution": "vector",
       "canonical_sha256": "ff766684e9889bc357489412d8ea1a14ebe8e5f5e50af0f1bcf39e0f6e1abc42",
-      "sha256": "792e7259c6372420ec7e138beda0d1278afdc761c651ab75819239195e4eaff7",
+      "sha256": "a7f9c1a536aebb5a9293c63940c834927eb2e96e0c53526e7794fb571e724c7d",
       "canonical_rows": [
         [
           "Evento do fornecedor"
@@ -1190,7 +1412,15 @@
       "feedback": false,
       "destinations": [
         "capitulo-17"
-      ]
+      ],
+      "locations": {
+        "A4": [
+          237
+        ],
+        "A5": [
+          319
+        ]
+      }
     },
     {
       "id": "EA000-FIG-021",
@@ -1205,7 +1435,7 @@
       "rights": "Conteúdo do autor; desenho AtlasHub Editions. Homologação final pendente.",
       "resolution": "vector",
       "canonical_sha256": "28daed15fa08a0a78c551178d23971834460fd6bf9f3d76ca0c597a7c14b4d38",
-      "sha256": "cc18a2e9a252fe8d6b935887f6c4dec5bb5dd16611f1ec23a238eb900ee438e5",
+      "sha256": "336371e89c14cdfe2e1115fce6f1a866d858eb2a149e30815bc5cf417936a52d",
       "canonical_rows": [
         [
           "Evento real"
@@ -1224,7 +1454,15 @@
       "feedback": false,
       "destinations": [
         "capitulo-17"
-      ]
+      ],
+      "locations": {
+        "A4": [
+          244
+        ],
+        "A5": [
+          329
+        ]
+      }
     },
     {
       "id": "EA000-FIG-022",
@@ -1239,7 +1477,7 @@
       "rights": "Conteúdo do autor; desenho AtlasHub Editions. Homologação final pendente.",
       "resolution": "vector",
       "canonical_sha256": "3b26ddbea41258214a059831f415b558f29c3d8510a8aac2adc6784f33a7c405",
-      "sha256": "f7f4b011e4bfb4c6d7b70cbbc6ea240d92a2f4ac65e94f379a1ce27c454d4e69",
+      "sha256": "9162e1c32be9f17d4788cbf7ad9310c515cf164710f5afdc6ab00dbaa2fe5d69",
       "canonical_rows": [
         [
           "Receita e custos",
@@ -1256,7 +1494,15 @@
       "feedback": false,
       "destinations": [
         "capitulo-18"
-      ]
+      ],
+      "locations": {
+        "A4": [
+          253
+        ],
+        "A5": [
+          339
+        ]
+      }
     },
     {
       "id": "EA000-FIG-023",
@@ -1271,7 +1517,7 @@
       "rights": "Conteúdo do autor; desenho AtlasHub Editions. Homologação final pendente.",
       "resolution": "vector",
       "canonical_sha256": "711d88ad1d68010435ec8af650e5014ec54548e49ecb2f6591c366a1c65b619e",
-      "sha256": "f3e233506552fc32acb686a238b3ebaa7b01da49693d184a13df4b47de3864ef",
+      "sha256": "ab8ea48368d3eeda50183688bbc453eb8b977a40f3e60cefa83a73a2057da0bc",
       "canonical_rows": [
         [
           "Evento"
@@ -1290,7 +1536,15 @@
       "feedback": false,
       "destinations": [
         "capitulo-18"
-      ]
+      ],
+      "locations": {
+        "A4": [
+          256
+        ],
+        "A5": [
+          344
+        ]
+      }
     },
     {
       "id": "EA000-FIG-024",
@@ -1305,7 +1559,7 @@
       "rights": "Conteúdo do autor; desenho AtlasHub Editions. Homologação final pendente.",
       "resolution": "vector",
       "canonical_sha256": "54f587a013aefce3e8ab6438bfa4f1327fa19a3326ab6429d9eb9070bd07a6bb",
-      "sha256": "c630912c3be1ddc8bd8a256edf6a0fe849fafa7b7575e5ab68dcde5f3e8d5c70",
+      "sha256": "9a512adf8ee5325f70a7a913b06854ca9fc61e999973472326820343b8d63654",
       "canonical_rows": [
         [
           "Agente amplia cobertura de follow-up"
@@ -1324,7 +1578,15 @@
       "feedback": false,
       "destinations": [
         "capitulo-18"
-      ]
+      ],
+      "locations": {
+        "A4": [
+          260
+        ],
+        "A5": [
+          349
+        ]
+      }
     },
     {
       "id": "EA000-FIG-025",
@@ -1339,7 +1601,7 @@
       "rights": "Conteúdo do autor; desenho AtlasHub Editions. Homologação final pendente.",
       "resolution": "vector",
       "canonical_sha256": "167c369278abcad760b364557e9d4ca7077e4327ccadce8237b19d287218cb19",
-      "sha256": "a7fb41fb1f493e5f6ab91ac2ccfba0369b024744fa8345636e6c98cfc1742c38",
+      "sha256": "e22a10e3ee9e77c9291863a9d28b80b3e4f1e552f33924b8485979b22fcbe8de",
       "canonical_rows": [
         [
           "Alto impacto · difícil reverter",
@@ -1354,7 +1616,15 @@
       "feedback": false,
       "destinations": [
         "capitulo-20"
-      ]
+      ],
+      "locations": {
+        "A4": [
+          281
+        ],
+        "A5": [
+          379
+        ]
+      }
     },
     {
       "id": "EA000-FIG-026",
@@ -1369,7 +1639,7 @@
       "rights": "Conteúdo do autor; desenho AtlasHub Editions. Homologação final pendente.",
       "resolution": "vector",
       "canonical_sha256": "d50e3d33e93f0bcd1e95c4450685204e17927738aa3cc8ce72f027618fa3587a",
-      "sha256": "196b07a5549c4649bba7d948ae933e027ac135338903a5938ea0d58ae720f1f9",
+      "sha256": "0774b8462471ec471d945ab0d2b4e1d9a69467ac03fdb53545c9bf017bd0ed9b",
       "canonical_rows": [
         [
           "Ação proposta e avaliação de impacto"
@@ -1389,7 +1659,15 @@
       "feedback": false,
       "destinations": [
         "capitulo-20"
-      ]
+      ],
+      "locations": {
+        "A4": [
+          286
+        ],
+        "A5": [
+          385
+        ]
+      }
     },
     {
       "id": "EA000-FIG-027",
@@ -1404,7 +1682,7 @@
       "rights": "Conteúdo do autor; desenho AtlasHub Editions. Homologação final pendente.",
       "resolution": "vector",
       "canonical_sha256": "3ace9764bfd928c6b4a21be80647bc164ec962e3c03abbd417c3d3a5a65cc92d",
-      "sha256": "cc46d0dfdee962928f9dcb6899f7c02ccc32c93ca5f3a1fefceda3779a7eecba",
+      "sha256": "1092ad64ab85cf9ee758d839133d88dd414d0156ddbb77e10fab882f168e79c1",
       "canonical_rows": [
         [
           "O processo cria valor?"
@@ -1425,7 +1703,15 @@
       "feedback": false,
       "destinations": [
         "capitulo-20"
-      ]
+      ],
+      "locations": {
+        "A4": [
+          289
+        ],
+        "A5": [
+          389
+        ]
+      }
     },
     {
       "id": "EA000-FIG-028",
@@ -1440,7 +1726,7 @@
       "rights": "Conteúdo do autor; desenho AtlasHub Editions. Homologação final pendente.",
       "resolution": "vector",
       "canonical_sha256": "dabfc202339ca41bff24ab491cd678ffab434920cf984c4a68b8cd7ec71ab71a",
-      "sha256": "7ddc3f023be6d6346b15df20d5220d9bd32010a5eb7cd1878c7f278b51ac6cd8",
+      "sha256": "0e4b6dc78595cc5a093270000c0f334bda8ec93c3b51ceb0515e097e28e41282",
       "canonical_rows": [
         [
           "Gatilho e pessoa"
@@ -1462,7 +1748,15 @@
       "feedback": false,
       "destinations": [
         "capitulo-21"
-      ]
+      ],
+      "locations": {
+        "A4": [
+          297
+        ],
+        "A5": [
+          400
+        ]
+      }
     },
     {
       "id": "EA000-FIG-029",
@@ -1477,7 +1771,7 @@
       "rights": "Conteúdo do autor; desenho AtlasHub Editions. Homologação final pendente.",
       "resolution": "vector",
       "canonical_sha256": "dd4db99147aa5b57f47c6589c3a4d0398e06a124d81216f47ca33b856ac6255f",
-      "sha256": "d51b53af3e731d0f6b04cb3de66fcbf91e687493b3fc3a82a0fd17cd4feaba28",
+      "sha256": "5e6b6c820197bac121503c02cb5d704546118baaa48af21b1bdf0e318886939f",
       "canonical_rows": [
         [
           "Descobrir e desenhar"
@@ -1497,7 +1791,15 @@
       "feedback": false,
       "destinations": [
         "capitulo-21"
-      ]
+      ],
+      "locations": {
+        "A4": [
+          303
+        ],
+        "A5": [
+          408
+        ]
+      }
     },
     {
       "id": "EA000-CH-01",
@@ -1514,7 +1816,16 @@
       "resolution": "vector",
       "destinations": [
         "capitulo-01"
-      ]
+      ],
+      "locations": {
+        "A4": [
+          11
+        ],
+        "A5": [
+          13
+        ]
+      },
+      "sha256": "276a8b33bf001eeee0fdb248a935594f039fad37a8ec84bf172c05b7e39333fc"
     },
     {
       "id": "EA000-CH-02",
@@ -1531,7 +1842,16 @@
       "resolution": "vector",
       "destinations": [
         "capitulo-02"
-      ]
+      ],
+      "locations": {
+        "A4": [
+          20
+        ],
+        "A5": [
+          27
+        ]
+      },
+      "sha256": "a7e30d04fe5f390eddeb36f41f32a652ad0d9232fe892e7027c3dea4988cc80e"
     },
     {
       "id": "EA000-CH-03",
@@ -1548,7 +1868,16 @@
       "resolution": "vector",
       "destinations": [
         "capitulo-03"
-      ]
+      ],
+      "locations": {
+        "A4": [
+          33
+        ],
+        "A5": [
+          46
+        ]
+      },
+      "sha256": "806a334038ab552952bd70f6211fab97f8bb237a4fb4755c04fbb9cbd8953ae6"
     },
     {
       "id": "EA000-CH-04",
@@ -1565,7 +1894,16 @@
       "resolution": "vector",
       "destinations": [
         "capitulo-04"
-      ]
+      ],
+      "locations": {
+        "A4": [
+          44
+        ],
+        "A5": [
+          61
+        ]
+      },
+      "sha256": "a360350597c2731f47a031dba9f975bf7d9516e1adc632da2ab86acb637b814c"
     },
     {
       "id": "EA000-CH-05",
@@ -1582,7 +1920,16 @@
       "resolution": "vector",
       "destinations": [
         "capitulo-05"
-      ]
+      ],
+      "locations": {
+        "A4": [
+          56
+        ],
+        "A5": [
+          79
+        ]
+      },
+      "sha256": "951a04a2be3eaebd27a1b5beea3c6dad8f67760983dc88b80f47f2e2116a625c"
     },
     {
       "id": "EA000-CH-06",
@@ -1599,7 +1946,16 @@
       "resolution": "vector",
       "destinations": [
         "capitulo-06"
-      ]
+      ],
+      "locations": {
+        "A4": [
+          69
+        ],
+        "A5": [
+          96
+        ]
+      },
+      "sha256": "180017c5ff478350968cce5c0914aac788fadf2901d6f12b16b6516cfcf2c00b"
     },
     {
       "id": "EA000-CH-07",
@@ -1616,7 +1972,16 @@
       "resolution": "see referenced photo",
       "destinations": [
         "capitulo-07"
-      ]
+      ],
+      "locations": {
+        "A4": [
+          84
+        ],
+        "A5": [
+          116
+        ]
+      },
+      "sha256": "7349bd15b057e2bd81d3259f21aa340b6d748a6139dbdd46e33e52e9c057bcd0"
     },
     {
       "id": "EA000-CH-08",
@@ -1633,7 +1998,16 @@
       "resolution": "vector",
       "destinations": [
         "capitulo-08"
-      ]
+      ],
+      "locations": {
+        "A4": [
+          96
+        ],
+        "A5": [
+          132
+        ]
+      },
+      "sha256": "f61425d0af7e4b11491e0556164f9063f601915024b940f0212f27bacb637b02"
     },
     {
       "id": "EA000-CH-09",
@@ -1650,7 +2024,16 @@
       "resolution": "vector",
       "destinations": [
         "capitulo-09"
-      ]
+      ],
+      "locations": {
+        "A4": [
+          112
+        ],
+        "A5": [
+          153
+        ]
+      },
+      "sha256": "73507a4ede9cc059ba41e119cc51421fb0dad3fcf1b4361010ef78551dca8553"
     },
     {
       "id": "EA000-CH-10",
@@ -1667,7 +2050,16 @@
       "resolution": "vector",
       "destinations": [
         "capitulo-10"
-      ]
+      ],
+      "locations": {
+        "A4": [
+          131
+        ],
+        "A5": [
+          177
+        ]
+      },
+      "sha256": "f113cac34dad7667c06a522d3b123e3e16283fa1a9f8979cdb1b2f1d9d658579"
     },
     {
       "id": "EA000-CH-11",
@@ -1684,7 +2076,16 @@
       "resolution": "vector",
       "destinations": [
         "capitulo-11"
-      ]
+      ],
+      "locations": {
+        "A4": [
+          146
+        ],
+        "A5": [
+          198
+        ]
+      },
+      "sha256": "d3806fae99cc955c2192a8dd8445a2432b944d7313ddd057fc07360b955cf666"
     },
     {
       "id": "EA000-CH-12",
@@ -1701,7 +2102,16 @@
       "resolution": "see referenced photo",
       "destinations": [
         "capitulo-12"
-      ]
+      ],
+      "locations": {
+        "A4": [
+          166
+        ],
+        "A5": [
+          226
+        ]
+      },
+      "sha256": "95d62e19ab0c9fdbdf2a48b1121d301f2928b747daaa5254712ac060c4c743db"
     },
     {
       "id": "EA000-CH-13",
@@ -1718,7 +2128,16 @@
       "resolution": "see referenced photo",
       "destinations": [
         "capitulo-13"
-      ]
+      ],
+      "locations": {
+        "A4": [
+          181
+        ],
+        "A5": [
+          246
+        ]
+      },
+      "sha256": "73a770fac39566d1d346429a8cc93af05d39d15d38368cda7ac5c985665403a1"
     },
     {
       "id": "EA000-CH-14",
@@ -1735,7 +2154,16 @@
       "resolution": "vector",
       "destinations": [
         "capitulo-14"
-      ]
+      ],
+      "locations": {
+        "A4": [
+          197
+        ],
+        "A5": [
+          266
+        ]
+      },
+      "sha256": "613c945f66a43ee95340ffd74a118235de44fdd72721ff218eccdaf8b9a66644"
     },
     {
       "id": "EA000-CH-15",
@@ -1752,7 +2180,16 @@
       "resolution": "see referenced photo",
       "destinations": [
         "capitulo-15"
-      ]
+      ],
+      "locations": {
+        "A4": [
+          209
+        ],
+        "A5": [
+          282
+        ]
+      },
+      "sha256": "33f8c9472dc6ccbd76e86a70b8046bea2e52e768b8cdc26afb21c53a3dfb16ef"
     },
     {
       "id": "EA000-CH-16",
@@ -1769,7 +2206,16 @@
       "resolution": "see referenced photo",
       "destinations": [
         "capitulo-16"
-      ]
+      ],
+      "locations": {
+        "A4": [
+          222
+        ],
+        "A5": [
+          299
+        ]
+      },
+      "sha256": "20fbb9e7f080326114be3b8f2b4e3ac1584fe22146e30a24b9c3a5392f04a1cb"
     },
     {
       "id": "EA000-CH-17",
@@ -1786,7 +2232,16 @@
       "resolution": "see referenced photo",
       "destinations": [
         "capitulo-17"
-      ]
+      ],
+      "locations": {
+        "A4": [
+          234
+        ],
+        "A5": [
+          315
+        ]
+      },
+      "sha256": "709c3e21a600bb488f0031e60d135dafd42c67491de065acafcd212bde61e34a"
     },
     {
       "id": "EA000-CH-18",
@@ -1803,7 +2258,16 @@
       "resolution": "vector",
       "destinations": [
         "capitulo-18"
-      ]
+      ],
+      "locations": {
+        "A4": [
+          251
+        ],
+        "A5": [
+          337
+        ]
+      },
+      "sha256": "9a5568119c2e4325dfa8df1b5cc36abfb2eae4ca1493657670541f7f020bb3ee"
     },
     {
       "id": "EA000-CH-19",
@@ -1820,7 +2284,16 @@
       "resolution": "vector",
       "destinations": [
         "capitulo-19"
-      ]
+      ],
+      "locations": {
+        "A4": [
+          263
+        ],
+        "A5": [
+          354
+        ]
+      },
+      "sha256": "e29ec7d2e3f28bd7b973ed7b581ad0e1d55632b871a20d7f82cd820252e32aeb"
     },
     {
       "id": "EA000-CH-20",
@@ -1837,7 +2310,16 @@
       "resolution": "vector",
       "destinations": [
         "capitulo-20"
-      ]
+      ],
+      "locations": {
+        "A4": [
+          277
+        ],
+        "A5": [
+          373
+        ]
+      },
+      "sha256": "0502a3f3de78576c9fc7050b9427d1e7d13fba3d7bca443d4d06fe60f5593203"
     },
     {
       "id": "EA000-CH-21",
@@ -1854,7 +2336,16 @@
       "resolution": "vector",
       "destinations": [
         "capitulo-21"
-      ]
+      ],
+      "locations": {
+        "A4": [
+          292
+        ],
+        "A5": [
+          393
+        ]
+      },
+      "sha256": "1f0a8a039a89d0633c7b027ecb2fbdd0b77402cc711b1e35b1cdf908f9657ccd"
     },
     {
       "id": "EA000-PART-01",
@@ -1865,7 +2356,16 @@
       "alt": "Abertura da PARTE I — COMO CHEGAMOS AQUI. Arquitetura e atividade organizacional como metáfora visual.",
       "kind": "part-opening",
       "rights": "Composição AtlasHub Editions; recurso fotográfico conceptual identificado na biblioteca.",
-      "destinations": []
+      "destinations": [],
+      "locations": {
+        "A4": [
+          10
+        ],
+        "A5": [
+          12
+        ]
+      },
+      "sha256": "264a3c74bbffbc3769b29447d610d7b59644103cd193cc35ff86bedde505010e"
     },
     {
       "id": "EA000-PART-02",
@@ -1876,7 +2376,16 @@
       "alt": "Abertura da PARTE II — ESTAMOS A USAR IA DA FORMA ERRADA?. Arquitetura e atividade organizacional como metáfora visual.",
       "kind": "part-opening",
       "rights": "Composição AtlasHub Editions; recurso fotográfico conceptual identificado na biblioteca.",
-      "destinations": []
+      "destinations": [],
+      "locations": {
+        "A4": [
+          43
+        ],
+        "A5": [
+          60
+        ]
+      },
+      "sha256": "20fbb9e7f080326114be3b8f2b4e3ac1584fe22146e30a24b9c3a5392f04a1cb"
     },
     {
       "id": "EA000-PART-03",
@@ -1887,7 +2396,16 @@
       "alt": "Abertura da PARTE III — A EMPRESA AUMENTADA. Arquitetura e atividade organizacional como metáfora visual.",
       "kind": "part-opening",
       "rights": "Composição AtlasHub Editions; recurso fotográfico conceptual identificado na biblioteca.",
-      "destinations": []
+      "destinations": [],
+      "locations": {
+        "A4": [
+          83
+        ],
+        "A5": [
+          115
+        ]
+      },
+      "sha256": "a08fafa963e1c79dbbfd6782eb06bc2d4feaa4dfdf9c4cc5ef0cf588d3cea057"
     },
     {
       "id": "EA000-PART-04",
@@ -1898,7 +2416,16 @@
       "alt": "Abertura da PARTE IV — A EMPRESA EM FUNCIONAMENTO. Arquitetura e atividade organizacional como metáfora visual.",
       "kind": "part-opening",
       "rights": "Composição AtlasHub Editions; recurso fotográfico conceptual identificado na biblioteca.",
-      "destinations": []
+      "destinations": [],
+      "locations": {
+        "A4": [
+          165
+        ],
+        "A5": [
+          225
+        ]
+      },
+      "sha256": "709c3e21a600bb488f0031e60d135dafd42c67491de065acafcd212bde61e34a"
     },
     {
       "id": "EA000-PART-05",
@@ -1909,7 +2436,16 @@
       "alt": "Abertura da PARTE V — A EQUAÇÃO DA EMPRESA AUMENTADA. Arquitetura e atividade organizacional como metáfora visual.",
       "kind": "part-opening",
       "rights": "Composição AtlasHub Editions; recurso fotográfico conceptual identificado na biblioteca.",
-      "destinations": []
+      "destinations": [],
+      "locations": {
+        "A4": [
+          250
+        ],
+        "A5": [
+          336
+        ]
+      },
+      "sha256": "7349bd15b057e2bd81d3259f21aa340b6d748a6139dbdd46e33e52e9c057bcd0"
     },
     {
       "id": "EA000-COVER-FRONT",
@@ -1923,7 +2459,15 @@
       "destinations": [
         "capa"
       ],
-      "sha256": "b9ab8971e6f8948c3462c9e9cbe3562414a0dfa1e3a34899248be597bb2fd140"
+      "sha256": "b9ab8971e6f8948c3462c9e9cbe3562414a0dfa1e3a34899248be597bb2fd140",
+      "locations": {
+        "A4": [
+          1
+        ],
+        "A5": [
+          1
+        ]
+      }
     },
     {
       "id": "EA000-COVER-BACK",
@@ -1937,7 +2481,15 @@
       "destinations": [
         "contracapa"
       ],
-      "sha256": "ee76804056b06b8448b6267ce44c6620d6cb3435ed1cf125136d2cadca49535b"
+      "sha256": "ee76804056b06b8448b6267ce44c6620d6cb3435ed1cf125136d2cadca49535b",
+      "locations": {
+        "A4": [
+          323
+        ],
+        "A5": [
+          435
+        ]
+      }
     }
   ],
   "print_profile": {

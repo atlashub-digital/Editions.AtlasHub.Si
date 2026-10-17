@@ -1,7 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE svg
-  PUBLIC '-//W3C//DTD SVG 1.0//EN'
-  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
 <svg width="720" height="566" preserveAspectRatio="xMinYMin meet" viewBox="0 0 720 566" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
 	<title>A jornada administrativa da clínica</title>
 	<desc>A jornada administrativa da clínica. A automação apoia a jornada administrativa. Questões clínicas e situações sensíveis são encaminhadas ao profissional competente.</desc>
@@ -20,19 +17,19 @@
 			<polygon points="360 98, 356 105, 364 105" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(29%,52%,59%); fill-rule: evenodd;"/>
 			<rect x="42" y="472" width="636" height="70" style="stroke: rgb(2%,9%,16%); stroke-linecap: butt; stroke-width: 0.9; fill: rgb(2%,9%,16%); fill-rule: evenodd;"/>
 			<rect x="42" y="472" width="3" height="70" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(34%,80%,89%); fill-rule: evenodd;"/>
-			<text x="214.43554687499997" y="501.0" style="font-family: Liberation Sans; font-weight: bold; font-size: 18px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,1002) scale(1,-1)">Interesse e triagem administrativa</text>
+			<text x="214.43554687499997" y="501.0" style="font-family: Liberation Sans, Arial, sans-serif; font-weight: bold; font-size: 18px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,1002) scale(1,-1)">Interesse e triagem administrativa</text>
 			<rect x="42" y="360" width="636" height="70" style="stroke: rgb(77%,82%,83%); stroke-linecap: butt; stroke-width: 0.9; fill: rgb(92%,94%,93%); fill-rule: evenodd;"/>
 			<rect x="42" y="360" width="3" height="70" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(50%,66%,69%); fill-rule: evenodd;"/>
-			<text x="249.92578125" y="389.0" style="font-family: Liberation Sans; font-size: 18px;fill: rgb(10%,18%,23%); stroke:none;" transform="translate(0,778) scale(1,-1)">Informação e agendamento</text>
+			<text x="249.92578125" y="389.0" style="font-family: Liberation Sans, Arial, sans-serif; font-size: 18px;fill: rgb(10%,18%,23%); stroke:none;" transform="translate(0,778) scale(1,-1)">Informação e agendamento</text>
 			<rect x="42" y="248" width="636" height="70" style="stroke: rgb(77%,82%,83%); stroke-linecap: butt; stroke-width: 0.9; fill: rgb(92%,94%,93%); fill-rule: evenodd;"/>
 			<rect x="42" y="248" width="3" height="70" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(50%,66%,69%); fill-rule: evenodd;"/>
-			<text x="308.9794921875" y="277.0" style="font-family: Liberation Sans; font-size: 18px;fill: rgb(10%,18%,23%); stroke:none;" transform="translate(0,554) scale(1,-1)">Confirmação</text>
+			<text x="308.9794921875" y="277.0" style="font-family: Liberation Sans, Arial, sans-serif; font-size: 18px;fill: rgb(10%,18%,23%); stroke:none;" transform="translate(0,554) scale(1,-1)">Confirmação</text>
 			<rect x="42" y="136" width="636" height="70" style="stroke: rgb(77%,82%,83%); stroke-linecap: butt; stroke-width: 0.9; fill: rgb(92%,94%,93%); fill-rule: evenodd;"/>
 			<rect x="42" y="136" width="3" height="70" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(50%,66%,69%); fill-rule: evenodd;"/>
-			<text x="261.44384765625" y="165.0" style="font-family: Liberation Sans; font-size: 18px;fill: rgb(10%,18%,23%); stroke:none;" transform="translate(0,330) scale(1,-1)">Atendimento profissional</text>
+			<text x="261.44384765625" y="165.0" style="font-family: Liberation Sans, Arial, sans-serif; font-size: 18px;fill: rgb(10%,18%,23%); stroke:none;" transform="translate(0,330) scale(1,-1)">Atendimento profissional</text>
 			<rect x="42" y="24" width="636" height="70" style="stroke: rgb(2%,9%,16%); stroke-linecap: butt; stroke-width: 0.9; fill: rgb(2%,9%,16%); fill-rule: evenodd;"/>
 			<rect x="42" y="24" width="3" height="70" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(34%,80%,89%); fill-rule: evenodd;"/>
-			<text x="220.98779296874997" y="53.0" style="font-family: Liberation Sans; font-weight: bold; font-size: 18px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,106) scale(1,-1)">Pós-atendimento e continuidade</text>
+			<text x="220.98779296874997" y="53.0" style="font-family: Liberation Sans, Arial, sans-serif; font-weight: bold; font-size: 18px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,106) scale(1,-1)">Pós-atendimento e continuidade</text>
 		</g>
 	</g>
 </svg>

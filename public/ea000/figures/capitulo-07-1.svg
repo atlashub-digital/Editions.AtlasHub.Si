@@ -1,7 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE svg
-  PUBLIC '-//W3C//DTD SVG 1.0//EN'
-  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
 <svg width="720" height="566" preserveAspectRatio="xMinYMin meet" viewBox="0 0 720 566" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
 	<title>A arquitetura da Empresa Aumentada</title>
 	<desc>A arquitetura da Empresa Aumentada. A governança conecta a capacidade operacional aos objetivos; a avaliação dos resultados realimenta a direção.</desc>
@@ -28,26 +25,26 @@
 			<polygon points="360 98, 356 105, 364 105" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(29%,52%,59%); fill-rule: evenodd;"/>
 			<rect x="42" y="472" width="636" height="70" style="stroke: rgb(2%,9%,16%); stroke-linecap: butt; stroke-width: 0.9; fill: rgb(2%,9%,16%); fill-rule: evenodd;"/>
 			<rect x="42" y="472" width="3" height="70" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(34%,80%,89%); fill-rule: evenodd;"/>
-			<text x="268.49267578125" y="501.0" style="font-family: Liberation Sans; font-weight: bold; font-size: 18px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,1002) scale(1,-1)">Objetivos do negócio</text>
+			<text x="268.49267578125" y="501.0" style="font-family: Liberation Sans, Arial, sans-serif; font-weight: bold; font-size: 18px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,1002) scale(1,-1)">Objetivos do negócio</text>
 			<rect x="42" y="360" width="198.66666666666666" height="70" style="stroke: rgb(77%,82%,83%); stroke-linecap: butt; stroke-width: 0.9; fill: rgb(92%,94%,93%); fill-rule: evenodd;"/>
 			<rect x="42" y="360" width="3" height="70" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(50%,66%,69%); fill-rule: evenodd;"/>
-			<text x="64.7805989583333" y="389.0" style="font-family: Liberation Sans; font-size: 18px;fill: rgb(10%,18%,23%); stroke:none;" transform="translate(0,778) scale(1,-1)">Pessoas e agentes</text>
+			<text x="64.7805989583333" y="389.0" style="font-family: Liberation Sans, Arial, sans-serif; font-size: 18px;fill: rgb(10%,18%,23%); stroke:none;" transform="translate(0,778) scale(1,-1)">Pessoas e agentes</text>
 			<rect x="260.66666666666663" y="360" width="198.66666666666663" height="70" style="stroke: rgb(77%,82%,83%); stroke-linecap: butt; stroke-width: 0.9; fill: rgb(92%,94%,93%); fill-rule: evenodd;"/>
 			<rect x="260.66666666666663" y="360" width="3.0" height="70" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(50%,66%,69%); fill-rule: evenodd;"/>
-			<text x="310.47802734374994" y="401.0" style="font-family: Liberation Sans; font-size: 18px;fill: rgb(10%,18%,23%); stroke:none;" transform="translate(0,802) scale(1,-1)">Processos e</text>
-			<text x="318.96826171874994" y="377.0" style="font-family: Liberation Sans; font-size: 18px;fill: rgb(10%,18%,23%); stroke:none;" transform="translate(0,754) scale(1,-1)">tecnologia</text>
+			<text x="310.47802734374994" y="401.0" style="font-family: Liberation Sans, Arial, sans-serif; font-size: 18px;fill: rgb(10%,18%,23%); stroke:none;" transform="translate(0,802) scale(1,-1)">Processos e</text>
+			<text x="318.96826171874994" y="377.0" style="font-family: Liberation Sans, Arial, sans-serif; font-size: 18px;fill: rgb(10%,18%,23%); stroke:none;" transform="translate(0,754) scale(1,-1)">tecnologia</text>
 			<rect x="479.3333333333333" y="360" width="198.66666666666669" height="70" style="stroke: rgb(77%,82%,83%); stroke-linecap: butt; stroke-width: 0.9; fill: rgb(92%,94%,93%); fill-rule: evenodd;"/>
 			<rect x="479.3333333333333" y="360" width="3.0" height="70" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(50%,66%,69%); fill-rule: evenodd;"/>
-			<text x="508.62223307291663" y="389.0" style="font-family: Liberation Sans; font-size: 18px;fill: rgb(10%,18%,23%); stroke:none;" transform="translate(0,778) scale(1,-1)">Dados e contexto</text>
+			<text x="508.62223307291663" y="389.0" style="font-family: Liberation Sans, Arial, sans-serif; font-size: 18px;fill: rgb(10%,18%,23%); stroke:none;" transform="translate(0,778) scale(1,-1)">Dados e contexto</text>
 			<rect x="42" y="248" width="636" height="70" style="stroke: rgb(77%,82%,83%); stroke-linecap: butt; stroke-width: 0.9; fill: rgb(92%,94%,93%); fill-rule: evenodd;"/>
 			<rect x="42" y="248" width="3" height="70" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(50%,66%,69%); fill-rule: evenodd;"/>
-			<text x="222.41601562499997" y="277.0" style="font-family: Liberation Sans; font-size: 18px;fill: rgb(10%,18%,23%); stroke:none;" transform="translate(0,554) scale(1,-1)">Governança e supervisão humana</text>
+			<text x="222.41601562499997" y="277.0" style="font-family: Liberation Sans, Arial, sans-serif; font-size: 18px;fill: rgb(10%,18%,23%); stroke:none;" transform="translate(0,554) scale(1,-1)">Governança e supervisão humana</text>
 			<rect x="42" y="136" width="636" height="70" style="stroke: rgb(77%,82%,83%); stroke-linecap: butt; stroke-width: 0.9; fill: rgb(92%,94%,93%); fill-rule: evenodd;"/>
 			<rect x="42" y="136" width="3" height="70" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(50%,66%,69%); fill-rule: evenodd;"/>
-			<text x="258.42919921875" y="165.0" style="font-family: Liberation Sans; font-size: 18px;fill: rgb(10%,18%,23%); stroke:none;" transform="translate(0,330) scale(1,-1)">Execução e coordenação</text>
+			<text x="258.42919921875" y="165.0" style="font-family: Liberation Sans, Arial, sans-serif; font-size: 18px;fill: rgb(10%,18%,23%); stroke:none;" transform="translate(0,330) scale(1,-1)">Execução e coordenação</text>
 			<rect x="42" y="24" width="636" height="70" style="stroke: rgb(2%,9%,16%); stroke-linecap: butt; stroke-width: 0.9; fill: rgb(2%,9%,16%); fill-rule: evenodd;"/>
 			<rect x="42" y="24" width="3" height="70" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(34%,80%,89%); fill-rule: evenodd;"/>
-			<text x="145.92919921874997" y="53.0" style="font-family: Liberation Sans; font-weight: bold; font-size: 18px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,106) scale(1,-1)">Resultados: receita, custos, velocidade e controle</text>
+			<text x="145.92919921874997" y="53.0" style="font-family: Liberation Sans, Arial, sans-serif; font-weight: bold; font-size: 18px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,106) scale(1,-1)">Resultados: receita, custos, velocidade e controle</text>
 			<polyline points="42 59, 14 59, 14 507, 38 507" style="stroke: rgb(71%,60%,40%); stroke-linecap: butt; stroke-width: 1.6; fill: None; fill-rule: evenodd; stroke-dasharray: 5, 4;"/>
 			<polygon points="38 507, 31 511, 31 503" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(71%,60%,40%); fill-rule: evenodd;"/>
 		</g>

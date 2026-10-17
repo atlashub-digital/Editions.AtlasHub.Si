@@ -1,7 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE svg
-  PUBLIC '-//W3C//DTD SVG 1.0//EN'
-  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
 <svg width="720" height="454" preserveAspectRatio="xMinYMin meet" viewBox="0 0 720 454" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
 	<title>Escolher como redesenhar o trabalho</title>
 	<desc>Escolher como redesenhar o trabalho. Rotas condicionais de decisão, não uma sequência linear. Eliminar, automatizar, aumentar, preservar ou adiar dependem do diagnóstico.</desc>
@@ -12,24 +9,24 @@
 		<g transform="">
 			<rect x="42" y="360" width="636" height="70" style="stroke: rgb(2%,9%,16%); stroke-linecap: butt; stroke-width: 0.9; fill: rgb(2%,9%,16%); fill-rule: evenodd;"/>
 			<rect x="42" y="360" width="3" height="70" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(34%,80%,89%); fill-rule: evenodd;"/>
-			<text x="262.458984375" y="389.0" style="font-family: Liberation Sans; font-weight: bold; font-size: 18px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,778) scale(1,-1)">O processo cria valor?</text>
+			<text x="262.458984375" y="389.0" style="font-family: Liberation Sans, Arial, sans-serif; font-weight: bold; font-size: 18px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,778) scale(1,-1)">O processo cria valor?</text>
 			<rect x="42" y="248" width="308" height="70" style="stroke: rgb(77%,82%,83%); stroke-linecap: butt; stroke-width: 0.9; fill: rgb(92%,94%,93%); fill-rule: evenodd;"/>
 			<rect x="42" y="248" width="3" height="70" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(50%,66%,69%); fill-rule: evenodd;"/>
-			<text x="87.96484374999999" y="277.0" style="font-family: Liberation Sans; font-size: 18px;fill: rgb(10%,18%,23%); stroke:none;" transform="translate(0,554) scale(1,-1)">Não: eliminar ou simplificar</text>
+			<text x="87.96484374999999" y="277.0" style="font-family: Liberation Sans, Arial, sans-serif; font-size: 18px;fill: rgb(10%,18%,23%); stroke:none;" transform="translate(0,554) scale(1,-1)">Não: eliminar ou simplificar</text>
 			<rect x="370" y="248" width="308" height="70" style="stroke: rgb(77%,82%,83%); stroke-linecap: butt; stroke-width: 0.9; fill: rgb(92%,94%,93%); fill-rule: evenodd;"/>
 			<rect x="370" y="248" width="3" height="70" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(50%,66%,69%); fill-rule: evenodd;"/>
-			<text x="409.9619140625" y="277.0" style="font-family: Liberation Sans; font-size: 18px;fill: rgb(10%,18%,23%); stroke:none;" transform="translate(0,554) scale(1,-1)">Sim: avaliar estrutura e risco</text>
+			<text x="409.9619140625" y="277.0" style="font-family: Liberation Sans, Arial, sans-serif; font-size: 18px;fill: rgb(10%,18%,23%); stroke:none;" transform="translate(0,554) scale(1,-1)">Sim: avaliar estrutura e risco</text>
 			<rect x="42" y="136" width="308" height="70" style="stroke: rgb(77%,82%,83%); stroke-linecap: butt; stroke-width: 0.9; fill: rgb(92%,94%,93%); fill-rule: evenodd;"/>
 			<rect x="42" y="136" width="3" height="70" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(50%,66%,69%); fill-rule: evenodd;"/>
-			<text x="100.46728515624999" y="177.0" style="font-family: Liberation Sans; font-size: 18px;fill: rgb(10%,18%,23%); stroke:none;" transform="translate(0,354) scale(1,-1)">Baixo risco e reversível:</text>
-			<text x="148.978515625" y="153.0" style="font-family: Liberation Sans; font-size: 18px;fill: rgb(10%,18%,23%); stroke:none;" transform="translate(0,306) scale(1,-1)">automatizar</text>
+			<text x="100.46728515624999" y="177.0" style="font-family: Liberation Sans, Arial, sans-serif; font-size: 18px;fill: rgb(10%,18%,23%); stroke:none;" transform="translate(0,354) scale(1,-1)">Baixo risco e reversível:</text>
+			<text x="148.978515625" y="153.0" style="font-family: Liberation Sans, Arial, sans-serif; font-size: 18px;fill: rgb(10%,18%,23%); stroke:none;" transform="translate(0,306) scale(1,-1)">automatizar</text>
 			<rect x="370" y="136" width="308" height="70" style="stroke: rgb(77%,82%,83%); stroke-linecap: butt; stroke-width: 0.9; fill: rgb(92%,94%,93%); fill-rule: evenodd;"/>
 			<rect x="370" y="136" width="3" height="70" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(50%,66%,69%); fill-rule: evenodd;"/>
-			<text x="394.923828125" y="177.0" style="font-family: Liberation Sans; font-size: 18px;fill: rgb(10%,18%,23%); stroke:none;" transform="translate(0,354) scale(1,-1)">Julgamento relevante: aumentar</text>
-			<text x="473.47607421875" y="153.0" style="font-family: Liberation Sans; font-size: 18px;fill: rgb(10%,18%,23%); stroke:none;" transform="translate(0,306) scale(1,-1)">ou preservar</text>
+			<text x="394.923828125" y="177.0" style="font-family: Liberation Sans, Arial, sans-serif; font-size: 18px;fill: rgb(10%,18%,23%); stroke:none;" transform="translate(0,354) scale(1,-1)">Julgamento relevante: aumentar</text>
+			<text x="473.47607421875" y="153.0" style="font-family: Liberation Sans, Arial, sans-serif; font-size: 18px;fill: rgb(10%,18%,23%); stroke:none;" transform="translate(0,306) scale(1,-1)">ou preservar</text>
 			<rect x="42" y="24" width="636" height="70" style="stroke: rgb(2%,9%,16%); stroke-linecap: butt; stroke-width: 0.9; fill: rgb(2%,9%,16%); fill-rule: evenodd;"/>
 			<rect x="42" y="24" width="3" height="70" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(34%,80%,89%); fill-rule: evenodd;"/>
-			<text x="164.94873046874997" y="53.0" style="font-family: Liberation Sans; font-weight: bold; font-size: 18px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,106) scale(1,-1)">Condições insuficientes: redesenhar ou adiar</text>
+			<text x="164.94873046874997" y="53.0" style="font-family: Liberation Sans, Arial, sans-serif; font-weight: bold; font-size: 18px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,106) scale(1,-1)">Condições insuficientes: redesenhar ou adiar</text>
 		</g>
 	</g>
 </svg>

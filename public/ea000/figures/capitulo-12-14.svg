@@ -1,7 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE svg
-  PUBLIC '-//W3C//DTD SVG 1.0//EN'
-  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
 <svg width="720" height="566" preserveAspectRatio="xMinYMin meet" viewBox="0 0 720 566" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
 	<title>Mapa operacional do supermercado</title>
 	<desc>Mapa operacional do supermercado. Cenário didático. Os fluxos regulares são coordenados; divergências e decisões sensíveis retornam ao responsável humano. O arranjo mostra camadas e funções; não atribui autoridade de agentes sobre pessoas.</desc>
@@ -12,33 +9,33 @@
 		<g transform="">
 			<rect x="42" y="472" width="636" height="70" style="stroke: rgb(2%,9%,16%); stroke-linecap: butt; stroke-width: 0.9; fill: rgb(2%,9%,16%); fill-rule: evenodd;"/>
 			<rect x="42" y="472" width="3" height="70" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(34%,80%,89%); fill-rule: evenodd;"/>
-			<text x="266.9677734375" y="501.0" style="font-family: Liberation Sans; font-weight: bold; font-size: 18px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,1002) scale(1,-1)">Proprietário e direção</text>
+			<text x="266.9677734375" y="501.0" style="font-family: Liberation Sans, Arial, sans-serif; font-weight: bold; font-size: 18px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,1002) scale(1,-1)">Proprietário e direção</text>
 			<rect x="42" y="360" width="636" height="70" style="stroke: rgb(77%,82%,83%); stroke-linecap: butt; stroke-width: 0.9; fill: rgb(92%,94%,93%); fill-rule: evenodd;"/>
 			<rect x="42" y="360" width="3" height="70" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(50%,66%,69%); fill-rule: evenodd;"/>
-			<text x="276.93896484375" y="389.0" style="font-family: Liberation Sans; font-size: 18px;fill: rgb(10%,18%,23%); stroke:none;" transform="translate(0,778) scale(1,-1)">Coordenação da loja</text>
+			<text x="276.93896484375" y="389.0" style="font-family: Liberation Sans, Arial, sans-serif; font-size: 18px;fill: rgb(10%,18%,23%); stroke:none;" transform="translate(0,778) scale(1,-1)">Coordenação da loja</text>
 			<rect x="42" y="248" width="198.66666666666666" height="70" style="stroke: rgb(77%,82%,83%); stroke-linecap: butt; stroke-width: 0.9; fill: rgb(92%,94%,93%); fill-rule: evenodd;"/>
 			<rect x="42" y="248" width="3" height="70" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(50%,66%,69%); fill-rule: evenodd;"/>
-			<text x="63.7918294270833" y="277.0" style="font-family: Liberation Sans; font-size: 18px;fill: rgb(10%,18%,23%); stroke:none;" transform="translate(0,554) scale(1,-1)">Estoque e compras</text>
+			<text x="63.7918294270833" y="277.0" style="font-family: Liberation Sans, Arial, sans-serif; font-size: 18px;fill: rgb(10%,18%,23%); stroke:none;" transform="translate(0,554) scale(1,-1)">Estoque e compras</text>
 			<rect x="260.66666666666663" y="248" width="198.66666666666663" height="70" style="stroke: rgb(77%,82%,83%); stroke-linecap: butt; stroke-width: 0.9; fill: rgb(92%,94%,93%); fill-rule: evenodd;"/>
 			<rect x="260.66666666666663" y="248" width="3.0" height="70" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(50%,66%,69%); fill-rule: evenodd;"/>
-			<text x="311.47558593749994" y="289.0" style="font-family: Liberation Sans; font-size: 18px;fill: rgb(10%,18%,23%); stroke:none;" transform="translate(0,578) scale(1,-1)">Promoção e</text>
-			<text x="310.46484374999994" y="265.0" style="font-family: Liberation Sans; font-size: 18px;fill: rgb(10%,18%,23%); stroke:none;" transform="translate(0,530) scale(1,-1)">atendimento</text>
+			<text x="311.47558593749994" y="289.0" style="font-family: Liberation Sans, Arial, sans-serif; font-size: 18px;fill: rgb(10%,18%,23%); stroke:none;" transform="translate(0,578) scale(1,-1)">Promoção e</text>
+			<text x="310.46484374999994" y="265.0" style="font-family: Liberation Sans, Arial, sans-serif; font-size: 18px;fill: rgb(10%,18%,23%); stroke:none;" transform="translate(0,530) scale(1,-1)">atendimento</text>
 			<rect x="479.3333333333333" y="248" width="198.66666666666669" height="70" style="stroke: rgb(77%,82%,83%); stroke-linecap: butt; stroke-width: 0.9; fill: rgb(92%,94%,93%); fill-rule: evenodd;"/>
 			<rect x="479.3333333333333" y="248" width="3.0" height="70" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(50%,66%,69%); fill-rule: evenodd;"/>
-			<text x="532.1417643229166" y="289.0" style="font-family: Liberation Sans; font-size: 18px;fill: rgb(10%,18%,23%); stroke:none;" transform="translate(0,578) scale(1,-1)">Conciliação</text>
-			<text x="539.6432291666666" y="265.0" style="font-family: Liberation Sans; font-size: 18px;fill: rgb(10%,18%,23%); stroke:none;" transform="translate(0,530) scale(1,-1)">financeira</text>
+			<text x="532.1417643229166" y="289.0" style="font-family: Liberation Sans, Arial, sans-serif; font-size: 18px;fill: rgb(10%,18%,23%); stroke:none;" transform="translate(0,578) scale(1,-1)">Conciliação</text>
+			<text x="539.6432291666666" y="265.0" style="font-family: Liberation Sans, Arial, sans-serif; font-size: 18px;fill: rgb(10%,18%,23%); stroke:none;" transform="translate(0,530) scale(1,-1)">financeira</text>
 			<rect x="42" y="136" width="198.66666666666666" height="70" style="stroke: rgb(77%,82%,83%); stroke-linecap: butt; stroke-width: 0.9; fill: rgb(92%,94%,93%); fill-rule: evenodd;"/>
 			<rect x="42" y="136" width="3" height="70" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(50%,66%,69%); fill-rule: evenodd;"/>
-			<text x="94.31624348958331" y="165.0" style="font-family: Liberation Sans; font-size: 18px;fill: rgb(10%,18%,23%); stroke:none;" transform="translate(0,330) scale(1,-1)">ERP e PDV</text>
+			<text x="94.31624348958331" y="165.0" style="font-family: Liberation Sans, Arial, sans-serif; font-size: 18px;fill: rgb(10%,18%,23%); stroke:none;" transform="translate(0,330) scale(1,-1)">ERP e PDV</text>
 			<rect x="260.66666666666663" y="136" width="198.66666666666663" height="70" style="stroke: rgb(77%,82%,83%); stroke-linecap: butt; stroke-width: 0.9; fill: rgb(92%,94%,93%); fill-rule: evenodd;"/>
 			<rect x="260.66666666666663" y="136" width="3.0" height="70" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(50%,66%,69%); fill-rule: evenodd;"/>
-			<text x="273.44970703124994" y="165.0" style="font-family: Liberation Sans; font-size: 18px;fill: rgb(10%,18%,23%); stroke:none;" transform="translate(0,330) scale(1,-1)">WhatsApp e entregas</text>
+			<text x="273.44970703124994" y="165.0" style="font-family: Liberation Sans, Arial, sans-serif; font-size: 18px;fill: rgb(10%,18%,23%); stroke:none;" transform="translate(0,330) scale(1,-1)">WhatsApp e entregas</text>
 			<rect x="479.3333333333333" y="136" width="198.66666666666669" height="70" style="stroke: rgb(77%,82%,83%); stroke-linecap: butt; stroke-width: 0.9; fill: rgb(92%,94%,93%); fill-rule: evenodd;"/>
 			<rect x="479.3333333333333" y="136" width="3.0" height="70" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(50%,66%,69%); fill-rule: evenodd;"/>
-			<text x="536.6461588541666" y="165.0" style="font-family: Liberation Sans; font-size: 18px;fill: rgb(10%,18%,23%); stroke:none;" transform="translate(0,330) scale(1,-1)">Financeiro</text>
+			<text x="536.6461588541666" y="165.0" style="font-family: Liberation Sans, Arial, sans-serif; font-size: 18px;fill: rgb(10%,18%,23%); stroke:none;" transform="translate(0,330) scale(1,-1)">Financeiro</text>
 			<rect x="42" y="24" width="636" height="70" style="stroke: rgb(2%,9%,16%); stroke-linecap: butt; stroke-width: 0.9; fill: rgb(2%,9%,16%); fill-rule: evenodd;"/>
 			<rect x="42" y="24" width="3" height="70" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(34%,80%,89%); fill-rule: evenodd;"/>
-			<text x="186.43798828124997" y="53.0" style="font-family: Liberation Sans; font-weight: bold; font-size: 18px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,106) scale(1,-1)">Equipe da loja e tratamento de exceções</text>
+			<text x="186.43798828124997" y="53.0" style="font-family: Liberation Sans, Arial, sans-serif; font-weight: bold; font-size: 18px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,106) scale(1,-1)">Equipe da loja e tratamento de exceções</text>
 		</g>
 	</g>
 </svg>

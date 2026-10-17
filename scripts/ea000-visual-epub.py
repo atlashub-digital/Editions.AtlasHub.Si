@@ -24,9 +24,11 @@ for i,s in enumerate(hsections):
   parent=im.getparent();fig=etree.Element('figure');clone=copy.deepcopy(im);clone.tail=None;fig.append(clone);cap=etree.SubElement(fig,'figcaption');cap.text='Figura '+str(f['number'])+' — '+f['title']+'. '+f['caption']+' Fonte: '+f['source']
   if parent.tag=='p' and len(parent)==1 and not(parent.text or '').strip():parent.getparent().replace(parent,fig)
   else:parent.replace(im,fig)
+ heading_ids={}
  for el in body.iter():
   if el.tag=='h1':el.tag='h2'
-  if el.tag=='h2':el.set('id',re.sub(r'[^a-z0-9]+','-',unicodedata.normalize('NFKD',el.text_content()).encode('ascii','ignore').decode().lower()).strip('-'))
+  if el.tag=='h2':
+   key=re.sub(r'[^a-z0-9]+','-',unicodedata.normalize('NFKD',el.text_content()).encode('ascii','ignore').decode().lower()).strip('-');heading_ids[key]=heading_ids.get(key,0)+1;el.set('id',key+('-'+str(heading_ids[key]) if heading_ids[key]>1 else ''))
   if el.tag=='a':
    href=el.get('href','')
    if href.startswith('/'):el.set('href','https://editions.atlashub.si'+href)
@@ -54,6 +56,8 @@ checked=0
 for name,data in payload.items():
  if name.endswith(('.xml','.opf','.xhtml','.svg')):
   tree=etree.fromstring(data,etree.XMLParser(load_dtd=False,no_network=True));checked+=1
+  ids=[el.get('id') for el in tree.iter() if el.get('id')];assert len(ids)==len(set(ids)),(name,'duplicate IDs')
+  if name.endswith('.svg'):assert b'<!DOCTYPE' not in data,(name,'external DTD')
   for el in tree.iter():
    for attr in ['href','src']:
     ref=el.get(attr,'').split('#')[0]

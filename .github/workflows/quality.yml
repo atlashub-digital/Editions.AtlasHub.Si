@@ -27,7 +27,7 @@ jobs:
           unzip -q "$RUNNER_TEMP/epubcheck.zip" -d "$RUNNER_TEMP/epubcheck"
           epubcheck_jar="$(find "$RUNNER_TEMP/epubcheck" -name epubcheck.jar -print -quit)"
           test -n "$epubcheck_jar"
-          printf '77cf185f2566dcc02ddcc71fc445d2186f24c6a8daa8771aae60875dd5a21290  %s\n' public/downloads/visual/EA-000_Empresa-Aumentada_visual.epub | sha256sum --check
+          printf 'd74bf7f8edfcab00de67ac6999b5d04fa5f835db2405e454363ae56f73c1e09c  %s\n' public/downloads/visual/EA-000_Empresa-Aumentada_visual.epub | sha256sum --check
           if ! java -jar "$epubcheck_jar" public/downloads/visual/EA-000_Empresa-Aumentada_visual.epub -j "$RUNNER_TEMP/ea000-epubcheck.json"; then
             cat "$RUNNER_TEMP/ea000-epubcheck.json"
             exit 1
