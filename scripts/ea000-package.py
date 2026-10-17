@@ -54,6 +54,7 @@ items=[]
 for p in ART.iterdir():
  folder='01_CAPA_E_IDENTIDADE' if 'Capa-Contracapa' in p.name else '05_QA_E_ENTREGA';items.append((p,folder+'/'+p.name))
 for p in [ED/'master.md',ROOT/'content/empresa-aumentada-manuscript.json',ED/'changes.json',ED/'README.md',ED/'FACT_CHECK.md',ED/'sources/baseline.json',ED/'publication.manifest.json']:items.append((p,'00_MASTER_EDITORIAL/'+p.name))
+items.append((ED/'DESIGN_SYSTEM.md','01_CAPA_E_IDENTIDADE/DESIGN_SYSTEM.md'))
 for p in list((ROOT/'public/diagrams').glob('capitulo-*.svg'))+[ED/'figure-specs.json',ED/'figures.json']:items.append((p,'02_MEDIA_EDITORIAL/'+p.name))
 items.append((ROOT/'public/diagrams/ea000-cover.svg','01_CAPA_E_IDENTIDADE/ea000-cover.svg'))
 for p in (ED/'fonts').iterdir():items.append((p,'06_FONTES_COMPOSICAO/editorial/ea000/fonts/'+p.name))
