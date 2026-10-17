@@ -1,0 +1,102 @@
+[
+  {
+    "file": "EA-000_Empresa-Aumentada_A4_visual_digital.pdf",
+    "pages": 323,
+    "checkedTextBlocks": 1346,
+    "missingTextBlocks": [],
+    "allFontsEmbedded": true,
+    "fonts": {
+      "/AAAAAA+LiberationSans": true,
+      "/AAAAAA+LiberationSans-Bold": true,
+      "/AAAAAA+CrimsonText-Regular": true,
+      "/AAAAAA+CrimsonText-Bold": true,
+      "/AAAAAA+CrimsonText-BoldItalic": true,
+      "/AAAAAA+CrimsonText-Italic": true,
+      "/AAAAAA+LiberationSans-Italic": true
+    },
+    "trimErrors": [],
+    "imageColorSpaces": [
+      "/DeviceRGB"
+    ],
+    "outputIntentPresent": false,
+    "links": 87,
+    "sha256": "56a4ce1c2b781a84e2ad19018238097f89991bb0872539a0bafd0caad5758367",
+    "pdfxCertified": false,
+    "printerApproval": false
+  },
+  {
+    "file": "EA-000_Empresa-Aumentada_A4_visual_impressao.pdf",
+    "pages": 323,
+    "checkedTextBlocks": 1346,
+    "missingTextBlocks": [],
+    "allFontsEmbedded": true,
+    "fonts": {
+      "/AAAAAA+LiberationSans": true,
+      "/AAAAAA+LiberationSans-Bold": true,
+      "/AAAAAA+CrimsonText-Regular": true,
+      "/AAAAAA+CrimsonText-Bold": true,
+      "/AAAAAA+CrimsonText-BoldItalic": true,
+      "/AAAAAA+CrimsonText-Italic": true,
+      "/AAAAAA+LiberationSans-Italic": true
+    },
+    "trimErrors": [],
+    "imageColorSpaces": [
+      "/DeviceCMYK"
+    ],
+    "outputIntentPresent": true,
+    "links": 87,
+    "sha256": "24c789b0fbc77a976a987529bddc8415840a7dcb871fdb7beb519f1d1ec05fb0",
+    "pdfxCertified": false,
+    "printerApproval": false
+  },
+  {
+    "file": "EA-000_Empresa-Aumentada_A5_visual_digital.pdf",
+    "pages": 435,
+    "checkedTextBlocks": 1346,
+    "missingTextBlocks": [],
+    "allFontsEmbedded": true,
+    "fonts": {
+      "/AAAAAA+LiberationSans": true,
+      "/AAAAAA+LiberationSans-Bold": true,
+      "/AAAAAA+CrimsonText-Regular": true,
+      "/AAAAAA+CrimsonText-Bold": true,
+      "/AAAAAA+CrimsonText-BoldItalic": true,
+      "/AAAAAA+CrimsonText-Italic": true,
+      "/AAAAAA+LiberationSans-Italic": true
+    },
+    "trimErrors": [],
+    "imageColorSpaces": [
+      "/DeviceRGB"
+    ],
+    "outputIntentPresent": false,
+    "links": 88,
+    "sha256": "b8f669597dac85dab8502739d998f5ffcc5a488e88e70de2a216d316c2cab81f",
+    "pdfxCertified": false,
+    "printerApproval": false
+  },
+  {
+    "file": "EA-000_Empresa-Aumentada_A5_visual_impressao.pdf",
+    "pages": 435,
+    "checkedTextBlocks": 1346,
+    "missingTextBlocks": [],
+    "allFontsEmbedded": true,
+    "fonts": {
+      "/AAAAAA+LiberationSans": true,
+      "/AAAAAA+LiberationSans-Bold": true,
+      "/AAAAAA+CrimsonText-Regular": true,
+      "/AAAAAA+CrimsonText-Bold": true,
+      "/AAAAAA+CrimsonText-BoldItalic": true,
+      "/AAAAAA+CrimsonText-Italic": true,
+      "/AAAAAA+LiberationSans-Italic": true
+    },
+    "trimErrors": [],
+    "imageColorSpaces": [
+      "/DeviceCMYK"
+    ],
+    "outputIntentPresent": true,
+    "links": 88,
+    "sha256": "0403ddb2ee46a956727deb62adc0008d77026c89350ef5d247d043124fd1966f",
+    "pdfxCertified": false,
+    "printerApproval": false
+  }
+]

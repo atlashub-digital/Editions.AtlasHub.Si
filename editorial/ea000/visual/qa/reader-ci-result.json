@@ -1,0 +1,20 @@
+{
+  "head": "5e2503cfb9ea6eae93b851166250d8243169cf2d",
+  "run": 39010869748,
+  "result": "success",
+  "viewports": [
+    1440,
+    390
+  ],
+  "sectionsPerViewport": 27,
+  "figuresPerViewport": 29,
+  "headingsExact": true,
+  "allImagesLoaded": true,
+  "horizontalOverflow": false,
+  "anchorsValid": true,
+  "controlsPassed": true,
+  "resumePassed": true,
+  "artifactId": 12092587322,
+  "liveProtectedPreviewQAPassed": false,
+  "liveAccessError": "Vercel connector forbidden 403 for atlas-hub1"
+}
