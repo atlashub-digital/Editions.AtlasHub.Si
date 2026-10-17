@@ -19,7 +19,7 @@ jobs:
       - run: npm run typecheck
       - run: npm run lint
       - run: npm run test:content
-      - name: Validate EA-000 with EPUBCheck 5.4.0
+      - name: Validate baseline EA-000 with EPUBCheck 5.4.0
         shell: bash
         run: |
           curl --fail --location --silent --show-error --output "$RUNNER_TEMP/epubcheck.zip" https://github.com/w3c/epubcheck/releases/download/v5.4.0/epubcheck-5.4.0.zip

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="720" height="342" preserveAspectRatio="xMinYMin meet" viewBox="0 0 720 342" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>A equação como teste de valor</title>
+	<desc>A equação como teste de valor. As setas da equação expressam objetivos de melhoria, não resultados garantidos nem uma identidade matemática de retorno.</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="720" height="342"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-342)" style="clip-path: url(#clip)">
+		<g transform="">
+			<polyline points="196 248, 196 227, 360 227, 360 210" style="stroke: rgb(29%,52%,59%); stroke-linecap: butt; stroke-width: 1.6; fill: None; fill-rule: evenodd;"/>
+			<polygon points="360 210, 356 217, 364 217" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(29%,52%,59%); fill-rule: evenodd;"/>
+			<polyline points="524 248, 524 227, 360 227, 360 210" style="stroke: rgb(29%,52%,59%); stroke-linecap: butt; stroke-width: 1.6; fill: None; fill-rule: evenodd;"/>
+			<polygon points="360 210, 356 217, 364 217" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(29%,52%,59%); fill-rule: evenodd;"/>
+			<polyline points="360 136, 360 115, 360 115, 360 98" style="stroke: rgb(29%,52%,59%); stroke-linecap: butt; stroke-width: 1.6; fill: None; fill-rule: evenodd;"/>
+			<polygon points="360 98, 356 105, 364 105" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(29%,52%,59%); fill-rule: evenodd;"/>
+			<rect x="42" y="248" width="308" height="70" style="stroke: rgb(2%,9%,16%); stroke-linecap: butt; stroke-width: 0.9; fill: rgb(2%,9%,16%); fill-rule: evenodd;"/>
+			<rect x="42" y="248" width="3" height="70" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(34%,80%,89%); fill-rule: evenodd;"/>
+			<text x="124.96679687499999" y="277.0" style="font-family: Liberation Sans; font-weight: bold; font-size: 18px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,554) scale(1,-1)">Receita e custos</text>
+			<rect x="370" y="248" width="308" height="70" style="stroke: rgb(2%,9%,16%); stroke-linecap: butt; stroke-width: 0.9; fill: rgb(2%,9%,16%); fill-rule: evenodd;"/>
+			<rect x="370" y="248" width="3" height="70" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(34%,80%,89%); fill-rule: evenodd;"/>
+			<text x="430.97216796875" y="277.0" style="font-family: Liberation Sans; font-weight: bold; font-size: 18px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,554) scale(1,-1)">Velocidade e controle</text>
+			<rect x="42" y="136" width="636" height="70" style="stroke: rgb(77%,82%,83%); stroke-linecap: butt; stroke-width: 0.9; fill: rgb(92%,94%,93%); fill-rule: evenodd;"/>
+			<rect x="42" y="136" width="3" height="70" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(50%,66%,69%); fill-rule: evenodd;"/>
+			<text x="269.9560546875" y="165.0" style="font-family: Liberation Sans; font-size: 18px;fill: rgb(10%,18%,23%); stroke:none;" transform="translate(0,330) scale(1,-1)">Resultado empresarial</text>
+			<rect x="42" y="24" width="636" height="70" style="stroke: rgb(2%,9%,16%); stroke-linecap: butt; stroke-width: 0.9; fill: rgb(2%,9%,16%); fill-rule: evenodd;"/>
+			<rect x="42" y="24" width="3" height="70" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(34%,80%,89%); fill-rule: evenodd;"/>
+			<text x="202.42529296874997" y="53.0" style="font-family: Liberation Sans; font-weight: bold; font-size: 18px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,106) scale(1,-1)">Valor sustentável sob risco aceitável</text>
+		</g>
+	</g>
+</svg>

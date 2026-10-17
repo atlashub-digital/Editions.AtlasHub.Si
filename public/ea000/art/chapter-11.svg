@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="600" height="280" preserveAspectRatio="xMinYMin meet" viewBox="0 0 600 280" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>Estudo visual — Agentes que coordenam agentes</title>
+	<desc>Composição gráfica conceptual para Agentes que coordenam agentes. Não é um diagrama técnico.</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="600" height="280"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-280)" style="clip-path: url(#clip)">
+		<g transform="">
+			<path d="M 460,140 L 300,140 Z" style="stroke: rgb(77%,82%,83%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<path d="M 460,140 L 422.567111,204.278761 Z" style="stroke: rgb(77%,82%,83%); stroke-linecap: butt; stroke-width: 0.5;"/>
+			<circle cx="460.0" cy="140.0" r="8" style="stroke: rgb(34%,80%,89%); stroke-linecap: butt; stroke-width: 1.2; fill: none; fill-rule: evenodd;"/>
+			<path d="M 422.567111,204.278761 L 300,140 Z" style="stroke: rgb(77%,82%,83%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<path d="M 422.567111,204.278761 L 327.783708,238.480775 Z" style="stroke: rgb(77%,82%,83%); stroke-linecap: butt; stroke-width: 0.5;"/>
+			<circle cx="422.5671108990365" cy="204.27876096865393" r="11" style="stroke: rgb(49%,61%,65%); stroke-linecap: butt; stroke-width: 1.2; fill: none; fill-rule: evenodd;"/>
+			<path d="M 327.783708,238.480775 L 300,140 Z" style="stroke: rgb(77%,82%,83%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<path d="M 327.783708,238.480775 L 220,226.60254 Z" style="stroke: rgb(77%,82%,83%); stroke-linecap: butt; stroke-width: 0.5;"/>
+			<circle cx="327.78370842670887" cy="238.4807753012208" r="14" style="stroke: rgb(34%,80%,89%); stroke-linecap: butt; stroke-width: 1.2; fill: none; fill-rule: evenodd;"/>
+			<path d="M 220,226.60254 L 300,140 Z" style="stroke: rgb(77%,82%,83%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<path d="M 220,226.60254 L 149.649181,174.202014 Z" style="stroke: rgb(77%,82%,83%); stroke-linecap: butt; stroke-width: 0.5;"/>
+			<circle cx="220.00000000000003" cy="226.60254037844388" r="8" style="stroke: rgb(49%,61%,65%); stroke-linecap: butt; stroke-width: 1.2; fill: none; fill-rule: evenodd;"/>
+			<path d="M 149.649181,174.202014 L 300,140 Z" style="stroke: rgb(77%,82%,83%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<path d="M 149.649181,174.202014 L 149.649181,105.797986 Z" style="stroke: rgb(77%,82%,83%); stroke-linecap: butt; stroke-width: 0.5;"/>
+			<circle cx="149.64918067425467" cy="174.20201433256688" r="11" style="stroke: rgb(34%,80%,89%); stroke-linecap: butt; stroke-width: 1.2; fill: none; fill-rule: evenodd;"/>
+			<path d="M 149.649181,105.797986 L 300,140 Z" style="stroke: rgb(77%,82%,83%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<path d="M 149.649181,105.797986 L 220,53.39746 Z" style="stroke: rgb(77%,82%,83%); stroke-linecap: butt; stroke-width: 0.5;"/>
+			<circle cx="149.64918067425464" cy="105.79798566743312" r="14" style="stroke: rgb(49%,61%,65%); stroke-linecap: butt; stroke-width: 1.2; fill: none; fill-rule: evenodd;"/>
+			<path d="M 220,53.39746 L 300,140 Z" style="stroke: rgb(77%,82%,83%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<path d="M 220,53.39746 L 327.783708,41.519225 Z" style="stroke: rgb(77%,82%,83%); stroke-linecap: butt; stroke-width: 0.5;"/>
+			<circle cx="219.99999999999994" cy="53.39745962155615" r="8" style="stroke: rgb(34%,80%,89%); stroke-linecap: butt; stroke-width: 1.2; fill: none; fill-rule: evenodd;"/>
+			<path d="M 327.783708,41.519225 L 300,140 Z" style="stroke: rgb(77%,82%,83%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<path d="M 327.783708,41.519225 L 422.567111,75.721239 Z" style="stroke: rgb(77%,82%,83%); stroke-linecap: butt; stroke-width: 0.5;"/>
+			<circle cx="327.7837084267088" cy="41.51922469877918" r="11" style="stroke: rgb(49%,61%,65%); stroke-linecap: butt; stroke-width: 1.2; fill: none; fill-rule: evenodd;"/>
+			<path d="M 422.567111,75.721239 L 300,140 Z" style="stroke: rgb(77%,82%,83%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<path d="M 422.567111,75.721239 L 460,140 Z" style="stroke: rgb(77%,82%,83%); stroke-linecap: butt; stroke-width: 0.5;"/>
+			<circle cx="422.56711089903644" cy="75.72123903134604" r="14" style="stroke: rgb(34%,80%,89%); stroke-linecap: butt; stroke-width: 1.2; fill: none; fill-rule: evenodd;"/>
+			<circle cx="300" cy="140" r="24" style="stroke: rgb(2%,9%,16%); stroke-linecap: butt; stroke-width: 1.2; fill: none; fill-rule: evenodd;"/>
+			<circle cx="300" cy="140" r="8" style="stroke: rgb(34%,80%,89%); stroke-linecap: butt; stroke-width: 1.2; fill: none; fill-rule: evenodd;"/>
+		</g>
+	</g>
+</svg>

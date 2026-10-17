@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="720" height="566" preserveAspectRatio="xMinYMin meet" viewBox="0 0 720 566" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>Estrutura híbrida com direção humana</title>
+	<desc>Estrutura híbrida com direção humana. Pessoas continuam responsáveis pelas funções. Os grupos de agentes ampliam a execução dentro de limites explícitos. O arranjo mostra camadas e funções; não atribui autoridade de agentes sobre pessoas.</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="720" height="566"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-566)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="42" y="472" width="636" height="70" style="stroke: rgb(2%,9%,16%); stroke-linecap: butt; stroke-width: 0.9; fill: rgb(2%,9%,16%); fill-rule: evenodd;"/>
+			<rect x="42" y="472" width="3" height="70" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(34%,80%,89%); fill-rule: evenodd;"/>
+			<text x="289.9775390625" y="501.0" style="font-family: Liberation Sans; font-weight: bold; font-size: 18px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,1002) scale(1,-1)">Direção humana</text>
+			<rect x="42" y="360" width="198.66666666666666" height="70" style="stroke: rgb(77%,82%,83%); stroke-linecap: butt; stroke-width: 0.9; fill: rgb(92%,94%,93%); fill-rule: evenodd;"/>
+			<rect x="42" y="360" width="3" height="70" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(50%,66%,69%); fill-rule: evenodd;"/>
+			<text x="69.3113606770833" y="389.0" style="font-family: Liberation Sans; font-size: 18px;fill: rgb(10%,18%,23%); stroke:none;" transform="translate(0,778) scale(1,-1)">Direção comercial</text>
+			<rect x="260.66666666666663" y="360" width="198.66666666666663" height="70" style="stroke: rgb(77%,82%,83%); stroke-linecap: butt; stroke-width: 0.9; fill: rgb(92%,94%,93%); fill-rule: evenodd;"/>
+			<rect x="260.66666666666663" y="360" width="3.0" height="70" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(50%,66%,69%); fill-rule: evenodd;"/>
+			<text x="271.94677734374994" y="389.0" style="font-family: Liberation Sans; font-size: 18px;fill: rgb(10%,18%,23%); stroke:none;" transform="translate(0,778) scale(1,-1)">Direção de operações</text>
+			<rect x="479.3333333333333" y="360" width="198.66666666666669" height="70" style="stroke: rgb(77%,82%,83%); stroke-linecap: butt; stroke-width: 0.9; fill: rgb(92%,94%,93%); fill-rule: evenodd;"/>
+			<rect x="479.3333333333333" y="360" width="3.0" height="70" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(50%,66%,69%); fill-rule: evenodd;"/>
+			<text x="506.13053385416663" y="389.0" style="font-family: Liberation Sans; font-size: 18px;fill: rgb(10%,18%,23%); stroke:none;" transform="translate(0,778) scale(1,-1)">Direção financeira</text>
+			<rect x="42" y="248" width="198.66666666666666" height="70" style="stroke: rgb(77%,82%,83%); stroke-linecap: butt; stroke-width: 0.9; fill: rgb(92%,94%,93%); fill-rule: evenodd;"/>
+			<rect x="42" y="248" width="3" height="70" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(50%,66%,69%); fill-rule: evenodd;"/>
+			<text x="46.2840169270833" y="289.0" style="font-family: Liberation Sans; font-size: 18px;fill: rgb(10%,18%,23%); stroke:none;" transform="translate(0,578) scale(1,-1)">Coordenação comercial</text>
+			<text x="117.32161458333331" y="265.0" style="font-family: Liberation Sans; font-size: 18px;fill: rgb(10%,18%,23%); stroke:none;" transform="translate(0,530) scale(1,-1)">por IA</text>
+			<rect x="260.66666666666663" y="248" width="198.66666666666663" height="70" style="stroke: rgb(77%,82%,83%); stroke-linecap: butt; stroke-width: 0.9; fill: rgb(92%,94%,93%); fill-rule: evenodd;"/>
+			<rect x="260.66666666666663" y="248" width="3.0" height="70" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(50%,66%,69%); fill-rule: evenodd;"/>
+			<text x="305.96044921874994" y="289.0" style="font-family: Liberation Sans; font-size: 18px;fill: rgb(10%,18%,23%); stroke:none;" transform="translate(0,578) scale(1,-1)">Coordenação</text>
+			<text x="286.95410156249994" y="265.0" style="font-family: Liberation Sans; font-size: 18px;fill: rgb(10%,18%,23%); stroke:none;" transform="translate(0,530) scale(1,-1)">operacional por IA</text>
+			<rect x="479.3333333333333" y="248" width="198.66666666666669" height="70" style="stroke: rgb(77%,82%,83%); stroke-linecap: butt; stroke-width: 0.9; fill: rgb(92%,94%,93%); fill-rule: evenodd;"/>
+			<rect x="479.3333333333333" y="248" width="3.0" height="70" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(50%,66%,69%); fill-rule: evenodd;"/>
+			<text x="524.6271158854166" y="289.0" style="font-family: Liberation Sans; font-size: 18px;fill: rgb(10%,18%,23%); stroke:none;" transform="translate(0,578) scale(1,-1)">Coordenação</text>
+			<text x="513.1310221354166" y="265.0" style="font-family: Liberation Sans; font-size: 18px;fill: rgb(10%,18%,23%); stroke:none;" transform="translate(0,530) scale(1,-1)">financeira por IA</text>
+			<rect x="42" y="136" width="198.66666666666666" height="70" style="stroke: rgb(77%,82%,83%); stroke-linecap: butt; stroke-width: 0.9; fill: rgb(92%,94%,93%); fill-rule: evenodd;"/>
+			<rect x="42" y="136" width="3" height="70" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(50%,66%,69%); fill-rule: evenodd;"/>
+			<text x="83.80891927083331" y="177.0" style="font-family: Liberation Sans; font-size: 18px;fill: rgb(10%,18%,23%); stroke:none;" transform="translate(0,354) scale(1,-1)">Leads, CRM e</text>
+			<text x="105.31575520833331" y="153.0" style="font-family: Liberation Sans; font-size: 18px;fill: rgb(10%,18%,23%); stroke:none;" transform="translate(0,306) scale(1,-1)">follow-up</text>
+			<rect x="260.66666666666663" y="136" width="198.66666666666663" height="70" style="stroke: rgb(77%,82%,83%); stroke-linecap: butt; stroke-width: 0.9; fill: rgb(92%,94%,93%); fill-rule: evenodd;"/>
+			<rect x="260.66666666666663" y="136" width="3.0" height="70" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(50%,66%,69%); fill-rule: evenodd;"/>
+			<text x="279.95800781249994" y="177.0" style="font-family: Liberation Sans; font-size: 18px;fill: rgb(10%,18%,23%); stroke:none;" transform="translate(0,354) scale(1,-1)">Estoque, compras e</text>
+			<text x="326.98388671874994" y="153.0" style="font-family: Liberation Sans; font-size: 18px;fill: rgb(10%,18%,23%); stroke:none;" transform="translate(0,306) scale(1,-1)">logística</text>
+			<rect x="479.3333333333333" y="136" width="198.66666666666669" height="70" style="stroke: rgb(77%,82%,83%); stroke-linecap: butt; stroke-width: 0.9; fill: rgb(92%,94%,93%); fill-rule: evenodd;"/>
+			<rect x="479.3333333333333" y="136" width="3.0" height="70" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(50%,66%,69%); fill-rule: evenodd;"/>
+			<text x="524.6359049479166" y="177.0" style="font-family: Liberation Sans; font-size: 18px;fill: rgb(10%,18%,23%); stroke:none;" transform="translate(0,354) scale(1,-1)">Conciliação e</text>
+			<text x="541.6427408854166" y="153.0" style="font-family: Liberation Sans; font-size: 18px;fill: rgb(10%,18%,23%); stroke:none;" transform="translate(0,306) scale(1,-1)">cobrança</text>
+			<rect x="42" y="24" width="198.66666666666666" height="70" style="stroke: rgb(2%,9%,16%); stroke-linecap: butt; stroke-width: 0.9; fill: rgb(2%,9%,16%); fill-rule: evenodd;"/>
+			<rect x="42" y="24" width="3" height="70" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(34%,80%,89%); fill-rule: evenodd;"/>
+			<text x="89.81624348958331" y="53.0" style="font-family: Liberation Sans; font-weight: bold; font-size: 18px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,106) scale(1,-1)">Vendedores</text>
+			<rect x="260.66666666666663" y="24" width="198.66666666666663" height="70" style="stroke: rgb(2%,9%,16%); stroke-linecap: butt; stroke-width: 0.9; fill: rgb(2%,9%,16%); fill-rule: evenodd;"/>
+			<rect x="260.66666666666663" y="24" width="3.0" height="70" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(34%,80%,89%); fill-rule: evenodd;"/>
+			<text x="276.98291015624994" y="53.0" style="font-family: Liberation Sans; font-weight: bold; font-size: 18px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,106) scale(1,-1)">Equipe operacional</text>
+			<rect x="479.3333333333333" y="24" width="198.66666666666669" height="70" style="stroke: rgb(2%,9%,16%); stroke-linecap: butt; stroke-width: 0.9; fill: rgb(2%,9%,16%); fill-rule: evenodd;"/>
+			<rect x="479.3333333333333" y="24" width="3.0" height="70" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(34%,80%,89%); fill-rule: evenodd;"/>
+			<text x="503.64762369791663" y="53.0" style="font-family: Liberation Sans; font-weight: bold; font-size: 18px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,106) scale(1,-1)">Equipe financeira</text>
+		</g>
+	</g>
+</svg>

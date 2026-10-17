@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="600" height="280" preserveAspectRatio="xMinYMin meet" viewBox="0 0 600 280" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>Estudo visual — Humanos definem o horizonte</title>
+	<desc>Composição gráfica conceptual para Humanos definem o horizonte. Não é um diagrama técnico.</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="600" height="280"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-280)" style="clip-path: url(#clip)">
+		<g transform="">
+			<circle cx="390" cy="145" r="92" style="stroke: rgb(74%,81%,81%); stroke-linecap: butt; stroke-width: 1.2; fill: none; fill-rule: evenodd;"/>
+			<path d="M 45,145 L 555,145 Z" style="stroke: rgb(2%,9%,16%); stroke-linecap: butt; stroke-width: 1;"/>
+			<circle cx="390" cy="145" r="6" style="stroke: rgb(34%,80%,89%); stroke-linecap: butt; stroke-width: 1.2; fill: rgb(2%,9%,16%); fill-rule: evenodd;"/>
+			<path d="M 390,48 L 390,240 Z" style="stroke: rgb(77%,82%,83%); stroke-linecap: butt; stroke-width: 0.8;"/>
+		</g>
+	</g>
+</svg>

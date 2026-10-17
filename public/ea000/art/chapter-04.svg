@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="600" height="280" preserveAspectRatio="xMinYMin meet" viewBox="0 0 600 280" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>Estudo visual — O paradoxo do prompt</title>
+	<desc>Composição gráfica conceptual para O paradoxo do prompt. Não é um diagrama técnico.</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="600" height="280"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-280)" style="clip-path: url(#clip)">
+		<g transform="">
+			<text x="55" y="205" style="font-family: Crimson Text; font-size: 29px;fill: rgb(34%,80%,89%); stroke:none;" transform="translate(0,410) scale(1,-1)">›</text>
+			<path d="M 95,214 L 160,214 Z" style="stroke: rgb(77%,82%,83%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 190,214 L 255,214 Z" style="stroke: rgb(77%,82%,83%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 285,214 L 350,214 Z" style="stroke: rgb(77%,82%,83%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="72" y="171" style="font-family: Crimson Text; font-size: 29px;fill: rgb(34%,80%,89%); stroke:none;" transform="translate(0,342) scale(1,-1)">›</text>
+			<path d="M 112,180 L 177,180 Z" style="stroke: rgb(77%,82%,83%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 207,180 L 272,180 Z" style="stroke: rgb(77%,82%,83%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 302,180 L 367,180 Z" style="stroke: rgb(77%,82%,83%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="89" y="137" style="font-family: Crimson Text; font-size: 29px;fill: rgb(34%,80%,89%); stroke:none;" transform="translate(0,274) scale(1,-1)">›</text>
+			<path d="M 129,146 L 194,146 Z" style="stroke: rgb(77%,82%,83%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 224,146 L 289,146 Z" style="stroke: rgb(77%,82%,83%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 319,146 L 384,146 Z" style="stroke: rgb(77%,82%,83%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="106" y="103" style="font-family: Crimson Text; font-size: 29px;fill: rgb(34%,80%,89%); stroke:none;" transform="translate(0,206) scale(1,-1)">›</text>
+			<path d="M 146,112 L 211,112 Z" style="stroke: rgb(77%,82%,83%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 241,112 L 306,112 Z" style="stroke: rgb(77%,82%,83%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 336,112 L 401,112 Z" style="stroke: rgb(77%,82%,83%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="123" y="69" style="font-family: Crimson Text; font-size: 29px;fill: rgb(34%,80%,89%); stroke:none;" transform="translate(0,138) scale(1,-1)">›</text>
+			<path d="M 163,78 L 228,78 Z" style="stroke: rgb(77%,82%,83%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 258,78 L 323,78 Z" style="stroke: rgb(77%,82%,83%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 353,78 L 418,78 Z" style="stroke: rgb(77%,82%,83%); stroke-linecap: butt; stroke-width: 1;"/>
+		</g>
+	</g>
+</svg>

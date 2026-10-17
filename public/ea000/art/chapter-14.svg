@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="600" height="280" preserveAspectRatio="xMinYMin meet" viewBox="0 0 600 280" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>Estudo visual — O Chile começou a comprar</title>
+	<desc>Composição gráfica conceptual para O Chile começou a comprar. Não é um diagrama técnico.</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="600" height="280"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-280)" style="clip-path: url(#clip)">
+		<g transform="">
+			<ellipse cx="300.0" cy="140.0" rx="140.0" ry="100.0" style="stroke: rgb(2%,9%,16%); stroke-linecap: butt; stroke-width: 1; fill: none; fill-rule: evenodd;"/>
+			<ellipse cx="300.0" cy="140.0" rx="35.0" ry="100.0" style="stroke: rgb(77%,82%,83%); stroke-linecap: butt; stroke-width: 0.7; fill: none; fill-rule: evenodd;"/>
+			<ellipse cx="300.0" cy="140.0" rx="78.0" ry="100.0" style="stroke: rgb(77%,82%,83%); stroke-linecap: butt; stroke-width: 0.7; fill: none; fill-rule: evenodd;"/>
+			<ellipse cx="300.0" cy="140.0" rx="115.0" ry="100.0" style="stroke: rgb(77%,82%,83%); stroke-linecap: butt; stroke-width: 0.7; fill: none; fill-rule: evenodd;"/>
+			<path d="M 170,90 L 430,90 Z" style="stroke: rgb(77%,82%,83%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<path d="M 170,140 L 430,140 Z" style="stroke: rgb(77%,82%,83%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<path d="M 170,190 L 430,190 Z" style="stroke: rgb(77%,82%,83%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<path d="M 195,165 L 405,85 Z" style="stroke: rgb(34%,80%,89%); stroke-linecap: butt; stroke-width: 2;"/>
+			<circle cx="195" cy="165" r="4" style="stroke: rgb(34%,80%,89%); stroke-linecap: butt; stroke-width: 1.2; fill: rgb(2%,9%,16%); fill-rule: evenodd;"/>
+			<circle cx="405" cy="85" r="4" style="stroke: rgb(34%,80%,89%); stroke-linecap: butt; stroke-width: 1.2; fill: rgb(2%,9%,16%); fill-rule: evenodd;"/>
+		</g>
+	</g>
+</svg>

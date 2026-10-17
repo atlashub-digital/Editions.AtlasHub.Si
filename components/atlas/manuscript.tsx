@@ -2,6 +2,7 @@ import Image from 'next/image';
 import Markdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
 import { Children, isValidElement, type ReactNode } from 'react';
+import figures from '@/editorial/ea000/figures.json';
 import { headingId } from '@/lib/book';
 
 function textOf(node: ReactNode): string {
@@ -15,6 +16,6 @@ export function Manuscript({ children }: { children: string }) {
     h2: ({children}) => <h2 id={/^\d+\./.test(textOf(children))?headingId(textOf(children)):undefined}>{children}</h2>,
     h3: ({children}) => <h3>{children}</h3>,
     table: ({children}) => <div className="table-scroll" tabIndex={0} role="region" aria-label="Tabela do manuscrito"><table>{children}</table></div>,
-    img: ({src,alt}) => typeof src === 'string' && src.startsWith('/diagrams/') ? <span className="editorial-figure" role="group" aria-label={alt}><Image src={src} alt={alt || 'Diagrama do manuscrito'} width={720} height={600} unoptimized style={{width:'100%',height:'auto'}} /><span className="editorial-caption">{alt}</span></span> : null,
+    img: ({src,alt}) => typeof src === 'string' && src.startsWith('/diagrams/') ? <span className="editorial-figure" role="group" aria-label={alt}><Image src={src.replace('/diagrams/','/ea000/figures/')} alt={alt || 'Diagrama do manuscrito'} width={720} height={600} unoptimized style={{width:'100%',height:'auto'}} /><span className="editorial-caption">{alt}</span><span className="editorial-source">Fonte: {figures.find(f => src.endsWith(f.file))?.source || "Sérgio Monteiro / AtlasHub Editions."}</span></span> : null,
   }}>{children}</Markdown></div>;
 }

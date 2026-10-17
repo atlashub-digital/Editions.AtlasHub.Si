@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="600" height="280" preserveAspectRatio="xMinYMin meet" viewBox="0 0 600 280" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>Estudo visual — A máquina deixou de apenas responder</title>
+	<desc>Composição gráfica conceptual para A máquina deixou de apenas responder. Não é um diagrama técnico.</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="600" height="280"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-280)" style="clip-path: url(#clip)">
+		<g transform="">
+			<path d="M 460,140 L 300,140 Z" style="stroke: rgb(77%,82%,83%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<circle cx="460.0" cy="140.0" r="8" style="stroke: rgb(34%,80%,89%); stroke-linecap: butt; stroke-width: 1.2; fill: none; fill-rule: evenodd;"/>
+			<path d="M 349.442719,235.105652 L 300,140 Z" style="stroke: rgb(77%,82%,83%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<circle cx="349.44271909999156" cy="235.10565162951536" r="11" style="stroke: rgb(49%,61%,65%); stroke-linecap: butt; stroke-width: 1.2; fill: none; fill-rule: evenodd;"/>
+			<path d="M 170.557281,198.778525 L 300,140 Z" style="stroke: rgb(77%,82%,83%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<circle cx="170.55728090000844" cy="198.77852522924732" r="14" style="stroke: rgb(34%,80%,89%); stroke-linecap: butt; stroke-width: 1.2; fill: none; fill-rule: evenodd;"/>
+			<path d="M 170.557281,81.221475 L 300,140 Z" style="stroke: rgb(77%,82%,83%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<circle cx="170.5572809000084" cy="81.2214747707527" r="8" style="stroke: rgb(49%,61%,65%); stroke-linecap: butt; stroke-width: 1.2; fill: none; fill-rule: evenodd;"/>
+			<path d="M 349.442719,44.894348 L 300,140 Z" style="stroke: rgb(77%,82%,83%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<circle cx="349.44271909999156" cy="44.894348370484636" r="11" style="stroke: rgb(34%,80%,89%); stroke-linecap: butt; stroke-width: 1.2; fill: none; fill-rule: evenodd;"/>
+			<circle cx="300" cy="140" r="24" style="stroke: rgb(2%,9%,16%); stroke-linecap: butt; stroke-width: 1.2; fill: none; fill-rule: evenodd;"/>
+			<circle cx="300" cy="140" r="8" style="stroke: rgb(34%,80%,89%); stroke-linecap: butt; stroke-width: 1.2; fill: none; fill-rule: evenodd;"/>
+		</g>
+	</g>
+</svg>
