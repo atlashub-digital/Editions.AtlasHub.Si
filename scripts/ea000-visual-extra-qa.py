@@ -17,6 +17,7 @@ for n in z.namelist():
 full=norm(' '.join(texts));missing=[s for s,t in blocks if t not in full];assert not missing,missing
 (Q/'epub-text-preservation.json').write_text(json.dumps({'checkedBlocks':len(blocks),'missingBlocks':missing,'svgFigures':len([n for n in z.namelist() if '/figures/' in n and n.endswith('.svg')])},indent=2))
 lib=json.loads((V/'asset-library.json').read_text(encoding='utf8'))
+page_texts={fmt:[norm(p.extract_text() or '') for p in PdfReader(R/f'public/downloads/visual/EA-000_Empresa-Aumentada_{fmt}_visual_digital.pdf').pages] for fmt in ['A4','A5']}
 for a in lib['assets']:
  a['locations']={}
  for fmt in ['A4','A5']:
@@ -31,7 +32,7 @@ for a in lib['assets']:
   if a['id'].startswith('EA000-CH'):loc=[lookup['capitulo-'+a['id'][-2:]]]
   if a['id'].startswith('EA000-PART'):loc=[lookup['parte-'+a['id'][-2:]]]
   if a['id'].startswith('EA000-FIG'):
-   r=PdfReader(R/f'public/downloads/visual/EA-000_Empresa-Aumentada_{fmt}_visual_digital.pdf');needle=norm('Figura '+str(a['number'])+' — '+a['description']);loc=[i+1 for i,p in enumerate(r.pages) if needle in norm(p.extract_text() or '')]
+   needle=norm('Figura '+str(a['number'])+' — '+a['description']);loc=[i+1 for i,t in enumerate(page_texts[fmt]) if needle in t]
   a['locations'][fmt]=sorted(set(loc))
 (V/'asset-library.json').write_text(json.dumps(lib,ensure_ascii=False,indent=2),encoding='utf8')
 with (V/'asset-library.csv').open('w',encoding='utf-8-sig',newline='') as f:

@@ -2490,6 +2490,26 @@
           435
         ]
       }
+    },
+    {
+      "id": "EA000-MOCKUP-001",
+      "kind": "presentation-mockup",
+      "file": "editorial/ea000/visual/EA-000_Mockup.png",
+      "description": "Maquete tridimensional de apresentação da capa. Espessura ilustrativa.",
+      "rights": "Composição AtlasHub Editions; recursos da capa identificados no manifesto.",
+      "pixels": [
+        3200,
+        2400
+      ],
+      "resolution": "RGB; apresentação; sem dimensão física de lombada",
+      "destination": "apresentação editorial",
+      "source": "scripts/ea000-visual-mockup.cjs; EA000-COVER-FRONT",
+      "alt": "Maquete tridimensional de Empresa Aumentada, em azul-marinho e ciano, com lombada ilustrativa e miolo claro.",
+      "sha256": "07bcfb81a06aa46fa6e2e7531e8dbaa2b2783c9d323b8f1f309cd09b3b2080c2",
+      "locations": {
+        "A4": [],
+        "A5": []
+      }
     }
   ],
   "print_profile": {
