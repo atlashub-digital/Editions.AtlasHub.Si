@@ -17,8 +17,8 @@
     "trimValid": true,
     "pdfxCertified": false,
     "outputIntentPresent": false,
-    "sha256": "88d7df1c7816620f1fa9d8666d51d81fc04a12b0483643c6d5a886d3ca6adfb4",
-    "bytes": 726242
+    "sha256": "48a4ff2a5629fc4e7a8d37a50a0d5cfc78448eb301a33266fc6d25cc7b63ff46",
+    "bytes": 733752
   },
   {
     "file": "EA-000_Empresa-Aumentada_A4_impressao-prova.pdf",
@@ -38,8 +38,8 @@
     "trimValid": true,
     "pdfxCertified": false,
     "outputIntentPresent": false,
-    "sha256": "afd5449d35613ccc40b9a24acc48edbdf6388d15d54e4fde696f50c37f4132fe",
-    "bytes": 746472
+    "sha256": "8d33aa62897de6043e0682ddbe46e7bc4131e2902f93bde5121fad7f8686a6ae",
+    "bytes": 753789
   },
   {
     "file": "EA-000_Empresa-Aumentada_A5_digital.pdf",
@@ -59,8 +59,8 @@
     "trimValid": true,
     "pdfxCertified": false,
     "outputIntentPresent": false,
-    "sha256": "e055177c468f20cd55134a81f11f6aa636a3cc83d9e452b4c9bb382279f33df4",
-    "bytes": 815395
+    "sha256": "c5783c9003fb5e6ce4aab76caa06364aec5708a54b78341f17e77e0b4b4d91c3",
+    "bytes": 822852
   },
   {
     "file": "EA-000_Empresa-Aumentada_A5_impressao-prova.pdf",
@@ -80,7 +80,7 @@
     "trimValid": true,
     "pdfxCertified": false,
     "outputIntentPresent": false,
-    "sha256": "6c0fd86b220b0150bae5c263ba2fc2b3c543ed3a07ba3b7fa779f010426c16f1",
-    "bytes": 845108
+    "sha256": "2059e2e4bb254ebcad8ddee5d04ae601809b1a137458674d90fdec459c227bb8",
+    "bytes": 852479
   }
 ]

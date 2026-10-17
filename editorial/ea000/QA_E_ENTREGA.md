@@ -14,11 +14,11 @@ Esta é uma edição efetiva de revisão, com arquivos e fontes de composição.
 - EPUB: 27 seções, 29 figuras e validação estrutural de 61 documentos XML/XHTML/SVG, referências e navegação.
 - Revisão rastreável: 312 grupos de alterações, 564 ocorrências, com 11 intervenções editoriais além da normalização lexical.
 - Build local de produção: PASS, 37 rotas. TypeScript: PASS. Contrato de conteúdo: PASS.
-- Primeiro commit do PR #4: CI GREEN. O estado do último SHA deve ser conferido no PR.
+- CI GREEN, incluindo EPUBCheck e build, no SHA 6e5f7517f4050c4db41a38396d3c335670deba2b. O estado do último SHA deve ser conferido no PR.
 
 ## Limites de aprovação
 
-- EPUBCheck não foi executado: a validação feita é estrutural, não uma certificação EPUBCheck.
+- EPUBCheck 5.4.0: PASS no CI, com 0 erros e 0 avisos. Evidência: https://github.com/atlashub-digital/Editions.AtlasHub.Si/actions/runs/38987853985
 - Os PDFs de impressão são provas: não há certificação PDF/X nem perfil ICC de gráfica escolhido.
 - Papel, encadernação, opacidade, prova física e espessura da lombada dependem da gráfica e da homologação final.
 - A biografia foi reduzida de modo conservador. Os claims específicos originais ficam preservados para confirmação do autor.

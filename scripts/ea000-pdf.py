@@ -70,7 +70,7 @@ class Opening(Flowable):
 class PartLeaf(Flowable):
  def __init__(self,w,h,part):Flowable.__init__(self);self.width=w;self.height=h;self.part=part
  def draw(self):
-  c=self.canv;w=self.width;h=self.height;c.setFillColor(NAVY);c.rect(-12*mm,-15*mm,w+24*mm,h+35*mm,fill=1,stroke=0)
+  c=self.canv;w=self.width;h=self.height;c.setFillColor(NAVY);c.rect(-30*mm,-40*mm,w+65*mm,h+85*mm,fill=1,stroke=0)
   bits=re.split(r'\s[-—]\s',self.part,maxsplit=1);c.setFillColor(CYAN);c.setFont('AtlasSans',10);c.drawString(0,h*.73,bits[0]);
   p=Paragraph(html.escape(bits[-1].capitalize()),ParagraphStyle('part',fontName='Crimson',fontSize=30,leading=36,textColor=colors.white));_,ph=p.wrap(w*.9,h);p.drawOn(c,0,h*.63-ph)
   c.setStrokeColor(CYAN);c.setLineWidth(.7);c.line(0,h*.24,w*.25,h*.24)
