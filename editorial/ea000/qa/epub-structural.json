@@ -1,0 +1,15 @@
+{
+  "file": "EA-000_Empresa-Aumentada.epub",
+  "sections": 27,
+  "figures": 29,
+  "xmlDocumentsParsed": 61,
+  "referencesResolved": true,
+  "mimetypeFirstUncompressed": true,
+  "epubcheckExecuted": true,
+  "status": "STRUCTURAL_AND_EPUBCHECK_PASS",
+  "sha256": "d4d84f30b7a8301c0805998db6440453b20e67965d51510ba2c2b56cb7eadac6",
+  "epubcheckVersion": "5.4.0",
+  "epubcheckCI": "https://github.com/atlashub-digital/Editions.AtlasHub.Si/actions/runs/38987853985",
+  "epubcheckJob": 117263377173,
+  "epubcheckValidatedCommit": "6e5f7517f4050c4db41a38396d3c335670deba2b"
+}

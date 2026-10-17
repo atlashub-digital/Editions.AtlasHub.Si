@@ -1,9 +1,9 @@
 # Agent Charter
 
-Extraído de Empresa Aumentada, Sérgio Monteiro. Todos os direitos reservados.
+Trecho de Empresa Aumentada, Sérgio Monteiro. EA-000.
 
 ## 27. O Agent Charter
-O **Agent Charter** será um artefacto central da metodologia AtlasHub.
+O **Agent Charter** será um artefato central da metodologia AtlasHub.
 
 
 | Componente | Pergunta |
@@ -22,11 +22,7 @@ O **Agent Charter** será um artefacto central da metodologia AtlasHub.
 | Observabilidade | Como auditamos? |
 
 
-
-
 ***
-
-
 
 
 ***

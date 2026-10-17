@@ -1,0 +1,257 @@
+{
+  "masterSha256": "b53ddc0beab6534530ebdd272e2f1a760a1ae7aacc482e9113d12ff394aedb3a",
+  "parts": [
+    {
+      "id": "EA000-PART-01",
+      "number": 1,
+      "title": "PARTE I — COMO CHEGAMOS AQUI",
+      "art": "/ea000/images/conhecimento.jpg",
+      "accent": "#b69966",
+      "alt": "Abertura da PARTE I — COMO CHEGAMOS AQUI. Arquitetura e atividade organizacional como metáfora visual."
+    },
+    {
+      "id": "EA000-PART-02",
+      "number": 2,
+      "title": "PARTE II — ESTAMOS A USAR IA DA FORMA ERRADA?",
+      "art": "/ea000/images/boardroom.jpg",
+      "accent": "#58cce5",
+      "alt": "Abertura da PARTE II — ESTAMOS A USAR IA DA FORMA ERRADA?. Arquitetura e atividade organizacional como metáfora visual."
+    },
+    {
+      "id": "EA000-PART-03",
+      "number": 3,
+      "title": "PARTE III — A EMPRESA AUMENTADA",
+      "art": "/ea000/images/organizacao.jpg",
+      "accent": "#77b9bc",
+      "alt": "Abertura da PARTE III — A EMPRESA AUMENTADA. Arquitetura e atividade organizacional como metáfora visual."
+    },
+    {
+      "id": "EA000-PART-04",
+      "number": 4,
+      "title": "PARTE IV — A EMPRESA EM FUNCIONAMENTO",
+      "art": "/ea000/images/logistica.jpg",
+      "accent": "#b99668",
+      "alt": "Abertura da PARTE IV — A EMPRESA EM FUNCIONAMENTO. Arquitetura e atividade organizacional como metáfora visual."
+    },
+    {
+      "id": "EA000-PART-05",
+      "number": 5,
+      "title": "PARTE V — A EQUAÇÃO DA EMPRESA AUMENTADA",
+      "art": "/ea000/images/skyline-approved.jpg",
+      "accent": "#58cce5",
+      "alt": "Abertura da PARTE V — A EQUAÇÃO DA EMPRESA AUMENTADA. Arquitetura e atividade organizacional como metáfora visual."
+    }
+  ],
+  "chapters": {
+    "capitulo-01": {
+      "id": "EA000-CH-01",
+      "number": "01",
+      "title": "Setenta anos a ensinar máquinas",
+      "part": "PARTE I — COMO CHEGAMOS AQUI",
+      "quote": "Cada geração de tecnologia inteligente reduziu uma parte da distância entre informação e ação.",
+      "art": "/ea000/art/chapter-01.svg",
+      "treatment": "conceptual-vector",
+      "alt": "Ilustração de abertura — Setenta anos a ensinar máquinas."
+    },
+    "capitulo-02": {
+      "id": "EA000-CH-02",
+      "number": "02",
+      "title": "A máquina deixou de apenas responder",
+      "part": "PARTE I — COMO CHEGAMOS AQUI",
+      "quote": "A verdadeira mudança começa quando a inteligência deixa de terminar numa resposta.",
+      "art": "/ea000/art/chapter-02.svg",
+      "treatment": "conceptual-vector",
+      "alt": "Ilustração de abertura — A máquina deixou de apenas responder."
+    },
+    "capitulo-03": {
+      "id": "EA000-CH-03",
+      "number": "03",
+      "title": "AI, SI e o problema da palavra Artificial",
+      "part": "PARTE I — COMO CHEGAMOS AQUI",
+      "quote": "Quando uma tecnologia muda depressa, as palavras começam a envelhecer antes das máquinas.",
+      "art": "/ea000/art/chapter-03.svg",
+      "treatment": "conceptual-vector",
+      "alt": "Ilustração de abertura — AI, SI e o problema da palavra Artificial."
+    },
+    "capitulo-04": {
+      "id": "EA000-CH-04",
+      "number": "04",
+      "title": "O paradoxo do prompt",
+      "part": "PARTE II — ESTAMOS A USAR IA DA FORMA ERRADA?",
+      "quote": "Uma interface inteligente pode melhorar radicalmente a produtividade de uma pessoa e, ainda assim, deixar praticamente intacta a forma como a empresa funciona.",
+      "art": "/ea000/art/chapter-04.svg",
+      "treatment": "conceptual-vector",
+      "alt": "Ilustração de abertura — O paradoxo do prompt."
+    },
+    "capitulo-05": {
+      "id": "EA000-CH-05",
+      "number": "05",
+      "title": "A criança extremamente inteligente",
+      "part": "PARTE II — ESTAMOS A USAR IA DA FORMA ERRADA?",
+      "quote": "Sistemas cada vez mais capazes estão a ser introduzidos em organizações que ainda não aprenderam a delegar capacidade computacional.",
+      "art": "/ea000/art/chapter-05.svg",
+      "treatment": "conceptual-vector",
+      "alt": "Ilustração de abertura — A criança extremamente inteligente."
+    },
+    "capitulo-06": {
+      "id": "EA000-CH-06",
+      "number": "06",
+      "title": "O empresário não deveria gerir tarefas",
+      "part": "PARTE II — ESTAMOS A USAR IA DA FORMA ERRADA?",
+      "quote": "A função da direção não é garantir que cada tarefa acontece. É construir uma organização em que as tarefas certas acontecem porque objetivos, responsabilidades, recursos, limites e informação estão bem desenhados.",
+      "art": "/ea000/art/chapter-06.svg",
+      "treatment": "conceptual-vector",
+      "alt": "Ilustração de abertura — O empresário não deveria gerir tarefas."
+    },
+    "capitulo-07": {
+      "id": "EA000-CH-07",
+      "number": "07",
+      "title": "O que é uma Empresa Aumentada?",
+      "part": "PARTE III — A EMPRESA AUMENTADA",
+      "quote": "Uma Empresa Aumentada é uma organização em que pessoas, agentes inteligentes, tecnologia e processos operam dentro de uma arquitetura comum, orientados por objetivos, responsabilidades, permissões, dados, métricas e mecanismos de governança definidos.",
+      "art": "/ea000/images/skyline-approved.jpg",
+      "treatment": "photographic",
+      "alt": "Ilustração de abertura — O que é uma Empresa Aumentada?."
+    },
+    "capitulo-08": {
+      "id": "EA000-CH-08",
+      "number": "08",
+      "title": "Humanos definem o horizonte",
+      "part": "PARTE III — A EMPRESA AUMENTADA",
+      "quote": "A Empresa Aumentada não elimina o humano da operação. Reposiciona-o onde julgamento, responsabilidade, confiança, direção e significado criam mais valor.",
+      "art": "/ea000/art/chapter-08.svg",
+      "treatment": "conceptual-vector",
+      "alt": "Ilustração de abertura — Humanos definem o horizonte."
+    },
+    "capitulo-09": {
+      "id": "EA000-CH-09",
+      "number": "09",
+      "title": "Anatomia de um agente",
+      "part": "PARTE III — A EMPRESA AUMENTADA",
+      "quote": "Um agente empresarial não é “uma IA com acesso a ferramentas”. É uma função computacional desenhada com missão, contexto, memória, autoridade, métricas, escalamento e responsabilidade operacional.",
+      "art": "/ea000/art/chapter-09.svg",
+      "treatment": "conceptual-vector",
+      "alt": "Ilustração de abertura — Anatomia de um agente."
+    },
+    "capitulo-10": {
+      "id": "EA000-CH-10",
+      "number": "10",
+      "title": "O organograma vai mudar",
+      "part": "PARTE III — A EMPRESA AUMENTADA",
+      "quote": "O organograma tradicional mostra quem responde a quem. A Empresa Aumentada precisa também mostrar quem observa, quem decide, quem executa, que sistema fornece contexto e quando uma exceção muda de nível.",
+      "art": "/ea000/art/chapter-10.svg",
+      "treatment": "conceptual-vector",
+      "alt": "Ilustração de abertura — O organograma vai mudar."
+    },
+    "capitulo-11": {
+      "id": "EA000-CH-11",
+      "number": "11",
+      "title": "Agentes que coordenam agentes",
+      "part": "PARTE III — A EMPRESA AUMENTADA",
+      "quote": "A partir do momento em que uma empresa possui vários agentes especializados, o problema deixa de ser apenas inteligência. Passa a ser organização.",
+      "art": "/ea000/art/chapter-11.svg",
+      "treatment": "conceptual-vector",
+      "alt": "Ilustração de abertura — Agentes que coordenam agentes."
+    },
+    "capitulo-12": {
+      "id": "EA000-CH-12",
+      "number": "12",
+      "title": "O supermercado da pequena cidade",
+      "part": "PARTE IV — A EMPRESA EM FUNCIONAMENTO",
+      "quote": "A Empresa Aumentada não começa num laboratório, num centro de inovação ou numa multinacional. Pode começar num supermercado de bairro, às seis e meia da manhã, quando alguém percebe que faltam tomates, o pão ainda não chegou e o grupo de WhatsApp já tem pedidos.",
+      "art": "/ea000/images/comercio.jpg",
+      "treatment": "photographic",
+      "alt": "Ilustração de abertura — O supermercado da pequena cidade."
+    },
+    "capitulo-13": {
+      "id": "EA000-CH-13",
+      "number": "13",
+      "title": "As dez farmácias",
+      "part": "PARTE IV — A EMPRESA EM FUNCIONAMENTO",
+      "quote": "Uma rede de dez lojas não precisa de dez vezes mais microgestão. Precisa de uma arquitetura capaz de distinguir rotina, exceção, decisão comercial e responsabilidade profissional.",
+      "art": "/ea000/images/farmacia.jpg",
+      "treatment": "photographic",
+      "alt": "Ilustração de abertura — As dez farmácias."
+    },
+    "capitulo-14": {
+      "id": "EA000-CH-14",
+      "number": "14",
+      "title": "O Chile começou a comprar",
+      "part": "PARTE IV — A EMPRESA EM FUNCIONAMENTO",
+      "quote": "A vantagem competitiva não está apenas em perceber uma oportunidade. Está na distância entre perceber, compreender, decidir e agir.",
+      "art": "/ea000/art/chapter-14.svg",
+      "treatment": "conceptual-vector",
+      "alt": "Ilustração de abertura — O Chile começou a comprar."
+    },
+    "capitulo-15": {
+      "id": "EA000-CH-15",
+      "number": "15",
+      "title": "A clínica que recuperou tempo",
+      "part": "PARTE IV — A EMPRESA EM FUNCIONAMENTO",
+      "quote": "Quando a recepção passa o dia a responder às mesmas perguntas, confirmar horários, procurar informações e remarcar agendas, o problema não é falta de esforço. É desenho de operação.",
+      "art": "/ea000/images/clinica.jpg",
+      "treatment": "photographic",
+      "alt": "Ilustração de abertura — A clínica que recuperou tempo."
+    },
+    "capitulo-16": {
+      "id": "EA000-CH-16",
+      "number": "16",
+      "title": "Da mensagem à oportunidade",
+      "part": "PARTE IV — A EMPRESA EM FUNCIONAMENTO",
+      "quote": "Num negócio baseado em confiança e relacionamento, a tecnologia cria mais valor quando retira trabalho administrativo da equipe comercial — não quando tenta transformar relacionamento em automação.",
+      "art": "/ea000/images/boardroom.jpg",
+      "treatment": "photographic",
+      "alt": "Ilustração de abertura — Da mensagem à oportunidade."
+    },
+    "capitulo-17": {
+      "id": "EA000-CH-17",
+      "number": "17",
+      "title": "Quando um fornecedor atrasa",
+      "part": "PARTE IV — A EMPRESA EM FUNCIONAMENTO",
+      "quote": "Numa cadeia industrial, o problema raramente é o atraso isolado. O problema é descobrir tarde demais o que esse atraso realmente vai afetar.",
+      "art": "/ea000/images/logistica.jpg",
+      "treatment": "photographic",
+      "alt": "Ilustração de abertura — Quando um fornecedor atrasa."
+    },
+    "capitulo-18": {
+      "id": "EA000-CH-18",
+      "number": "18",
+      "title": "Tecnologia não é o objetivo",
+      "part": "PARTE V — A EQUAÇÃO DA EMPRESA AUMENTADA",
+      "quote": "Uma tecnologia só merece espaço na organização quando conseguimos explicar que variável econômica ou operacional ela altera — e como saberemos se essa alteração aconteceu.",
+      "art": "/ea000/art/chapter-18.svg",
+      "treatment": "conceptual-vector",
+      "alt": "Ilustração de abertura — Tecnologia não é o objetivo."
+    },
+    "capitulo-19": {
+      "id": "EA000-CH-19",
+      "number": "19",
+      "title": "O ROI da inteligência",
+      "part": "PARTE V — A EQUAÇÃO DA EMPRESA AUMENTADA",
+      "quote": "O ROI de uma iniciativa de IA não é o valor do modelo. É o valor líquido da mudança operacional que o modelo tornou possível.",
+      "art": "/ea000/art/chapter-19.svg",
+      "treatment": "conceptual-vector",
+      "alt": "Ilustração de abertura — O ROI da inteligência."
+    },
+    "capitulo-20": {
+      "id": "EA000-CH-20",
+      "number": "20",
+      "title": "Nem tudo o que pode ser automatizado deve ser automatizado",
+      "part": "PARTE V — A EQUAÇÃO DA EMPRESA AUMENTADA",
+      "quote": "A maturidade de uma organização não se mede pela quantidade de decisões que consegue retirar das pessoas. Mede-se pela qualidade com que escolhe onde automatizar, onde aumentar e onde preservar julgamento humano.",
+      "art": "/ea000/art/chapter-20.svg",
+      "treatment": "conceptual-vector",
+      "alt": "Ilustração de abertura — Nem tudo o que pode ser automatizado deve ser automatizado."
+    },
+    "capitulo-21": {
+      "id": "EA000-CH-21",
+      "number": "21",
+      "title": "Por onde começar amanhã",
+      "part": "PARTE V — A EQUAÇÃO DA EMPRESA AUMENTADA",
+      "quote": "A Empresa Aumentada não começa com uma transformação total. Começa quando uma organização escolhe um problema real, mede o estado atual, desenha uma capacidade melhor e aprende com a primeira execução.",
+      "art": "/ea000/art/chapter-21.svg",
+      "treatment": "conceptual-vector",
+      "alt": "Ilustração de abertura — Por onde começar amanhã."
+    }
+  }
+}

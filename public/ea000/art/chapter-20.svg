@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="600" height="280" preserveAspectRatio="xMinYMin meet" viewBox="0 0 600 280" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>Estudo visual — Nem tudo o que pode ser automatizado deve ser automatizado</title>
+	<desc>Composição gráfica conceptual para Nem tudo o que pode ser automatizado deve ser automatizado. Não é um diagrama técnico.</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="600" height="280"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-280)" style="clip-path: url(#clip)">
+		<g transform="">
+			<polygon points="230 225, 300 248, 370 225, 356 107, 300 52, 244 107" style="stroke: rgb(2%,9%,16%); stroke-linecap: butt; stroke-width: 1.5; fill: none; fill-rule: evenodd;"/>
+			<path d="M 268,148 L 295,121 Z" style="stroke: rgb(34%,80%,89%); stroke-linecap: butt; stroke-width: 3;"/>
+			<path d="M 295,121 L 338,180 Z" style="stroke: rgb(34%,80%,89%); stroke-linecap: butt; stroke-width: 3;"/>
+		</g>
+	</g>
+</svg>

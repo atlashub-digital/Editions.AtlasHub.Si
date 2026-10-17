@@ -1,0 +1,149 @@
+{
+  "file": "EA-000_Empresa-Aumentada_A5_digital.pdf",
+  "format": "A5",
+  "printing": false,
+  "pages": 419,
+  "trim_mm": [
+    148,
+    210
+  ],
+  "bleed_mm": 0,
+  "bookmarks": [
+    {
+      "slug": "nota-editorial",
+      "page": 5,
+      "title": "Nota editorial"
+    },
+    {
+      "slug": "prefacio",
+      "page": 6,
+      "title": "Prefácio"
+    },
+    {
+      "slug": "capitulo-01",
+      "page": 13,
+      "title": "Capítulo 1 · Setenta anos a ensinar máquinas"
+    },
+    {
+      "slug": "capitulo-02",
+      "page": 26,
+      "title": "Capítulo 2 · A máquina deixou de apenas responder"
+    },
+    {
+      "slug": "capitulo-03",
+      "page": 44,
+      "title": "Capítulo 3 · AI, SI e o problema da palavra Artificial"
+    },
+    {
+      "slug": "capitulo-04",
+      "page": 58,
+      "title": "Capítulo 4 · O paradoxo do prompt"
+    },
+    {
+      "slug": "capitulo-05",
+      "page": 75,
+      "title": "Capítulo 5 · A criança extremamente inteligente"
+    },
+    {
+      "slug": "capitulo-06",
+      "page": 92,
+      "title": "Capítulo 6 · O empresário não deveria gerir tarefas"
+    },
+    {
+      "slug": "capitulo-07",
+      "page": 111,
+      "title": "Capítulo 7 · O que é uma Empresa Aumentada?"
+    },
+    {
+      "slug": "capitulo-08",
+      "page": 126,
+      "title": "Capítulo 8 · Humanos definem o horizonte"
+    },
+    {
+      "slug": "capitulo-09",
+      "page": 146,
+      "title": "Capítulo 9 · Anatomia de um agente"
+    },
+    {
+      "slug": "capitulo-10",
+      "page": 170,
+      "title": "Capítulo 10 · O organograma vai mudar"
+    },
+    {
+      "slug": "capitulo-11",
+      "page": 190,
+      "title": "Capítulo 11 · Agentes que coordenam agentes"
+    },
+    {
+      "slug": "capitulo-12",
+      "page": 218,
+      "title": "Capítulo 12 · O supermercado da pequena cidade"
+    },
+    {
+      "slug": "capitulo-13",
+      "page": 237,
+      "title": "Capítulo 13 · As dez farmácias"
+    },
+    {
+      "slug": "capitulo-14",
+      "page": 257,
+      "title": "Capítulo 14 · O Chile começou a comprar"
+    },
+    {
+      "slug": "capitulo-15",
+      "page": 272,
+      "title": "Capítulo 15 · A clínica que recuperou tempo"
+    },
+    {
+      "slug": "capitulo-16",
+      "page": 288,
+      "title": "Capítulo 16 · Da mensagem à oportunidade"
+    },
+    {
+      "slug": "capitulo-17",
+      "page": 303,
+      "title": "Capítulo 17 · Quando um fornecedor atrasa"
+    },
+    {
+      "slug": "capitulo-18",
+      "page": 324,
+      "title": "Capítulo 18 · Tecnologia não é o objetivo"
+    },
+    {
+      "slug": "capitulo-19",
+      "page": 341,
+      "title": "Capítulo 19 · O ROI da inteligência"
+    },
+    {
+      "slug": "capitulo-20",
+      "page": 359,
+      "title": "Capítulo 20 · Nem tudo o que pode ser automatizado deve ser automatizado"
+    },
+    {
+      "slug": "capitulo-21",
+      "page": 379,
+      "title": "Capítulo 21 · Por onde começar amanhã"
+    },
+    {
+      "slug": "epilogo",
+      "page": 402,
+      "title": "Epílogo"
+    },
+    {
+      "slug": "referencias",
+      "page": 411,
+      "title": "Referências"
+    },
+    {
+      "slug": "glossario",
+      "page": 414,
+      "title": "Glossário"
+    },
+    {
+      "slug": "sobre-o-autor",
+      "page": 418,
+      "title": "Sobre o autor"
+    }
+  ],
+  "pdfx": false
+}

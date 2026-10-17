@@ -1,0 +1,649 @@
+[
+  {
+    "file": "capitulo-07-1.svg",
+    "title": "A arquitetura da Empresa Aumentada",
+    "rows": [
+      [
+        "Objetivos do negócio"
+      ],
+      [
+        "Pessoas e agentes",
+        "Processos e tecnologia",
+        "Dados e contexto"
+      ],
+      [
+        "Governança e supervisão humana"
+      ],
+      [
+        "Execução e coordenação"
+      ],
+      [
+        "Resultados: receita, custos, velocidade e controle"
+      ]
+    ],
+    "feedback": true,
+    "caption": "A governança conecta a capacidade operacional aos objetivos; a avaliação dos resultados realimenta a direção."
+  },
+  {
+    "file": "capitulo-07-2.svg",
+    "title": "Oito dimensões do framework",
+    "rows": [
+      [
+        "1 Objetivos do negócio",
+        "2 Pessoas"
+      ],
+      [
+        "3 Processos",
+        "4 Dados"
+      ],
+      [
+        "5 Sistemas",
+        "6 Agentes de IA"
+      ],
+      [
+        "7 Governança",
+        "8 Resultados"
+      ]
+    ],
+    "noArrows": true,
+    "caption": "Dimensões complementares do modelo do autor. A numeração organiza a leitura; não define uma sequência automática de implantação."
+  },
+  {
+    "file": "capitulo-08-3.svg",
+    "title": "Política, execução e responsabilidade",
+    "rows": [
+      [
+        "Política: critérios e limites"
+      ],
+      [
+        "Execução: pessoa, agente ou automação"
+      ],
+      [
+        "Resultado observado"
+      ],
+      [
+        "Responsável humano pela função"
+      ]
+    ],
+    "feedback": true,
+    "caption": "A execução pode ser distribuída. A responsabilidade pela política e pelos resultados permanece atribuída a pessoas."
+  },
+  {
+    "file": "capitulo-08-4.svg",
+    "title": "Quatro modos de decisão",
+    "rows": [
+      [
+        "A Execução automática"
+      ],
+      [
+        "B Execução supervisionada"
+      ],
+      [
+        "C Decisão aumentada"
+      ],
+      [
+        "D Liderança humana"
+      ]
+    ],
+    "noArrows": true,
+    "caption": "Modos escolhidos conforme contexto, risco e valor do julgamento humano. Não constituem degraus obrigatórios de maturidade."
+  },
+  {
+    "file": "capitulo-09-5.svg",
+    "title": "O ciclo do agente e os limites de ação",
+    "rows": [
+      [
+        "Gatilho e contexto"
+      ],
+      [
+        "Interpretar e preparar decisão"
+      ],
+      [
+        "Verificar política e permissões"
+      ],
+      [
+        "Dentro dos limites: agir",
+        "Fora dos limites: escalar"
+      ],
+      [
+        "Observar e registrar o resultado"
+      ],
+      [
+        "Concluir ou reavaliar"
+      ]
+    ],
+    "caption": "Os limites são verificados antes de agir. O resultado também é observado; exceções exigem intervenção conforme a política."
+  },
+  {
+    "file": "capitulo-09-6.svg",
+    "title": "Ciclo de vida de uma capacidade",
+    "rows": [
+      [
+        "Desenho e teste offline"
+      ],
+      [
+        "Modo sombra: sugerir sem executar"
+      ],
+      [
+        "Piloto e produção limitada"
+      ],
+      [
+        "Escala condicionada à evidência"
+      ],
+      [
+        "Revisão contínua e retirada"
+      ]
+    ],
+    "caption": "Passagens condicionadas à evidência e à autorização. Revisões podem devolver o sistema a uma etapa anterior."
+  },
+  {
+    "file": "capitulo-10-7.svg",
+    "title": "O organograma tradicional",
+    "rows": [
+      [
+        "Direção"
+      ],
+      [
+        "Comercial",
+        "Operações",
+        "Financeiro"
+      ],
+      [
+        "Vendas",
+        "Compras e logística",
+        "Contas"
+      ]
+    ],
+    "caption": "O organograma representa linhas de autoridade, mas não descreve todos os fluxos de informação e coordenação."
+  },
+  {
+    "file": "capitulo-10-8.svg",
+    "title": "Estrutura híbrida com direção humana",
+    "rows": [
+      [
+        "Direção humana"
+      ],
+      [
+        "Direção comercial",
+        "Direção de operações",
+        "Direção financeira"
+      ],
+      [
+        "Coordenação comercial por IA",
+        "Coordenação operacional por IA",
+        "Coordenação financeira por IA"
+      ],
+      [
+        "Leads, CRM e follow-up",
+        "Estoque, compras e logística",
+        "Conciliação e cobrança"
+      ],
+      [
+        "Vendedores",
+        "Equipe operacional",
+        "Equipe financeira"
+      ]
+    ],
+    "caption": "Pessoas continuam responsáveis pelas funções. Os grupos de agentes ampliam a execução dentro de limites explícitos. O arranjo mostra camadas e funções; não atribui autoridade de agentes sobre pessoas.",
+    "noArrows": true
+  },
+  {
+    "file": "capitulo-10-9.svg",
+    "title": "Camadas da arquitetura operacional",
+    "rows": [
+      [
+        "Autoridade humana"
+      ],
+      [
+        "Coordenação"
+      ],
+      [
+        "Pessoas e agentes especializados"
+      ],
+      [
+        "Processos"
+      ],
+      [
+        "Sistemas e dados"
+      ],
+      [
+        "Clientes, fornecedores e ambiente"
+      ]
+    ],
+    "caption": "Camadas de leitura da organização. O ambiente gera sinais e recebe os efeitos da operação; o desenho não substitui um mapa detalhado de dependências. O arranjo mostra camadas e funções; não atribui autoridade de agentes sobre pessoas.",
+    "noArrows": true
+  },
+  {
+    "file": "capitulo-10-10.svg",
+    "title": "Autoridade, ação e exceções",
+    "rows": [
+      [
+        "Política e autoridade humana"
+      ],
+      [
+        "Agente verifica condições"
+      ],
+      [
+        "Ação autorizada",
+        "Exceção: responsável humano"
+      ],
+      [
+        "Resultado observado e registrado"
+      ]
+    ],
+    "caption": "A ação regular segue a política; uma exceção deve chegar ao responsável antes de exceder a autoridade concedida."
+  },
+  {
+    "file": "capitulo-10-11.svg",
+    "title": "Coordenação transversal de uma rede",
+    "rows": [
+      [
+        "Direção"
+      ],
+      [
+        "Coordenação de operações"
+      ],
+      [
+        "Estoque e compras",
+        "Atendimento",
+        "Informação de gestão"
+      ],
+      [
+        "Lojas 1 a 10"
+      ],
+      [
+        "PDV, ERP, CRM e financeiro"
+      ]
+    ],
+    "caption": "As lojas compartilham capacidade transversal. Sistemas fornecem dados e recebem ações autorizadas; a direção recebe resultados e exceções. O arranjo mostra camadas e funções; não atribui autoridade de agentes sobre pessoas.",
+    "noArrows": true
+  },
+  {
+    "file": "capitulo-11-12.svg",
+    "title": "Especialização paralela e síntese",
+    "rows": [
+      [
+        "Sinal de mercado"
+      ],
+      [
+        "Coordenação comercial"
+      ],
+      [
+        "Pesquisa e preços",
+        "Logística e pagamentos",
+        "Conteúdo, atendimento e conformidade"
+      ],
+      [
+        "Síntese de evidências e opções"
+      ],
+      [
+        "Decisão humana"
+      ]
+    ],
+    "caption": "A coordenação distribui análises especializadas e reúne conclusões para a decisão. Os grupos condensam funções, não eliminam suas responsabilidades."
+  },
+  {
+    "file": "capitulo-11-13.svg",
+    "title": "Dependências na preparação de uma oferta",
+    "rows": [
+      [
+        "Dados de mercado",
+        "Custos logísticos"
+      ],
+      [
+        "Precificação"
+      ],
+      [
+        "Oferta"
+      ],
+      [
+        "Conteúdo",
+        "Atendimento"
+      ]
+    ],
+    "caption": "Conteúdo e atendimento dependem de uma oferta consistente; a precificação precisa considerar o mercado e o custo de servir."
+  },
+  {
+    "file": "capitulo-12-14.svg",
+    "title": "Mapa operacional do supermercado",
+    "rows": [
+      [
+        "Proprietário e direção"
+      ],
+      [
+        "Coordenação da loja"
+      ],
+      [
+        "Estoque e compras",
+        "Promoção e atendimento",
+        "Conciliação financeira"
+      ],
+      [
+        "ERP e PDV",
+        "WhatsApp e entregas",
+        "Financeiro"
+      ],
+      [
+        "Equipe da loja e tratamento de exceções"
+      ]
+    ],
+    "caption": "Cenário didático. Os fluxos regulares são coordenados; divergências e decisões sensíveis retornam ao responsável humano. O arranjo mostra camadas e funções; não atribui autoridade de agentes sobre pessoas.",
+    "noArrows": true
+  },
+  {
+    "file": "capitulo-13-15.svg",
+    "title": "Autonomia local e inteligência transversal",
+    "rows": [
+      [
+        "Direção e responsáveis humanos"
+      ],
+      [
+        "Coordenação da rede"
+      ],
+      [
+        "Estoque e compras",
+        "Campanhas e atendimento",
+        "Gestão e exceções"
+      ],
+      [
+        "Lojas 1 a 10"
+      ],
+      [
+        "ERP, PDV, CRM e comércio eletrônico"
+      ]
+    ],
+    "caption": "Cenário didático de uma rede de farmácias. As funções operacionais não transferem a responsabilidade profissional farmacêutica para os agentes. O arranjo mostra camadas e funções; não atribui autoridade de agentes sobre pessoas.",
+    "noArrows": true
+  },
+  {
+    "file": "capitulo-13-16.svg",
+    "title": "Fronteira entre atendimento e orientação clínica",
+    "rows": [
+      [
+        "Contato e triagem"
+      ],
+      [
+        "Tema administrativo confirmado",
+        "Tema clínico ou dúvida"
+      ],
+      [
+        "Agente dentro da política",
+        "Farmacêutico responsável"
+      ],
+      [
+        "Registrar; novo tema clínico exige escalamento"
+      ]
+    ],
+    "caption": "A incerteza sobre a natureza do pedido já é motivo para encaminhamento profissional. A triagem deve ser reavaliada durante a conversa."
+  },
+  {
+    "file": "capitulo-14-17.svg",
+    "title": "Da procura internacional ao piloto",
+    "rows": [
+      [
+        "Sinal de mercado"
+      ],
+      [
+        "Coordenação comercial"
+      ],
+      [
+        "Pesquisa e cultura",
+        "Logística e finanças",
+        "Risco e conformidade"
+      ],
+      [
+        "Síntese: oportunidade e limites"
+      ],
+      [
+        "Decisão humana sobre o piloto"
+      ]
+    ],
+    "caption": "Cenário composto. A análise paralela prepara uma decisão limitada; não autoriza expansão, compromissos ou pagamentos automaticamente."
+  },
+  {
+    "file": "capitulo-15-18.svg",
+    "title": "A jornada administrativa da clínica",
+    "rows": [
+      [
+        "Interesse e triagem administrativa"
+      ],
+      [
+        "Informação e agendamento"
+      ],
+      [
+        "Confirmação"
+      ],
+      [
+        "Atendimento profissional"
+      ],
+      [
+        "Pós-atendimento e continuidade"
+      ]
+    ],
+    "caption": "A automação apoia a jornada administrativa. Questões clínicas e situações sensíveis são encaminhadas ao profissional competente."
+  },
+  {
+    "file": "capitulo-16-19.svg",
+    "title": "Da mensagem à oportunidade imobiliária",
+    "rows": [
+      [
+        "Canais de entrada e registro no CRM"
+      ],
+      [
+        "Critérios declarados e busca no inventário"
+      ],
+      [
+        "Coordenação comercial"
+      ],
+      [
+        "Profissional comercial",
+        "Agenda e follow-up"
+      ],
+      [
+        "Visita, negociação e documentação"
+      ],
+      [
+        "Fechamento e pós-venda"
+      ]
+    ],
+    "caption": "O contexto acompanha a oportunidade ao longo do processo. Negociação, compromissos e verificações profissionais mantêm responsáveis humanos."
+  },
+  {
+    "file": "capitulo-17-20.svg",
+    "title": "Resposta coordenada ao atraso de fornecedor",
+    "rows": [
+      [
+        "Evento do fornecedor"
+      ],
+      [
+        "Coordenação do risco de abastecimento"
+      ],
+      [
+        "Estoque e produção",
+        "Demanda e alternativas",
+        "Transporte e qualidade"
+      ],
+      [
+        "Cenários e opções"
+      ],
+      [
+        "Decisão humana"
+      ]
+    ],
+    "caption": "Cenário industrial composto. As análises são reunidas em opções comparáveis; qualidade e compromissos precisam de validação apropriada."
+  },
+  {
+    "file": "capitulo-17-21.svg",
+    "title": "Três latências operacionais",
+    "rows": [
+      [
+        "Evento real"
+      ],
+      [
+        "Dado disponível: latência dos dados"
+      ],
+      [
+        "Decisão: latência da decisão"
+      ],
+      [
+        "Ação: latência da execução"
+      ]
+    ],
+    "caption": "Medir separadamente o tempo para disponibilizar o dado, decidir e executar ajuda a localizar o gargalo."
+  },
+  {
+    "file": "capitulo-18-22.svg",
+    "title": "A equação como teste de valor",
+    "rows": [
+      [
+        "Receita e custos",
+        "Velocidade e controle"
+      ],
+      [
+        "Resultado empresarial"
+      ],
+      [
+        "Valor sustentável sob risco aceitável"
+      ]
+    ],
+    "caption": "As setas da equação expressam objetivos de melhoria, não resultados garantidos nem uma identidade matemática de retorno."
+  },
+  {
+    "file": "capitulo-18-23.svg",
+    "title": "Do evento à ação",
+    "rows": [
+      [
+        "Evento"
+      ],
+      [
+        "Dado"
+      ],
+      [
+        "Decisão"
+      ],
+      [
+        "Ação"
+      ]
+    ],
+    "caption": "A velocidade de resposta depende do percurso completo. Acelerar uma etapa pode não reduzir o tempo total."
+  },
+  {
+    "file": "capitulo-18-24.svg",
+    "title": "Hipótese de geração de valor no follow-up",
+    "rows": [
+      [
+        "Agente amplia cobertura de follow-up"
+      ],
+      [
+        "Hipótese: mais respostas e reuniões"
+      ],
+      [
+        "Hipótese: conversão incremental"
+      ],
+      [
+        "Receita e margem atribuíveis"
+      ]
+    ],
+    "caption": "Cadeia causal proposta para teste. Cada ligação exige medição; mais mensagens não demonstram, por si, aumento de receita."
+  },
+  {
+    "file": "capitulo-20-25.svg",
+    "title": "Impacto do erro e reversibilidade",
+    "kind": "matrix",
+    "rows": [
+      [
+        "Alto impacto · difícil reverter",
+        "Alto impacto · fácil reverter"
+      ],
+      [
+        "Baixo impacto · difícil reverter",
+        "Baixo impacto · fácil reverter"
+      ]
+    ],
+    "caption": "A reversibilidade não elimina o risco. Alto impacto exige supervisão proporcional; casos de baixo impacto e alta reversibilidade tendem a ser candidatos melhores à automação."
+  },
+  {
+    "file": "capitulo-20-26.svg",
+    "title": "Gate para decisões de alto impacto",
+    "rows": [
+      [
+        "Ação proposta e avaliação de impacto"
+      ],
+      [
+        "Baixo impacto: política aplicável",
+        "Alto impacto: evidência e decisão humana"
+      ],
+      [
+        "Registro da decisão"
+      ],
+      [
+        "Execução autorizada"
+      ]
+    ],
+    "caption": "A avaliação define a rota. Decisões de alto impacto exigem evidência, autoridade humana e registro antes da execução."
+  },
+  {
+    "file": "capitulo-20-27.svg",
+    "title": "Escolher como redesenhar o trabalho",
+    "rows": [
+      [
+        "O processo cria valor?"
+      ],
+      [
+        "Não: eliminar ou simplificar",
+        "Sim: avaliar estrutura e risco"
+      ],
+      [
+        "Baixo risco e reversível: automatizar",
+        "Julgamento relevante: aumentar ou preservar"
+      ],
+      [
+        "Condições insuficientes: redesenhar ou adiar"
+      ]
+    ],
+    "noArrows": true,
+    "caption": "Rotas condicionais de decisão, não uma sequência linear. Eliminar, automatizar, aumentar, preservar ou adiar dependem do diagnóstico."
+  },
+  {
+    "file": "capitulo-21-28.svg",
+    "title": "Mapear o processo como ele acontece",
+    "rows": [
+      [
+        "Gatilho e pessoa"
+      ],
+      [
+        "Sistema, planilha e mensagens"
+      ],
+      [
+        "Aprovação"
+      ],
+      [
+        "Sistema seguinte"
+      ],
+      [
+        "Resultado"
+      ]
+    ],
+    "caption": "O mapa registra transferências reais entre pessoas e sistemas. A finalidade é revelar esperas, dependências e retrabalho."
+  },
+  {
+    "file": "capitulo-21-29.svg",
+    "title": "Portfólio de descoberta e operação",
+    "rows": [
+      [
+        "Descobrir e desenhar"
+      ],
+      [
+        "Piloto com critérios de decisão"
+      ],
+      [
+        "Operar",
+        "Interromper"
+      ],
+      [
+        "Revisar antes de ampliar a escala"
+      ]
+    ],
+    "caption": "Um piloto pode avançar ou parar. A operação permanece sujeita a revisão; escala não é uma consequência automática."
+  }
+]

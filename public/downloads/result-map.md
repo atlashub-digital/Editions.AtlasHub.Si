@@ -1,6 +1,6 @@
 # Result Map
 
-Extraído de Empresa Aumentada, Sérgio Monteiro. Todos os direitos reservados.
+Trecho de Empresa Aumentada, Sérgio Monteiro. EA-000.
 
 ## 22. O Result Map
 Podemos formalizar um template.
@@ -10,7 +10,7 @@ O que está errado hoje?
 O que a solução muda no processo?
 ### Métrica operacional
 Como medimos o mecanismo?
-### Métrica económica
+### Métrica econômica
 Que variável da equação é afetada?
 ### Baseline
 Qual o ponto de partida?
@@ -23,8 +23,6 @@ O que pode piorar?
 
 
 ***
-
-
 
 
 ***

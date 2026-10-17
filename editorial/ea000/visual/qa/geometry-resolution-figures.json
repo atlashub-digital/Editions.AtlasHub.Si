@@ -1,0 +1,1422 @@
+[
+  {
+    "file": "EA-000_Empresa-Aumentada_A4_visual_digital.pdf",
+    "pages": 323,
+    "figures": [
+      {
+        "id": "EA000-FIG-001",
+        "page": 87
+      },
+      {
+        "id": "EA000-FIG-002",
+        "page": 93
+      },
+      {
+        "id": "EA000-FIG-003",
+        "page": 100
+      },
+      {
+        "id": "EA000-FIG-004",
+        "page": 106
+      },
+      {
+        "id": "EA000-FIG-005",
+        "page": 114
+      },
+      {
+        "id": "EA000-FIG-006",
+        "page": 126
+      },
+      {
+        "id": "EA000-FIG-007",
+        "page": 133
+      },
+      {
+        "id": "EA000-FIG-008",
+        "page": 134
+      },
+      {
+        "id": "EA000-FIG-009",
+        "page": 135
+      },
+      {
+        "id": "EA000-FIG-010",
+        "page": 137
+      },
+      {
+        "id": "EA000-FIG-011",
+        "page": 139
+      },
+      {
+        "id": "EA000-FIG-012",
+        "page": 153
+      },
+      {
+        "id": "EA000-FIG-013",
+        "page": 154
+      },
+      {
+        "id": "EA000-FIG-014",
+        "page": 170
+      },
+      {
+        "id": "EA000-FIG-015",
+        "page": 184
+      },
+      {
+        "id": "EA000-FIG-016",
+        "page": 189
+      },
+      {
+        "id": "EA000-FIG-017",
+        "page": 201
+      },
+      {
+        "id": "EA000-FIG-018",
+        "page": 211
+      },
+      {
+        "id": "EA000-FIG-019",
+        "page": 224
+      },
+      {
+        "id": "EA000-FIG-020",
+        "page": 237
+      },
+      {
+        "id": "EA000-FIG-021",
+        "page": 244
+      },
+      {
+        "id": "EA000-FIG-022",
+        "page": 253
+      },
+      {
+        "id": "EA000-FIG-023",
+        "page": 256
+      },
+      {
+        "id": "EA000-FIG-024",
+        "page": 260
+      },
+      {
+        "id": "EA000-FIG-025",
+        "page": 281
+      },
+      {
+        "id": "EA000-FIG-026",
+        "page": 286
+      },
+      {
+        "id": "EA000-FIG-027",
+        "page": 289
+      },
+      {
+        "id": "EA000-FIG-028",
+        "page": 297
+      },
+      {
+        "id": "EA000-FIG-029",
+        "page": 303
+      }
+    ],
+    "figureCount": 29,
+    "bleedErrors": [],
+    "bleedMM": 0,
+    "images": [
+      {
+        "page": 1,
+        "pixels": [
+          1190,
+          1683
+        ],
+        "placed_mm": [
+          210.0,
+          297.0
+        ],
+        "effective_ppi": [
+          143.9,
+          143.9
+        ],
+        "colorspace": "/DeviceRGB"
+      },
+      {
+        "page": 10,
+        "pixels": [
+          1536,
+          1024
+        ],
+        "placed_mm": [
+          280.66,
+          187.11
+        ],
+        "effective_ppi": [
+          139.0,
+          139.0
+        ],
+        "colorspace": "/DeviceRGB"
+      },
+      {
+        "page": 43,
+        "pixels": [
+          1024,
+          1536
+        ],
+        "placed_mm": [
+          210.0,
+          315.0
+        ],
+        "effective_ppi": [
+          123.9,
+          123.9
+        ],
+        "colorspace": "/DeviceRGB"
+      },
+      {
+        "page": 83,
+        "pixels": [
+          1024,
+          1536
+        ],
+        "placed_mm": [
+          210.0,
+          315.0
+        ],
+        "effective_ppi": [
+          123.9,
+          123.9
+        ],
+        "colorspace": "/DeviceRGB"
+      },
+      {
+        "page": 84,
+        "pixels": [
+          1190,
+          1683
+        ],
+        "placed_mm": [
+          210.0,
+          297.0
+        ],
+        "effective_ppi": [
+          143.9,
+          143.9
+        ],
+        "colorspace": "/DeviceRGB"
+      },
+      {
+        "page": 165,
+        "pixels": [
+          1536,
+          1024
+        ],
+        "placed_mm": [
+          280.66,
+          187.11
+        ],
+        "effective_ppi": [
+          139.0,
+          139.0
+        ],
+        "colorspace": "/DeviceRGB"
+      },
+      {
+        "page": 166,
+        "pixels": [
+          1536,
+          1024
+        ],
+        "placed_mm": [
+          210.0,
+          140.0
+        ],
+        "effective_ppi": [
+          185.8,
+          185.8
+        ],
+        "colorspace": "/DeviceRGB"
+      },
+      {
+        "page": 181,
+        "pixels": [
+          1536,
+          1024
+        ],
+        "placed_mm": [
+          210.0,
+          140.0
+        ],
+        "effective_ppi": [
+          185.8,
+          185.8
+        ],
+        "colorspace": "/DeviceRGB"
+      },
+      {
+        "page": 209,
+        "pixels": [
+          1536,
+          1024
+        ],
+        "placed_mm": [
+          210.0,
+          140.0
+        ],
+        "effective_ppi": [
+          185.8,
+          185.8
+        ],
+        "colorspace": "/DeviceRGB"
+      },
+      {
+        "page": 222,
+        "pixels": [
+          1024,
+          1536
+        ],
+        "placed_mm": [
+          210.0,
+          315.0
+        ],
+        "effective_ppi": [
+          123.9,
+          123.9
+        ],
+        "colorspace": "/DeviceRGB"
+      },
+      {
+        "page": 234,
+        "pixels": [
+          1536,
+          1024
+        ],
+        "placed_mm": [
+          210.0,
+          140.0
+        ],
+        "effective_ppi": [
+          185.8,
+          185.8
+        ],
+        "colorspace": "/DeviceRGB"
+      },
+      {
+        "page": 250,
+        "pixels": [
+          1190,
+          1683
+        ],
+        "placed_mm": [
+          210.0,
+          297.0
+        ],
+        "effective_ppi": [
+          143.9,
+          143.9
+        ],
+        "colorspace": "/DeviceRGB"
+      },
+      {
+        "page": 323,
+        "pixels": [
+          1190,
+          1683
+        ],
+        "placed_mm": [
+          210.0,
+          297.0
+        ],
+        "effective_ppi": [
+          143.9,
+          143.9
+        ],
+        "colorspace": "/DeviceRGB"
+      }
+    ],
+    "below300ppi": [
+      1,
+      10,
+      43,
+      83,
+      84,
+      165,
+      166,
+      181,
+      209,
+      222,
+      234,
+      250,
+      323
+    ],
+    "outputProfile": null,
+    "printApproval": false,
+    "pdfxCertified": false
+  },
+  {
+    "file": "EA-000_Empresa-Aumentada_A4_visual_impressao.pdf",
+    "pages": 323,
+    "figures": [
+      {
+        "id": "EA000-FIG-001",
+        "page": 87
+      },
+      {
+        "id": "EA000-FIG-002",
+        "page": 93
+      },
+      {
+        "id": "EA000-FIG-003",
+        "page": 100
+      },
+      {
+        "id": "EA000-FIG-004",
+        "page": 106
+      },
+      {
+        "id": "EA000-FIG-005",
+        "page": 114
+      },
+      {
+        "id": "EA000-FIG-006",
+        "page": 126
+      },
+      {
+        "id": "EA000-FIG-007",
+        "page": 133
+      },
+      {
+        "id": "EA000-FIG-008",
+        "page": 134
+      },
+      {
+        "id": "EA000-FIG-009",
+        "page": 135
+      },
+      {
+        "id": "EA000-FIG-010",
+        "page": 137
+      },
+      {
+        "id": "EA000-FIG-011",
+        "page": 139
+      },
+      {
+        "id": "EA000-FIG-012",
+        "page": 153
+      },
+      {
+        "id": "EA000-FIG-013",
+        "page": 154
+      },
+      {
+        "id": "EA000-FIG-014",
+        "page": 170
+      },
+      {
+        "id": "EA000-FIG-015",
+        "page": 184
+      },
+      {
+        "id": "EA000-FIG-016",
+        "page": 189
+      },
+      {
+        "id": "EA000-FIG-017",
+        "page": 201
+      },
+      {
+        "id": "EA000-FIG-018",
+        "page": 211
+      },
+      {
+        "id": "EA000-FIG-019",
+        "page": 224
+      },
+      {
+        "id": "EA000-FIG-020",
+        "page": 237
+      },
+      {
+        "id": "EA000-FIG-021",
+        "page": 244
+      },
+      {
+        "id": "EA000-FIG-022",
+        "page": 253
+      },
+      {
+        "id": "EA000-FIG-023",
+        "page": 256
+      },
+      {
+        "id": "EA000-FIG-024",
+        "page": 260
+      },
+      {
+        "id": "EA000-FIG-025",
+        "page": 281
+      },
+      {
+        "id": "EA000-FIG-026",
+        "page": 286
+      },
+      {
+        "id": "EA000-FIG-027",
+        "page": 289
+      },
+      {
+        "id": "EA000-FIG-028",
+        "page": 297
+      },
+      {
+        "id": "EA000-FIG-029",
+        "page": 303
+      }
+    ],
+    "figureCount": 29,
+    "bleedErrors": [],
+    "bleedMM": 3,
+    "images": [
+      {
+        "page": 1,
+        "pixels": [
+          1190,
+          1683
+        ],
+        "placed_mm": [
+          216.0,
+          305.49
+        ],
+        "effective_ppi": [
+          139.9,
+          139.9
+        ],
+        "colorspace": "/DeviceCMYK"
+      },
+      {
+        "page": 10,
+        "pixels": [
+          1536,
+          1024
+        ],
+        "placed_mm": [
+          285.17,
+          190.11
+        ],
+        "effective_ppi": [
+          136.8,
+          136.8
+        ],
+        "colorspace": "/DeviceCMYK"
+      },
+      {
+        "page": 43,
+        "pixels": [
+          1024,
+          1536
+        ],
+        "placed_mm": [
+          216.0,
+          324.0
+        ],
+        "effective_ppi": [
+          120.4,
+          120.4
+        ],
+        "colorspace": "/DeviceCMYK"
+      },
+      {
+        "page": 83,
+        "pixels": [
+          1024,
+          1536
+        ],
+        "placed_mm": [
+          216.0,
+          324.0
+        ],
+        "effective_ppi": [
+          120.4,
+          120.4
+        ],
+        "colorspace": "/DeviceCMYK"
+      },
+      {
+        "page": 84,
+        "pixels": [
+          1190,
+          1683
+        ],
+        "placed_mm": [
+          216.0,
+          305.49
+        ],
+        "effective_ppi": [
+          139.9,
+          139.9
+        ],
+        "colorspace": "/DeviceCMYK"
+      },
+      {
+        "page": 165,
+        "pixels": [
+          1536,
+          1024
+        ],
+        "placed_mm": [
+          285.17,
+          190.11
+        ],
+        "effective_ppi": [
+          136.8,
+          136.8
+        ],
+        "colorspace": "/DeviceCMYK"
+      },
+      {
+        "page": 166,
+        "pixels": [
+          1536,
+          1024
+        ],
+        "placed_mm": [
+          216.0,
+          144.0
+        ],
+        "effective_ppi": [
+          180.6,
+          180.6
+        ],
+        "colorspace": "/DeviceCMYK"
+      },
+      {
+        "page": 181,
+        "pixels": [
+          1536,
+          1024
+        ],
+        "placed_mm": [
+          216.0,
+          144.0
+        ],
+        "effective_ppi": [
+          180.6,
+          180.6
+        ],
+        "colorspace": "/DeviceCMYK"
+      },
+      {
+        "page": 209,
+        "pixels": [
+          1536,
+          1024
+        ],
+        "placed_mm": [
+          216.0,
+          144.0
+        ],
+        "effective_ppi": [
+          180.6,
+          180.6
+        ],
+        "colorspace": "/DeviceCMYK"
+      },
+      {
+        "page": 222,
+        "pixels": [
+          1024,
+          1536
+        ],
+        "placed_mm": [
+          216.0,
+          324.0
+        ],
+        "effective_ppi": [
+          120.4,
+          120.4
+        ],
+        "colorspace": "/DeviceCMYK"
+      },
+      {
+        "page": 234,
+        "pixels": [
+          1536,
+          1024
+        ],
+        "placed_mm": [
+          216.0,
+          144.0
+        ],
+        "effective_ppi": [
+          180.6,
+          180.6
+        ],
+        "colorspace": "/DeviceCMYK"
+      },
+      {
+        "page": 250,
+        "pixels": [
+          1190,
+          1683
+        ],
+        "placed_mm": [
+          216.0,
+          305.49
+        ],
+        "effective_ppi": [
+          139.9,
+          139.9
+        ],
+        "colorspace": "/DeviceCMYK"
+      },
+      {
+        "page": 323,
+        "pixels": [
+          1190,
+          1683
+        ],
+        "placed_mm": [
+          216.0,
+          305.49
+        ],
+        "effective_ppi": [
+          139.9,
+          139.9
+        ],
+        "colorspace": "/DeviceCMYK"
+      }
+    ],
+    "below300ppi": [
+      1,
+      10,
+      43,
+      83,
+      84,
+      165,
+      166,
+      181,
+      209,
+      222,
+      234,
+      250,
+      323
+    ],
+    "outputProfile": {
+      "identifier": "FOGRA29",
+      "components": 4,
+      "sha256": "9af0eb039208b0ae700d3fccd64a657b174db5c617c09ee79ced7cfcb7d4c392"
+    },
+    "printApproval": false,
+    "pdfxCertified": false
+  },
+  {
+    "file": "EA-000_Empresa-Aumentada_A5_visual_digital.pdf",
+    "pages": 435,
+    "figures": [
+      {
+        "id": "EA000-FIG-001",
+        "page": 119
+      },
+      {
+        "id": "EA000-FIG-002",
+        "page": 128
+      },
+      {
+        "id": "EA000-FIG-003",
+        "page": 137
+      },
+      {
+        "id": "EA000-FIG-004",
+        "page": 146
+      },
+      {
+        "id": "EA000-FIG-005",
+        "page": 155
+      },
+      {
+        "id": "EA000-FIG-006",
+        "page": 171
+      },
+      {
+        "id": "EA000-FIG-007",
+        "page": 180
+      },
+      {
+        "id": "EA000-FIG-008",
+        "page": 181
+      },
+      {
+        "id": "EA000-FIG-009",
+        "page": 182
+      },
+      {
+        "id": "EA000-FIG-010",
+        "page": 185
+      },
+      {
+        "id": "EA000-FIG-011",
+        "page": 188
+      },
+      {
+        "id": "EA000-FIG-012",
+        "page": 207
+      },
+      {
+        "id": "EA000-FIG-013",
+        "page": 209
+      },
+      {
+        "id": "EA000-FIG-014",
+        "page": 232
+      },
+      {
+        "id": "EA000-FIG-015",
+        "page": 249
+      },
+      {
+        "id": "EA000-FIG-016",
+        "page": 255
+      },
+      {
+        "id": "EA000-FIG-017",
+        "page": 272
+      },
+      {
+        "id": "EA000-FIG-018",
+        "page": 285
+      },
+      {
+        "id": "EA000-FIG-019",
+        "page": 302
+      },
+      {
+        "id": "EA000-FIG-020",
+        "page": 319
+      },
+      {
+        "id": "EA000-FIG-021",
+        "page": 329
+      },
+      {
+        "id": "EA000-FIG-022",
+        "page": 339
+      },
+      {
+        "id": "EA000-FIG-023",
+        "page": 344
+      },
+      {
+        "id": "EA000-FIG-024",
+        "page": 349
+      },
+      {
+        "id": "EA000-FIG-025",
+        "page": 379
+      },
+      {
+        "id": "EA000-FIG-026",
+        "page": 385
+      },
+      {
+        "id": "EA000-FIG-027",
+        "page": 389
+      },
+      {
+        "id": "EA000-FIG-028",
+        "page": 400
+      },
+      {
+        "id": "EA000-FIG-029",
+        "page": 408
+      }
+    ],
+    "figureCount": 29,
+    "bleedErrors": [],
+    "bleedMM": 0,
+    "images": [
+      {
+        "page": 1,
+        "pixels": [
+          1190,
+          1683
+        ],
+        "placed_mm": [
+          148.48,
+          210.0
+        ],
+        "effective_ppi": [
+          203.6,
+          203.6
+        ],
+        "colorspace": "/DeviceRGB"
+      },
+      {
+        "page": 12,
+        "pixels": [
+          1536,
+          1024
+        ],
+        "placed_mm": [
+          198.45,
+          132.3
+        ],
+        "effective_ppi": [
+          196.6,
+          196.6
+        ],
+        "colorspace": "/DeviceRGB"
+      },
+      {
+        "page": 60,
+        "pixels": [
+          1024,
+          1536
+        ],
+        "placed_mm": [
+          148.0,
+          222.0
+        ],
+        "effective_ppi": [
+          175.7,
+          175.7
+        ],
+        "colorspace": "/DeviceRGB"
+      },
+      {
+        "page": 115,
+        "pixels": [
+          1024,
+          1536
+        ],
+        "placed_mm": [
+          148.0,
+          222.0
+        ],
+        "effective_ppi": [
+          175.7,
+          175.7
+        ],
+        "colorspace": "/DeviceRGB"
+      },
+      {
+        "page": 116,
+        "pixels": [
+          1190,
+          1683
+        ],
+        "placed_mm": [
+          148.0,
+          209.31
+        ],
+        "effective_ppi": [
+          204.2,
+          204.2
+        ],
+        "colorspace": "/DeviceRGB"
+      },
+      {
+        "page": 225,
+        "pixels": [
+          1536,
+          1024
+        ],
+        "placed_mm": [
+          198.45,
+          132.3
+        ],
+        "effective_ppi": [
+          196.6,
+          196.6
+        ],
+        "colorspace": "/DeviceRGB"
+      },
+      {
+        "page": 226,
+        "pixels": [
+          1536,
+          1024
+        ],
+        "placed_mm": [
+          148.0,
+          98.67
+        ],
+        "effective_ppi": [
+          263.6,
+          263.6
+        ],
+        "colorspace": "/DeviceRGB"
+      },
+      {
+        "page": 246,
+        "pixels": [
+          1536,
+          1024
+        ],
+        "placed_mm": [
+          148.0,
+          98.67
+        ],
+        "effective_ppi": [
+          263.6,
+          263.6
+        ],
+        "colorspace": "/DeviceRGB"
+      },
+      {
+        "page": 282,
+        "pixels": [
+          1536,
+          1024
+        ],
+        "placed_mm": [
+          148.0,
+          98.67
+        ],
+        "effective_ppi": [
+          263.6,
+          263.6
+        ],
+        "colorspace": "/DeviceRGB"
+      },
+      {
+        "page": 299,
+        "pixels": [
+          1024,
+          1536
+        ],
+        "placed_mm": [
+          148.0,
+          222.0
+        ],
+        "effective_ppi": [
+          175.7,
+          175.7
+        ],
+        "colorspace": "/DeviceRGB"
+      },
+      {
+        "page": 315,
+        "pixels": [
+          1536,
+          1024
+        ],
+        "placed_mm": [
+          148.0,
+          98.67
+        ],
+        "effective_ppi": [
+          263.6,
+          263.6
+        ],
+        "colorspace": "/DeviceRGB"
+      },
+      {
+        "page": 336,
+        "pixels": [
+          1190,
+          1683
+        ],
+        "placed_mm": [
+          148.0,
+          209.31
+        ],
+        "effective_ppi": [
+          204.2,
+          204.2
+        ],
+        "colorspace": "/DeviceRGB"
+      },
+      {
+        "page": 435,
+        "pixels": [
+          1190,
+          1683
+        ],
+        "placed_mm": [
+          148.48,
+          210.0
+        ],
+        "effective_ppi": [
+          203.6,
+          203.6
+        ],
+        "colorspace": "/DeviceRGB"
+      }
+    ],
+    "below300ppi": [
+      1,
+      12,
+      60,
+      115,
+      116,
+      225,
+      226,
+      246,
+      282,
+      299,
+      315,
+      336,
+      435
+    ],
+    "outputProfile": null,
+    "printApproval": false,
+    "pdfxCertified": false
+  },
+  {
+    "file": "EA-000_Empresa-Aumentada_A5_visual_impressao.pdf",
+    "pages": 435,
+    "figures": [
+      {
+        "id": "EA000-FIG-001",
+        "page": 119
+      },
+      {
+        "id": "EA000-FIG-002",
+        "page": 128
+      },
+      {
+        "id": "EA000-FIG-003",
+        "page": 137
+      },
+      {
+        "id": "EA000-FIG-004",
+        "page": 146
+      },
+      {
+        "id": "EA000-FIG-005",
+        "page": 155
+      },
+      {
+        "id": "EA000-FIG-006",
+        "page": 171
+      },
+      {
+        "id": "EA000-FIG-007",
+        "page": 180
+      },
+      {
+        "id": "EA000-FIG-008",
+        "page": 181
+      },
+      {
+        "id": "EA000-FIG-009",
+        "page": 182
+      },
+      {
+        "id": "EA000-FIG-010",
+        "page": 185
+      },
+      {
+        "id": "EA000-FIG-011",
+        "page": 188
+      },
+      {
+        "id": "EA000-FIG-012",
+        "page": 207
+      },
+      {
+        "id": "EA000-FIG-013",
+        "page": 209
+      },
+      {
+        "id": "EA000-FIG-014",
+        "page": 232
+      },
+      {
+        "id": "EA000-FIG-015",
+        "page": 249
+      },
+      {
+        "id": "EA000-FIG-016",
+        "page": 255
+      },
+      {
+        "id": "EA000-FIG-017",
+        "page": 272
+      },
+      {
+        "id": "EA000-FIG-018",
+        "page": 285
+      },
+      {
+        "id": "EA000-FIG-019",
+        "page": 302
+      },
+      {
+        "id": "EA000-FIG-020",
+        "page": 319
+      },
+      {
+        "id": "EA000-FIG-021",
+        "page": 329
+      },
+      {
+        "id": "EA000-FIG-022",
+        "page": 339
+      },
+      {
+        "id": "EA000-FIG-023",
+        "page": 344
+      },
+      {
+        "id": "EA000-FIG-024",
+        "page": 349
+      },
+      {
+        "id": "EA000-FIG-025",
+        "page": 379
+      },
+      {
+        "id": "EA000-FIG-026",
+        "page": 385
+      },
+      {
+        "id": "EA000-FIG-027",
+        "page": 389
+      },
+      {
+        "id": "EA000-FIG-028",
+        "page": 400
+      },
+      {
+        "id": "EA000-FIG-029",
+        "page": 408
+      }
+    ],
+    "figureCount": 29,
+    "bleedErrors": [],
+    "bleedMM": 3,
+    "images": [
+      {
+        "page": 1,
+        "pixels": [
+          1190,
+          1683
+        ],
+        "placed_mm": [
+          154.0,
+          217.8
+        ],
+        "effective_ppi": [
+          196.3,
+          196.3
+        ],
+        "colorspace": "/DeviceCMYK"
+      },
+      {
+        "page": 12,
+        "pixels": [
+          1536,
+          1024
+        ],
+        "placed_mm": [
+          202.95,
+          135.3
+        ],
+        "effective_ppi": [
+          192.2,
+          192.2
+        ],
+        "colorspace": "/DeviceCMYK"
+      },
+      {
+        "page": 60,
+        "pixels": [
+          1024,
+          1536
+        ],
+        "placed_mm": [
+          154.0,
+          231.0
+        ],
+        "effective_ppi": [
+          168.9,
+          168.9
+        ],
+        "colorspace": "/DeviceCMYK"
+      },
+      {
+        "page": 115,
+        "pixels": [
+          1024,
+          1536
+        ],
+        "placed_mm": [
+          154.0,
+          231.0
+        ],
+        "effective_ppi": [
+          168.9,
+          168.9
+        ],
+        "colorspace": "/DeviceCMYK"
+      },
+      {
+        "page": 116,
+        "pixels": [
+          1190,
+          1683
+        ],
+        "placed_mm": [
+          154.0,
+          217.8
+        ],
+        "effective_ppi": [
+          196.3,
+          196.3
+        ],
+        "colorspace": "/DeviceCMYK"
+      },
+      {
+        "page": 225,
+        "pixels": [
+          1536,
+          1024
+        ],
+        "placed_mm": [
+          202.95,
+          135.3
+        ],
+        "effective_ppi": [
+          192.2,
+          192.2
+        ],
+        "colorspace": "/DeviceCMYK"
+      },
+      {
+        "page": 226,
+        "pixels": [
+          1536,
+          1024
+        ],
+        "placed_mm": [
+          154.0,
+          102.67
+        ],
+        "effective_ppi": [
+          253.3,
+          253.3
+        ],
+        "colorspace": "/DeviceCMYK"
+      },
+      {
+        "page": 246,
+        "pixels": [
+          1536,
+          1024
+        ],
+        "placed_mm": [
+          154.0,
+          102.67
+        ],
+        "effective_ppi": [
+          253.3,
+          253.3
+        ],
+        "colorspace": "/DeviceCMYK"
+      },
+      {
+        "page": 282,
+        "pixels": [
+          1536,
+          1024
+        ],
+        "placed_mm": [
+          154.0,
+          102.67
+        ],
+        "effective_ppi": [
+          253.3,
+          253.3
+        ],
+        "colorspace": "/DeviceCMYK"
+      },
+      {
+        "page": 299,
+        "pixels": [
+          1024,
+          1536
+        ],
+        "placed_mm": [
+          154.0,
+          231.0
+        ],
+        "effective_ppi": [
+          168.9,
+          168.9
+        ],
+        "colorspace": "/DeviceCMYK"
+      },
+      {
+        "page": 315,
+        "pixels": [
+          1536,
+          1024
+        ],
+        "placed_mm": [
+          154.0,
+          102.67
+        ],
+        "effective_ppi": [
+          253.3,
+          253.3
+        ],
+        "colorspace": "/DeviceCMYK"
+      },
+      {
+        "page": 336,
+        "pixels": [
+          1190,
+          1683
+        ],
+        "placed_mm": [
+          154.0,
+          217.8
+        ],
+        "effective_ppi": [
+          196.3,
+          196.3
+        ],
+        "colorspace": "/DeviceCMYK"
+      },
+      {
+        "page": 435,
+        "pixels": [
+          1190,
+          1683
+        ],
+        "placed_mm": [
+          154.0,
+          217.8
+        ],
+        "effective_ppi": [
+          196.3,
+          196.3
+        ],
+        "colorspace": "/DeviceCMYK"
+      }
+    ],
+    "below300ppi": [
+      1,
+      12,
+      60,
+      115,
+      116,
+      225,
+      226,
+      246,
+      282,
+      299,
+      315,
+      336,
+      435
+    ],
+    "outputProfile": {
+      "identifier": "FOGRA29",
+      "components": 4,
+      "sha256": "9af0eb039208b0ae700d3fccd64a657b174db5c617c09ee79ced7cfcb7d4c392"
+    },
+    "printApproval": false,
+    "pdfxCertified": false
+  }
+]

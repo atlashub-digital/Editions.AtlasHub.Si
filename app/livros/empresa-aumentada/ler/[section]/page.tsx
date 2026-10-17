@@ -1,7 +1,8 @@
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import type { Metadata } from 'next';
-import { bookSections, getSection, readerBase, sectionUrl } from '@/lib/book';
+import { bookSections, getSection, readerBase, sectionUrl, sectionHeadings } from '@/lib/book';
+import { VisualOpening } from '@/components/atlas/visual-opening';
 import { Manuscript } from '@/components/atlas/manuscript';
 import { ReadingControls } from '@/components/atlas/reading-controls';
 
@@ -18,9 +19,10 @@ export default async function ChapterPage({params}:Props){
   return <div className="reader-light min-h-screen bg-[#F7F8FA] text-[#14202E]">
     <header className="reader-masthead"><Link href={readerBase}>← Índice</Link><span>Empresa Aumentada</span><ReadingControls slug={s.slug}/></header>
     <main id="conteudo" className="reading-shell">
-      <p className="reading-eyebrow">{s.part || 'EA–001 · Sérgio Monteiro'}</p>
+      {s.number ? <VisualOpening slug={s.slug}/> : <><p className="reading-eyebrow">{s.part || 'EA-000 · Sérgio Monteiro'}</p>
       {s.number && <p className="mt-4 text-sm text-[#5A6B7E]">Capítulo {s.number} / 21</p>}
-      <h1 className="reading-title">{s.title}</h1>
+      <h1 className="reading-title">{s.title}</h1></>}
+      <details className="chapter-navigation"><summary>Neste capítulo</summary><nav aria-label="Seções deste capítulo">{sectionHeadings(s.markdown).map(h=><a key={h.id} href={"#"+h.id}>{h.title}</a>)}</nav></details>
       <Manuscript>{s.markdown}</Manuscript>
       <nav className="reading-pagination" aria-label="Entre capítulos">
         {prev?<Link href={sectionUrl(prev.slug)}>← {prev.title}</Link>:<span/>}

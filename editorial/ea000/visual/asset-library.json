@@ -1,0 +1,2523 @@
+{
+  "publication": "EA-000",
+  "status": "visual-integration-for-final-editorial-homologation",
+  "master_sha256": "b53ddc0beab6534530ebdd272e2f1a760a1ae7aacc482e9113d12ff394aedb3a",
+  "parts": [
+    {
+      "id": "EA000-PART-01",
+      "number": 1,
+      "title": "PARTE I — COMO CHEGAMOS AQUI",
+      "art": "/ea000/images/conhecimento.jpg",
+      "accent": "#b69966",
+      "alt": "Abertura da PARTE I — COMO CHEGAMOS AQUI. Arquitetura e atividade organizacional como metáfora visual."
+    },
+    {
+      "id": "EA000-PART-02",
+      "number": 2,
+      "title": "PARTE II — ESTAMOS A USAR IA DA FORMA ERRADA?",
+      "art": "/ea000/images/boardroom.jpg",
+      "accent": "#58cce5",
+      "alt": "Abertura da PARTE II — ESTAMOS A USAR IA DA FORMA ERRADA?. Arquitetura e atividade organizacional como metáfora visual."
+    },
+    {
+      "id": "EA000-PART-03",
+      "number": 3,
+      "title": "PARTE III — A EMPRESA AUMENTADA",
+      "art": "/ea000/images/organizacao.jpg",
+      "accent": "#77b9bc",
+      "alt": "Abertura da PARTE III — A EMPRESA AUMENTADA. Arquitetura e atividade organizacional como metáfora visual."
+    },
+    {
+      "id": "EA000-PART-04",
+      "number": 4,
+      "title": "PARTE IV — A EMPRESA EM FUNCIONAMENTO",
+      "art": "/ea000/images/logistica.jpg",
+      "accent": "#b99668",
+      "alt": "Abertura da PARTE IV — A EMPRESA EM FUNCIONAMENTO. Arquitetura e atividade organizacional como metáfora visual."
+    },
+    {
+      "id": "EA000-PART-05",
+      "number": 5,
+      "title": "PARTE V — A EQUAÇÃO DA EMPRESA AUMENTADA",
+      "art": "/ea000/images/skyline-approved.jpg",
+      "accent": "#58cce5",
+      "alt": "Abertura da PARTE V — A EQUAÇÃO DA EMPRESA AUMENTADA. Arquitetura e atividade organizacional como metáfora visual."
+    }
+  ],
+  "chapters": {
+    "capitulo-01": {
+      "id": "EA000-CH-01",
+      "number": "01",
+      "title": "Setenta anos a ensinar máquinas",
+      "part": "PARTE I — COMO CHEGAMOS AQUI",
+      "quote": "Cada geração de tecnologia inteligente reduziu uma parte da distância entre informação e ação.",
+      "art": "/ea000/art/chapter-01.svg",
+      "treatment": "conceptual-vector",
+      "alt": "Ilustração de abertura — Setenta anos a ensinar máquinas."
+    },
+    "capitulo-02": {
+      "id": "EA000-CH-02",
+      "number": "02",
+      "title": "A máquina deixou de apenas responder",
+      "part": "PARTE I — COMO CHEGAMOS AQUI",
+      "quote": "A verdadeira mudança começa quando a inteligência deixa de terminar numa resposta.",
+      "art": "/ea000/art/chapter-02.svg",
+      "treatment": "conceptual-vector",
+      "alt": "Ilustração de abertura — A máquina deixou de apenas responder."
+    },
+    "capitulo-03": {
+      "id": "EA000-CH-03",
+      "number": "03",
+      "title": "AI, SI e o problema da palavra Artificial",
+      "part": "PARTE I — COMO CHEGAMOS AQUI",
+      "quote": "Quando uma tecnologia muda depressa, as palavras começam a envelhecer antes das máquinas.",
+      "art": "/ea000/art/chapter-03.svg",
+      "treatment": "conceptual-vector",
+      "alt": "Ilustração de abertura — AI, SI e o problema da palavra Artificial."
+    },
+    "capitulo-04": {
+      "id": "EA000-CH-04",
+      "number": "04",
+      "title": "O paradoxo do prompt",
+      "part": "PARTE II — ESTAMOS A USAR IA DA FORMA ERRADA?",
+      "quote": "Uma interface inteligente pode melhorar radicalmente a produtividade de uma pessoa e, ainda assim, deixar praticamente intacta a forma como a empresa funciona.",
+      "art": "/ea000/art/chapter-04.svg",
+      "treatment": "conceptual-vector",
+      "alt": "Ilustração de abertura — O paradoxo do prompt."
+    },
+    "capitulo-05": {
+      "id": "EA000-CH-05",
+      "number": "05",
+      "title": "A criança extremamente inteligente",
+      "part": "PARTE II — ESTAMOS A USAR IA DA FORMA ERRADA?",
+      "quote": "Sistemas cada vez mais capazes estão a ser introduzidos em organizações que ainda não aprenderam a delegar capacidade computacional.",
+      "art": "/ea000/art/chapter-05.svg",
+      "treatment": "conceptual-vector",
+      "alt": "Ilustração de abertura — A criança extremamente inteligente."
+    },
+    "capitulo-06": {
+      "id": "EA000-CH-06",
+      "number": "06",
+      "title": "O empresário não deveria gerir tarefas",
+      "part": "PARTE II — ESTAMOS A USAR IA DA FORMA ERRADA?",
+      "quote": "A função da direção não é garantir que cada tarefa acontece. É construir uma organização em que as tarefas certas acontecem porque objetivos, responsabilidades, recursos, limites e informação estão bem desenhados.",
+      "art": "/ea000/art/chapter-06.svg",
+      "treatment": "conceptual-vector",
+      "alt": "Ilustração de abertura — O empresário não deveria gerir tarefas."
+    },
+    "capitulo-07": {
+      "id": "EA000-CH-07",
+      "number": "07",
+      "title": "O que é uma Empresa Aumentada?",
+      "part": "PARTE III — A EMPRESA AUMENTADA",
+      "quote": "Uma Empresa Aumentada é uma organização em que pessoas, agentes inteligentes, tecnologia e processos operam dentro de uma arquitetura comum, orientados por objetivos, responsabilidades, permissões, dados, métricas e mecanismos de governança definidos.",
+      "art": "/ea000/images/skyline-approved.jpg",
+      "treatment": "photographic",
+      "alt": "Ilustração de abertura — O que é uma Empresa Aumentada?."
+    },
+    "capitulo-08": {
+      "id": "EA000-CH-08",
+      "number": "08",
+      "title": "Humanos definem o horizonte",
+      "part": "PARTE III — A EMPRESA AUMENTADA",
+      "quote": "A Empresa Aumentada não elimina o humano da operação. Reposiciona-o onde julgamento, responsabilidade, confiança, direção e significado criam mais valor.",
+      "art": "/ea000/art/chapter-08.svg",
+      "treatment": "conceptual-vector",
+      "alt": "Ilustração de abertura — Humanos definem o horizonte."
+    },
+    "capitulo-09": {
+      "id": "EA000-CH-09",
+      "number": "09",
+      "title": "Anatomia de um agente",
+      "part": "PARTE III — A EMPRESA AUMENTADA",
+      "quote": "Um agente empresarial não é “uma IA com acesso a ferramentas”. É uma função computacional desenhada com missão, contexto, memória, autoridade, métricas, escalamento e responsabilidade operacional.",
+      "art": "/ea000/art/chapter-09.svg",
+      "treatment": "conceptual-vector",
+      "alt": "Ilustração de abertura — Anatomia de um agente."
+    },
+    "capitulo-10": {
+      "id": "EA000-CH-10",
+      "number": "10",
+      "title": "O organograma vai mudar",
+      "part": "PARTE III — A EMPRESA AUMENTADA",
+      "quote": "O organograma tradicional mostra quem responde a quem. A Empresa Aumentada precisa também mostrar quem observa, quem decide, quem executa, que sistema fornece contexto e quando uma exceção muda de nível.",
+      "art": "/ea000/art/chapter-10.svg",
+      "treatment": "conceptual-vector",
+      "alt": "Ilustração de abertura — O organograma vai mudar."
+    },
+    "capitulo-11": {
+      "id": "EA000-CH-11",
+      "number": "11",
+      "title": "Agentes que coordenam agentes",
+      "part": "PARTE III — A EMPRESA AUMENTADA",
+      "quote": "A partir do momento em que uma empresa possui vários agentes especializados, o problema deixa de ser apenas inteligência. Passa a ser organização.",
+      "art": "/ea000/art/chapter-11.svg",
+      "treatment": "conceptual-vector",
+      "alt": "Ilustração de abertura — Agentes que coordenam agentes."
+    },
+    "capitulo-12": {
+      "id": "EA000-CH-12",
+      "number": "12",
+      "title": "O supermercado da pequena cidade",
+      "part": "PARTE IV — A EMPRESA EM FUNCIONAMENTO",
+      "quote": "A Empresa Aumentada não começa num laboratório, num centro de inovação ou numa multinacional. Pode começar num supermercado de bairro, às seis e meia da manhã, quando alguém percebe que faltam tomates, o pão ainda não chegou e o grupo de WhatsApp já tem pedidos.",
+      "art": "/ea000/images/comercio.jpg",
+      "treatment": "photographic",
+      "alt": "Ilustração de abertura — O supermercado da pequena cidade."
+    },
+    "capitulo-13": {
+      "id": "EA000-CH-13",
+      "number": "13",
+      "title": "As dez farmácias",
+      "part": "PARTE IV — A EMPRESA EM FUNCIONAMENTO",
+      "quote": "Uma rede de dez lojas não precisa de dez vezes mais microgestão. Precisa de uma arquitetura capaz de distinguir rotina, exceção, decisão comercial e responsabilidade profissional.",
+      "art": "/ea000/images/farmacia.jpg",
+      "treatment": "photographic",
+      "alt": "Ilustração de abertura — As dez farmácias."
+    },
+    "capitulo-14": {
+      "id": "EA000-CH-14",
+      "number": "14",
+      "title": "O Chile começou a comprar",
+      "part": "PARTE IV — A EMPRESA EM FUNCIONAMENTO",
+      "quote": "A vantagem competitiva não está apenas em perceber uma oportunidade. Está na distância entre perceber, compreender, decidir e agir.",
+      "art": "/ea000/art/chapter-14.svg",
+      "treatment": "conceptual-vector",
+      "alt": "Ilustração de abertura — O Chile começou a comprar."
+    },
+    "capitulo-15": {
+      "id": "EA000-CH-15",
+      "number": "15",
+      "title": "A clínica que recuperou tempo",
+      "part": "PARTE IV — A EMPRESA EM FUNCIONAMENTO",
+      "quote": "Quando a recepção passa o dia a responder às mesmas perguntas, confirmar horários, procurar informações e remarcar agendas, o problema não é falta de esforço. É desenho de operação.",
+      "art": "/ea000/images/clinica.jpg",
+      "treatment": "photographic",
+      "alt": "Ilustração de abertura — A clínica que recuperou tempo."
+    },
+    "capitulo-16": {
+      "id": "EA000-CH-16",
+      "number": "16",
+      "title": "Da mensagem à oportunidade",
+      "part": "PARTE IV — A EMPRESA EM FUNCIONAMENTO",
+      "quote": "Num negócio baseado em confiança e relacionamento, a tecnologia cria mais valor quando retira trabalho administrativo da equipe comercial — não quando tenta transformar relacionamento em automação.",
+      "art": "/ea000/images/boardroom.jpg",
+      "treatment": "photographic",
+      "alt": "Ilustração de abertura — Da mensagem à oportunidade."
+    },
+    "capitulo-17": {
+      "id": "EA000-CH-17",
+      "number": "17",
+      "title": "Quando um fornecedor atrasa",
+      "part": "PARTE IV — A EMPRESA EM FUNCIONAMENTO",
+      "quote": "Numa cadeia industrial, o problema raramente é o atraso isolado. O problema é descobrir tarde demais o que esse atraso realmente vai afetar.",
+      "art": "/ea000/images/logistica.jpg",
+      "treatment": "photographic",
+      "alt": "Ilustração de abertura — Quando um fornecedor atrasa."
+    },
+    "capitulo-18": {
+      "id": "EA000-CH-18",
+      "number": "18",
+      "title": "Tecnologia não é o objetivo",
+      "part": "PARTE V — A EQUAÇÃO DA EMPRESA AUMENTADA",
+      "quote": "Uma tecnologia só merece espaço na organização quando conseguimos explicar que variável econômica ou operacional ela altera — e como saberemos se essa alteração aconteceu.",
+      "art": "/ea000/art/chapter-18.svg",
+      "treatment": "conceptual-vector",
+      "alt": "Ilustração de abertura — Tecnologia não é o objetivo."
+    },
+    "capitulo-19": {
+      "id": "EA000-CH-19",
+      "number": "19",
+      "title": "O ROI da inteligência",
+      "part": "PARTE V — A EQUAÇÃO DA EMPRESA AUMENTADA",
+      "quote": "O ROI de uma iniciativa de IA não é o valor do modelo. É o valor líquido da mudança operacional que o modelo tornou possível.",
+      "art": "/ea000/art/chapter-19.svg",
+      "treatment": "conceptual-vector",
+      "alt": "Ilustração de abertura — O ROI da inteligência."
+    },
+    "capitulo-20": {
+      "id": "EA000-CH-20",
+      "number": "20",
+      "title": "Nem tudo o que pode ser automatizado deve ser automatizado",
+      "part": "PARTE V — A EQUAÇÃO DA EMPRESA AUMENTADA",
+      "quote": "A maturidade de uma organização não se mede pela quantidade de decisões que consegue retirar das pessoas. Mede-se pela qualidade com que escolhe onde automatizar, onde aumentar e onde preservar julgamento humano.",
+      "art": "/ea000/art/chapter-20.svg",
+      "treatment": "conceptual-vector",
+      "alt": "Ilustração de abertura — Nem tudo o que pode ser automatizado deve ser automatizado."
+    },
+    "capitulo-21": {
+      "id": "EA000-CH-21",
+      "number": "21",
+      "title": "Por onde começar amanhã",
+      "part": "PARTE V — A EQUAÇÃO DA EMPRESA AUMENTADA",
+      "quote": "A Empresa Aumentada não começa com uma transformação total. Começa quando uma organização escolhe um problema real, mede o estado atual, desenha uma capacidade melhor e aprende com a primeira execução.",
+      "art": "/ea000/art/chapter-21.svg",
+      "treatment": "conceptual-vector",
+      "alt": "Ilustração de abertura — Por onde começar amanhã."
+    }
+  },
+  "assets": [
+    {
+      "id": "EA000-IMG-001",
+      "kind": "photographic-conceptual-illustration",
+      "file": "/ea000/images/skyline-approved.jpg",
+      "print_file": "/ea000/images/skyline-approved-cmyk.jpg",
+      "description": "Skyline urbano conectado em azul-marinho e ciano.",
+      "alt": "Skyline urbano conectado em azul-marinho e ciano. Ilustração conceptual; não documenta uma empresa real identificada.",
+      "origin": "User-approved integration proof; extracted original embedded background, no text",
+      "rights": "Recurso fornecido/aprovado ou gerado para o projeto; não se afirma licença de stock de terceiros. Homologação final de publicação pendente.",
+      "pixels": [
+        1190,
+        1683
+      ],
+      "color_digital": "sRGB",
+      "color_print": "Uncoated FOGRA29 (ISO 12647-2:2004)",
+      "native_A4_full_width_dpi": 143.9,
+      "sha256": "7349bd15b057e2bd81d3259f21aa340b6d748a6139dbdd46e33e52e9c057bcd0",
+      "destinations": [
+        "capitulo-07",
+        "PARTE V — A EQUAÇÃO DA EMPRESA AUMENTADA"
+      ],
+      "locations": {
+        "A4": [
+          84,
+          250
+        ],
+        "A5": [
+          116,
+          336
+        ]
+      }
+    },
+    {
+      "id": "EA000-IMG-002",
+      "kind": "photographic-conceptual-illustration",
+      "file": "/ea000/images/boardroom.jpg",
+      "print_file": "/ea000/images/boardroom-cmyk.jpg",
+      "description": "Ambiente empresarial com pessoas em colaboração e skyline.",
+      "alt": "Ambiente empresarial com pessoas em colaboração e skyline. Ilustração conceptual; não documenta uma empresa real identificada.",
+      "origin": "OpenAI ImageGen for EA-000 prior visual proof",
+      "rights": "Recurso fornecido/aprovado ou gerado para o projeto; não se afirma licença de stock de terceiros. Homologação final de publicação pendente.",
+      "pixels": [
+        1024,
+        1536
+      ],
+      "color_digital": "sRGB",
+      "color_print": "Uncoated FOGRA29 (ISO 12647-2:2004)",
+      "native_A4_full_width_dpi": 123.9,
+      "sha256": "20fbb9e7f080326114be3b8f2b4e3ac1584fe22146e30a24b9c3a5392f04a1cb",
+      "destinations": [
+        "capitulo-16",
+        "PARTE II — ESTAMOS A USAR IA DA FORMA ERRADA?"
+      ],
+      "locations": {
+        "A4": [
+          43,
+          222
+        ],
+        "A5": [
+          60,
+          299
+        ]
+      }
+    },
+    {
+      "id": "EA000-IMG-003",
+      "kind": "photographic-conceptual-illustration",
+      "file": "/ea000/images/organizacao.jpg",
+      "print_file": "/ea000/images/organizacao-cmyk.jpg",
+      "description": "Arquitetura organizacional com equipas em diferentes pisos.",
+      "alt": "Arquitetura organizacional com equipas em diferentes pisos. Ilustração conceptual; não documenta uma empresa real identificada.",
+      "origin": "OpenAI ImageGen for EA-000 prior visual proof",
+      "rights": "Recurso fornecido/aprovado ou gerado para o projeto; não se afirma licença de stock de terceiros. Homologação final de publicação pendente.",
+      "pixels": [
+        1024,
+        1536
+      ],
+      "color_digital": "sRGB",
+      "color_print": "Uncoated FOGRA29 (ISO 12647-2:2004)",
+      "native_A4_full_width_dpi": 123.9,
+      "sha256": "a08fafa963e1c79dbbfd6782eb06bc2d4feaa4dfdf9c4cc5ef0cf588d3cea057",
+      "destinations": [
+        "PARTE III — A EMPRESA AUMENTADA"
+      ],
+      "locations": {
+        "A4": [
+          83
+        ],
+        "A5": [
+          115
+        ]
+      }
+    },
+    {
+      "id": "EA000-IMG-004",
+      "kind": "photographic-conceptual-illustration",
+      "file": "/ea000/images/comercio.jpg",
+      "print_file": "/ea000/images/comercio-cmyk.jpg",
+      "description": "Supermercado de bairro, cenário conceptual.",
+      "alt": "Supermercado de bairro, cenário conceptual. Ilustração conceptual; não documenta uma empresa real identificada.",
+      "origin": "OpenAI ImageGen for EA-000 prior visual proof",
+      "rights": "Recurso fornecido/aprovado ou gerado para o projeto; não se afirma licença de stock de terceiros. Homologação final de publicação pendente.",
+      "pixels": [
+        1536,
+        1024
+      ],
+      "color_digital": "sRGB",
+      "color_print": "Uncoated FOGRA29 (ISO 12647-2:2004)",
+      "native_A4_full_width_dpi": 185.8,
+      "sha256": "95d62e19ab0c9fdbdf2a48b1121d301f2928b747daaa5254712ac060c4c743db",
+      "destinations": [
+        "capitulo-12"
+      ],
+      "locations": {
+        "A4": [
+          166
+        ],
+        "A5": [
+          226
+        ]
+      }
+    },
+    {
+      "id": "EA000-IMG-005",
+      "kind": "photographic-conceptual-illustration",
+      "file": "/ea000/images/logistica.jpg",
+      "print_file": "/ea000/images/logistica-cmyk.jpg",
+      "description": "Armazém e coordenação logística, cenário conceptual.",
+      "alt": "Armazém e coordenação logística, cenário conceptual. Ilustração conceptual; não documenta uma empresa real identificada.",
+      "origin": "OpenAI ImageGen for EA-000, 2026-10-17",
+      "rights": "Recurso fornecido/aprovado ou gerado para o projeto; não se afirma licença de stock de terceiros. Homologação final de publicação pendente.",
+      "pixels": [
+        1536,
+        1024
+      ],
+      "color_digital": "sRGB",
+      "color_print": "Uncoated FOGRA29 (ISO 12647-2:2004)",
+      "native_A4_full_width_dpi": 185.8,
+      "sha256": "709c3e21a600bb488f0031e60d135dafd42c67491de065acafcd212bde61e34a",
+      "destinations": [
+        "capitulo-17",
+        "PARTE IV — A EMPRESA EM FUNCIONAMENTO"
+      ],
+      "locations": {
+        "A4": [
+          165,
+          234
+        ],
+        "A5": [
+          225,
+          315
+        ]
+      }
+    },
+    {
+      "id": "EA000-IMG-006",
+      "kind": "photographic-conceptual-illustration",
+      "file": "/ea000/images/farmacia.jpg",
+      "print_file": "/ea000/images/farmacia-cmyk.jpg",
+      "description": "Farmácia de bairro, cenário conceptual.",
+      "alt": "Farmácia de bairro, cenário conceptual. Ilustração conceptual; não documenta uma empresa real identificada.",
+      "origin": "OpenAI ImageGen for EA-000, 2026-10-17",
+      "rights": "Recurso fornecido/aprovado ou gerado para o projeto; não se afirma licença de stock de terceiros. Homologação final de publicação pendente.",
+      "pixels": [
+        1536,
+        1024
+      ],
+      "color_digital": "sRGB",
+      "color_print": "Uncoated FOGRA29 (ISO 12647-2:2004)",
+      "native_A4_full_width_dpi": 185.8,
+      "sha256": "73a770fac39566d1d346429a8cc93af05d39d15d38368cda7ac5c985665403a1",
+      "destinations": [
+        "capitulo-13"
+      ],
+      "locations": {
+        "A4": [
+          181
+        ],
+        "A5": [
+          246
+        ]
+      }
+    },
+    {
+      "id": "EA000-IMG-007",
+      "kind": "photographic-conceptual-illustration",
+      "file": "/ea000/images/clinica.jpg",
+      "print_file": "/ea000/images/clinica-cmyk.jpg",
+      "description": "Recepção de clínica, cenário conceptual.",
+      "alt": "Recepção de clínica, cenário conceptual. Ilustração conceptual; não documenta uma empresa real identificada.",
+      "origin": "OpenAI ImageGen for EA-000, 2026-10-17",
+      "rights": "Recurso fornecido/aprovado ou gerado para o projeto; não se afirma licença de stock de terceiros. Homologação final de publicação pendente.",
+      "pixels": [
+        1536,
+        1024
+      ],
+      "color_digital": "sRGB",
+      "color_print": "Uncoated FOGRA29 (ISO 12647-2:2004)",
+      "native_A4_full_width_dpi": 185.8,
+      "sha256": "33f8c9472dc6ccbd76e86a70b8046bea2e52e768b8cdc26afb21c53a3dfb16ef",
+      "destinations": [
+        "capitulo-15"
+      ],
+      "locations": {
+        "A4": [
+          209
+        ],
+        "A5": [
+          282
+        ]
+      }
+    },
+    {
+      "id": "EA000-IMG-008",
+      "kind": "photographic-conceptual-illustration",
+      "file": "/ea000/images/conhecimento.jpg",
+      "print_file": "/ea000/images/conhecimento-cmyk.jpg",
+      "description": "Biblioteca e espaço de investigação, cenário conceptual.",
+      "alt": "Biblioteca e espaço de investigação, cenário conceptual. Ilustração conceptual; não documenta uma empresa real identificada.",
+      "origin": "OpenAI ImageGen for EA-000, 2026-10-17",
+      "rights": "Recurso fornecido/aprovado ou gerado para o projeto; não se afirma licença de stock de terceiros. Homologação final de publicação pendente.",
+      "pixels": [
+        1536,
+        1024
+      ],
+      "color_digital": "sRGB",
+      "color_print": "Uncoated FOGRA29 (ISO 12647-2:2004)",
+      "native_A4_full_width_dpi": 185.8,
+      "sha256": "264a3c74bbffbc3769b29447d610d7b59644103cd193cc35ff86bedde505010e",
+      "destinations": [
+        "PARTE I — COMO CHEGAMOS AQUI"
+      ],
+      "locations": {
+        "A4": [
+          10
+        ],
+        "A5": [
+          12
+        ]
+      }
+    },
+    {
+      "id": "EA000-FIG-001",
+      "kind": "editable-vector-figure",
+      "file": "/ea000/figures/capitulo-07-1.svg",
+      "description": "A arquitetura da Empresa Aumentada",
+      "alt": "A arquitetura da Empresa Aumentada. A governança conecta a capacidade operacional aos objetivos; a avaliação dos resultados realimenta a direção.",
+      "destination": "capitulo-07",
+      "number": 1,
+      "caption": "A governança conecta a capacidade operacional aos objetivos; a avaliação dos resultados realimenta a direção.",
+      "source": "Elaboração editorial a partir do framework e dos cenários de Sérgio Monteiro.",
+      "rights": "Conteúdo do autor; desenho AtlasHub Editions. Homologação final pendente.",
+      "resolution": "vector",
+      "canonical_sha256": "d8ff671ad31aa12bfbc83ec4c5a1643738ae5aba52b41961a88fa8440c5229c1",
+      "sha256": "fccc5a630b2f095eb08799a8071d7507eed72470d22a764c7eb90d16fc5b1c52",
+      "canonical_rows": [
+        [
+          "Objetivos do negócio"
+        ],
+        [
+          "Pessoas e agentes",
+          "Processos e tecnologia",
+          "Dados e contexto"
+        ],
+        [
+          "Governança e supervisão humana"
+        ],
+        [
+          "Execução e coordenação"
+        ],
+        [
+          "Resultados: receita, custos, velocidade e controle"
+        ]
+      ],
+      "edge_count": 8,
+      "feedback": true,
+      "destinations": [
+        "capitulo-07"
+      ],
+      "locations": {
+        "A4": [
+          87
+        ],
+        "A5": [
+          119
+        ]
+      }
+    },
+    {
+      "id": "EA000-FIG-002",
+      "kind": "editable-vector-figure",
+      "file": "/ea000/figures/capitulo-07-2.svg",
+      "description": "Oito dimensões do framework",
+      "alt": "Oito dimensões do framework. Dimensões complementares do modelo do autor. A numeração organiza a leitura; não define uma sequência automática de implantação.",
+      "destination": "capitulo-07",
+      "number": 2,
+      "caption": "Dimensões complementares do modelo do autor. A numeração organiza a leitura; não define uma sequência automática de implantação.",
+      "source": "Elaboração editorial a partir do framework e dos cenários de Sérgio Monteiro.",
+      "rights": "Conteúdo do autor; desenho AtlasHub Editions. Homologação final pendente.",
+      "resolution": "vector",
+      "canonical_sha256": "2f891280fbc554c95551b5af0aa00f5738d298d9764dbe56423ab77c49d6dd95",
+      "sha256": "ca5972a31faab7caf7ebace6c364fb5ea73093c384f95290e77af48d2d5efb8d",
+      "canonical_rows": [
+        [
+          "1 Objetivos do negócio",
+          "2 Pessoas"
+        ],
+        [
+          "3 Processos",
+          "4 Dados"
+        ],
+        [
+          "5 Sistemas",
+          "6 Agentes de IA"
+        ],
+        [
+          "7 Governança",
+          "8 Resultados"
+        ]
+      ],
+      "edge_count": 0,
+      "feedback": false,
+      "destinations": [
+        "capitulo-07"
+      ],
+      "locations": {
+        "A4": [
+          93
+        ],
+        "A5": [
+          128
+        ]
+      }
+    },
+    {
+      "id": "EA000-FIG-003",
+      "kind": "editable-vector-figure",
+      "file": "/ea000/figures/capitulo-08-3.svg",
+      "description": "Política, execução e responsabilidade",
+      "alt": "Política, execução e responsabilidade. A execução pode ser distribuída. A responsabilidade pela política e pelos resultados permanece atribuída a pessoas.",
+      "destination": "capitulo-08",
+      "number": 3,
+      "caption": "A execução pode ser distribuída. A responsabilidade pela política e pelos resultados permanece atribuída a pessoas.",
+      "source": "Elaboração editorial a partir do framework e dos cenários de Sérgio Monteiro.",
+      "rights": "Conteúdo do autor; desenho AtlasHub Editions. Homologação final pendente.",
+      "resolution": "vector",
+      "canonical_sha256": "30fb8a8250fb9da3a687b9c3ac736fc9f6c4a7b42756b2590d81c7a3134f0424",
+      "sha256": "5ad8ada528ea09fd3e72e0a2cf7b254ea2c2b2838a948069146c8fa2f9995d6a",
+      "canonical_rows": [
+        [
+          "Política: critérios e limites"
+        ],
+        [
+          "Execução: pessoa, agente ou automação"
+        ],
+        [
+          "Resultado observado"
+        ],
+        [
+          "Responsável humano pela função"
+        ]
+      ],
+      "edge_count": 3,
+      "feedback": true,
+      "destinations": [
+        "capitulo-08"
+      ],
+      "locations": {
+        "A4": [
+          100
+        ],
+        "A5": [
+          137
+        ]
+      }
+    },
+    {
+      "id": "EA000-FIG-004",
+      "kind": "editable-vector-figure",
+      "file": "/ea000/figures/capitulo-08-4.svg",
+      "description": "Quatro modos de decisão",
+      "alt": "Quatro modos de decisão. Modos escolhidos conforme contexto, risco e valor do julgamento humano. Não constituem degraus obrigatórios de maturidade.",
+      "destination": "capitulo-08",
+      "number": 4,
+      "caption": "Modos escolhidos conforme contexto, risco e valor do julgamento humano. Não constituem degraus obrigatórios de maturidade.",
+      "source": "Elaboração editorial a partir do framework e dos cenários de Sérgio Monteiro.",
+      "rights": "Conteúdo do autor; desenho AtlasHub Editions. Homologação final pendente.",
+      "resolution": "vector",
+      "canonical_sha256": "07699a42186f830b145afc126a662b13d180d4e3e48e3a19f521934c00e35d02",
+      "sha256": "2300ab2c4a81b98bd43af88d63846ef0d7321322611fde2a5ec7facf40daf2d8",
+      "canonical_rows": [
+        [
+          "A Execução automática"
+        ],
+        [
+          "B Execução supervisionada"
+        ],
+        [
+          "C Decisão aumentada"
+        ],
+        [
+          "D Liderança humana"
+        ]
+      ],
+      "edge_count": 0,
+      "feedback": false,
+      "destinations": [
+        "capitulo-08"
+      ],
+      "locations": {
+        "A4": [
+          106
+        ],
+        "A5": [
+          146
+        ]
+      }
+    },
+    {
+      "id": "EA000-FIG-005",
+      "kind": "editable-vector-figure",
+      "file": "/ea000/figures/capitulo-09-5.svg",
+      "description": "O ciclo do agente e os limites de ação",
+      "alt": "O ciclo do agente e os limites de ação. Os limites são verificados antes de agir. O resultado também é observado; exceções exigem intervenção conforme a política.",
+      "destination": "capitulo-09",
+      "number": 5,
+      "caption": "Os limites são verificados antes de agir. O resultado também é observado; exceções exigem intervenção conforme a política.",
+      "source": "Elaboração editorial a partir do framework e dos cenários de Sérgio Monteiro.",
+      "rights": "Conteúdo do autor; desenho AtlasHub Editions. Homologação final pendente.",
+      "resolution": "vector",
+      "canonical_sha256": "1c25b687a03fbf815b66287626351dc290b2eb954325edb46a25941be6146800",
+      "sha256": "2a6c033c261dca9ff051601fbd6e11306e646d745a60336e5bf4d6becde551f3",
+      "canonical_rows": [
+        [
+          "Gatilho e contexto"
+        ],
+        [
+          "Interpretar e preparar decisão"
+        ],
+        [
+          "Verificar política e permissões"
+        ],
+        [
+          "Dentro dos limites: agir",
+          "Fora dos limites: escalar"
+        ],
+        [
+          "Observar e registrar o resultado"
+        ],
+        [
+          "Concluir ou reavaliar"
+        ]
+      ],
+      "edge_count": 7,
+      "feedback": false,
+      "destinations": [
+        "capitulo-09"
+      ],
+      "locations": {
+        "A4": [
+          114
+        ],
+        "A5": [
+          155
+        ]
+      }
+    },
+    {
+      "id": "EA000-FIG-006",
+      "kind": "editable-vector-figure",
+      "file": "/ea000/figures/capitulo-09-6.svg",
+      "description": "Ciclo de vida de uma capacidade",
+      "alt": "Ciclo de vida de uma capacidade. Passagens condicionadas à evidência e à autorização. Revisões podem devolver o sistema a uma etapa anterior.",
+      "destination": "capitulo-09",
+      "number": 6,
+      "caption": "Passagens condicionadas à evidência e à autorização. Revisões podem devolver o sistema a uma etapa anterior.",
+      "source": "Elaboração editorial a partir do framework e dos cenários de Sérgio Monteiro.",
+      "rights": "Conteúdo do autor; desenho AtlasHub Editions. Homologação final pendente.",
+      "resolution": "vector",
+      "canonical_sha256": "f781d129aa9d888c5365cb89d8d287a0e6aa23f9a402a84cdaedcf215c89d466",
+      "sha256": "16ec776db30cf9155af02f2f831825d89407f00cb14c5313859dac86e3d4ac75",
+      "canonical_rows": [
+        [
+          "Desenho e teste offline"
+        ],
+        [
+          "Modo sombra: sugerir sem executar"
+        ],
+        [
+          "Piloto e produção limitada"
+        ],
+        [
+          "Escala condicionada à evidência"
+        ],
+        [
+          "Revisão contínua e retirada"
+        ]
+      ],
+      "edge_count": 4,
+      "feedback": false,
+      "destinations": [
+        "capitulo-09"
+      ],
+      "locations": {
+        "A4": [
+          126
+        ],
+        "A5": [
+          171
+        ]
+      }
+    },
+    {
+      "id": "EA000-FIG-007",
+      "kind": "editable-vector-figure",
+      "file": "/ea000/figures/capitulo-10-7.svg",
+      "description": "O organograma tradicional",
+      "alt": "O organograma tradicional. O organograma representa linhas de autoridade, mas não descreve todos os fluxos de informação e coordenação.",
+      "destination": "capitulo-10",
+      "number": 7,
+      "caption": "O organograma representa linhas de autoridade, mas não descreve todos os fluxos de informação e coordenação.",
+      "source": "Elaboração editorial a partir do framework e dos cenários de Sérgio Monteiro.",
+      "rights": "Conteúdo do autor; desenho AtlasHub Editions. Homologação final pendente.",
+      "resolution": "vector",
+      "canonical_sha256": "150c32b2fb8855f5d3202f7635f260aa1a26ac70e0447ef1ce6d3110d45339bf",
+      "sha256": "1fb91e418163cd1c34c0660398154962cf6c3993082bb89ab12873f90eaadb43",
+      "canonical_rows": [
+        [
+          "Direção"
+        ],
+        [
+          "Comercial",
+          "Operações",
+          "Financeiro"
+        ],
+        [
+          "Vendas",
+          "Compras e logística",
+          "Contas"
+        ]
+      ],
+      "edge_count": 6,
+      "feedback": false,
+      "destinations": [
+        "capitulo-10"
+      ],
+      "locations": {
+        "A4": [
+          133
+        ],
+        "A5": [
+          180
+        ]
+      }
+    },
+    {
+      "id": "EA000-FIG-008",
+      "kind": "editable-vector-figure",
+      "file": "/ea000/figures/capitulo-10-8.svg",
+      "description": "Estrutura híbrida com direção humana",
+      "alt": "Estrutura híbrida com direção humana. Pessoas continuam responsáveis pelas funções. Os grupos de agentes ampliam a execução dentro de limites explícitos. O arranjo mostra camadas e funções; não atribui autoridade de agentes sobre pessoas.",
+      "destination": "capitulo-10",
+      "number": 8,
+      "caption": "Pessoas continuam responsáveis pelas funções. Os grupos de agentes ampliam a execução dentro de limites explícitos. O arranjo mostra camadas e funções; não atribui autoridade de agentes sobre pessoas.",
+      "source": "Elaboração editorial a partir do framework e dos cenários de Sérgio Monteiro.",
+      "rights": "Conteúdo do autor; desenho AtlasHub Editions. Homologação final pendente.",
+      "resolution": "vector",
+      "canonical_sha256": "739e14798d65e04f87f5e34976c2f00ff1a344f214413d401f5f07f77138fed1",
+      "sha256": "fda512417d8c69c75cbe99e63d6e3b5a0c77f93bf60846c164b66ed4c542b3c0",
+      "canonical_rows": [
+        [
+          "Direção humana"
+        ],
+        [
+          "Direção comercial",
+          "Direção de operações",
+          "Direção financeira"
+        ],
+        [
+          "Coordenação comercial por IA",
+          "Coordenação operacional por IA",
+          "Coordenação financeira por IA"
+        ],
+        [
+          "Leads, CRM e follow-up",
+          "Estoque, compras e logística",
+          "Conciliação e cobrança"
+        ],
+        [
+          "Vendedores",
+          "Equipe operacional",
+          "Equipe financeira"
+        ]
+      ],
+      "edge_count": 0,
+      "feedback": false,
+      "destinations": [
+        "capitulo-10"
+      ],
+      "locations": {
+        "A4": [
+          134
+        ],
+        "A5": [
+          181
+        ]
+      }
+    },
+    {
+      "id": "EA000-FIG-009",
+      "kind": "editable-vector-figure",
+      "file": "/ea000/figures/capitulo-10-9.svg",
+      "description": "Camadas da arquitetura operacional",
+      "alt": "Camadas da arquitetura operacional. Camadas de leitura da organização. O ambiente gera sinais e recebe os efeitos da operação; o desenho não substitui um mapa detalhado de dependências. O arranjo mostra camadas e funções; não atribui autoridade de agentes sobre pessoas.",
+      "destination": "capitulo-10",
+      "number": 9,
+      "caption": "Camadas de leitura da organização. O ambiente gera sinais e recebe os efeitos da operação; o desenho não substitui um mapa detalhado de dependências. O arranjo mostra camadas e funções; não atribui autoridade de agentes sobre pessoas.",
+      "source": "Elaboração editorial a partir do framework e dos cenários de Sérgio Monteiro.",
+      "rights": "Conteúdo do autor; desenho AtlasHub Editions. Homologação final pendente.",
+      "resolution": "vector",
+      "canonical_sha256": "0fca7af232f6d7e0fcbada759c6f7838bb92ab73870af2da9d1e6b2dc7fb0053",
+      "sha256": "0d8995c554811a5de197b6da9274401c243d287d2a12fee0be8408bccac6a747",
+      "canonical_rows": [
+        [
+          "Autoridade humana"
+        ],
+        [
+          "Coordenação"
+        ],
+        [
+          "Pessoas e agentes especializados"
+        ],
+        [
+          "Processos"
+        ],
+        [
+          "Sistemas e dados"
+        ],
+        [
+          "Clientes, fornecedores e ambiente"
+        ]
+      ],
+      "edge_count": 0,
+      "feedback": false,
+      "destinations": [
+        "capitulo-10"
+      ],
+      "locations": {
+        "A4": [
+          135
+        ],
+        "A5": [
+          182
+        ]
+      }
+    },
+    {
+      "id": "EA000-FIG-010",
+      "kind": "editable-vector-figure",
+      "file": "/ea000/figures/capitulo-10-10.svg",
+      "description": "Autoridade, ação e exceções",
+      "alt": "Autoridade, ação e exceções. A ação regular segue a política; uma exceção deve chegar ao responsável antes de exceder a autoridade concedida.",
+      "destination": "capitulo-10",
+      "number": 10,
+      "caption": "A ação regular segue a política; uma exceção deve chegar ao responsável antes de exceder a autoridade concedida.",
+      "source": "Elaboração editorial a partir do framework e dos cenários de Sérgio Monteiro.",
+      "rights": "Conteúdo do autor; desenho AtlasHub Editions. Homologação final pendente.",
+      "resolution": "vector",
+      "canonical_sha256": "7d552a961745780ec6e055eb72a7cffde570eff525d753f6927c91f131bf2e67",
+      "sha256": "d80309ba8df9b73552f6100c8d8a99a2c9b769eb26ecae75f95bc7fbaa74cee7",
+      "canonical_rows": [
+        [
+          "Política e autoridade humana"
+        ],
+        [
+          "Agente verifica condições"
+        ],
+        [
+          "Ação autorizada",
+          "Exceção: responsável humano"
+        ],
+        [
+          "Resultado observado e registrado"
+        ]
+      ],
+      "edge_count": 5,
+      "feedback": false,
+      "destinations": [
+        "capitulo-10"
+      ],
+      "locations": {
+        "A4": [
+          137
+        ],
+        "A5": [
+          185
+        ]
+      }
+    },
+    {
+      "id": "EA000-FIG-011",
+      "kind": "editable-vector-figure",
+      "file": "/ea000/figures/capitulo-10-11.svg",
+      "description": "Coordenação transversal de uma rede",
+      "alt": "Coordenação transversal de uma rede. As lojas compartilham capacidade transversal. Sistemas fornecem dados e recebem ações autorizadas; a direção recebe resultados e exceções. O arranjo mostra camadas e funções; não atribui autoridade de agentes sobre pessoas.",
+      "destination": "capitulo-10",
+      "number": 11,
+      "caption": "As lojas compartilham capacidade transversal. Sistemas fornecem dados e recebem ações autorizadas; a direção recebe resultados e exceções. O arranjo mostra camadas e funções; não atribui autoridade de agentes sobre pessoas.",
+      "source": "Elaboração editorial a partir do framework e dos cenários de Sérgio Monteiro.",
+      "rights": "Conteúdo do autor; desenho AtlasHub Editions. Homologação final pendente.",
+      "resolution": "vector",
+      "canonical_sha256": "711cab77c19e9b472239d75d90eff5f58aeae1479baa76931fecb8f0f60621c6",
+      "sha256": "92f07f4435b4acb47514e21f82828a9ab5c53cf2cabe0c350026443f770f2353",
+      "canonical_rows": [
+        [
+          "Direção"
+        ],
+        [
+          "Coordenação de operações"
+        ],
+        [
+          "Estoque e compras",
+          "Atendimento",
+          "Informação de gestão"
+        ],
+        [
+          "Lojas 1 a 10"
+        ],
+        [
+          "PDV, ERP, CRM e financeiro"
+        ]
+      ],
+      "edge_count": 0,
+      "feedback": false,
+      "destinations": [
+        "capitulo-10"
+      ],
+      "locations": {
+        "A4": [
+          139
+        ],
+        "A5": [
+          188
+        ]
+      }
+    },
+    {
+      "id": "EA000-FIG-012",
+      "kind": "editable-vector-figure",
+      "file": "/ea000/figures/capitulo-11-12.svg",
+      "description": "Especialização paralela e síntese",
+      "alt": "Especialização paralela e síntese. A coordenação distribui análises especializadas e reúne conclusões para a decisão. Os grupos condensam funções, não eliminam suas responsabilidades.",
+      "destination": "capitulo-11",
+      "number": 12,
+      "caption": "A coordenação distribui análises especializadas e reúne conclusões para a decisão. Os grupos condensam funções, não eliminam suas responsabilidades.",
+      "source": "Elaboração editorial a partir do framework e dos cenários de Sérgio Monteiro.",
+      "rights": "Conteúdo do autor; desenho AtlasHub Editions. Homologação final pendente.",
+      "resolution": "vector",
+      "canonical_sha256": "d1cdfa46fbd1f47af44784577683e8a8011d717bb1d4e6bf6e55310b43e0860f",
+      "sha256": "a8b970d952a91efce94b6102f418bb4a46f396b7c22d7b71f8a8d4a3d7342392",
+      "canonical_rows": [
+        [
+          "Sinal de mercado"
+        ],
+        [
+          "Coordenação comercial"
+        ],
+        [
+          "Pesquisa e preços",
+          "Logística e pagamentos",
+          "Conteúdo, atendimento e conformidade"
+        ],
+        [
+          "Síntese de evidências e opções"
+        ],
+        [
+          "Decisão humana"
+        ]
+      ],
+      "edge_count": 8,
+      "feedback": false,
+      "destinations": [
+        "capitulo-11"
+      ],
+      "locations": {
+        "A4": [
+          153
+        ],
+        "A5": [
+          207
+        ]
+      }
+    },
+    {
+      "id": "EA000-FIG-013",
+      "kind": "editable-vector-figure",
+      "file": "/ea000/figures/capitulo-11-13.svg",
+      "description": "Dependências na preparação de uma oferta",
+      "alt": "Dependências na preparação de uma oferta. Conteúdo e atendimento dependem de uma oferta consistente; a precificação precisa considerar o mercado e o custo de servir.",
+      "destination": "capitulo-11",
+      "number": 13,
+      "caption": "Conteúdo e atendimento dependem de uma oferta consistente; a precificação precisa considerar o mercado e o custo de servir.",
+      "source": "Elaboração editorial a partir do framework e dos cenários de Sérgio Monteiro.",
+      "rights": "Conteúdo do autor; desenho AtlasHub Editions. Homologação final pendente.",
+      "resolution": "vector",
+      "canonical_sha256": "7a2b5133fd3f65cc2a3ea08f386e9dbee872c9597e8dd5b9687d72c0f1987680",
+      "sha256": "ebf0cf28c2b131173474e557116b840aae9524fe05c87568075e9444258e41eb",
+      "canonical_rows": [
+        [
+          "Dados de mercado",
+          "Custos logísticos"
+        ],
+        [
+          "Precificação"
+        ],
+        [
+          "Oferta"
+        ],
+        [
+          "Conteúdo",
+          "Atendimento"
+        ]
+      ],
+      "edge_count": 5,
+      "feedback": false,
+      "destinations": [
+        "capitulo-11"
+      ],
+      "locations": {
+        "A4": [
+          154
+        ],
+        "A5": [
+          209
+        ]
+      }
+    },
+    {
+      "id": "EA000-FIG-014",
+      "kind": "editable-vector-figure",
+      "file": "/ea000/figures/capitulo-12-14.svg",
+      "description": "Mapa operacional do supermercado",
+      "alt": "Mapa operacional do supermercado. Cenário didático. Os fluxos regulares são coordenados; divergências e decisões sensíveis retornam ao responsável humano. O arranjo mostra camadas e funções; não atribui autoridade de agentes sobre pessoas.",
+      "destination": "capitulo-12",
+      "number": 14,
+      "caption": "Cenário didático. Os fluxos regulares são coordenados; divergências e decisões sensíveis retornam ao responsável humano. O arranjo mostra camadas e funções; não atribui autoridade de agentes sobre pessoas.",
+      "source": "Elaboração editorial a partir do framework e dos cenários de Sérgio Monteiro.",
+      "rights": "Conteúdo do autor; desenho AtlasHub Editions. Homologação final pendente.",
+      "resolution": "vector",
+      "canonical_sha256": "6af1e01f03d0f674e1d787781ceb1c68e2549086ad9dec44aa3842f29f726eeb",
+      "sha256": "bbc5d20495095a3fa2c544155d5ed73f156e5838bb68a713223500edd0ecbbf7",
+      "canonical_rows": [
+        [
+          "Proprietário e direção"
+        ],
+        [
+          "Coordenação da loja"
+        ],
+        [
+          "Estoque e compras",
+          "Promoção e atendimento",
+          "Conciliação financeira"
+        ],
+        [
+          "ERP e PDV",
+          "WhatsApp e entregas",
+          "Financeiro"
+        ],
+        [
+          "Equipe da loja e tratamento de exceções"
+        ]
+      ],
+      "edge_count": 0,
+      "feedback": false,
+      "destinations": [
+        "capitulo-12"
+      ],
+      "locations": {
+        "A4": [
+          170
+        ],
+        "A5": [
+          232
+        ]
+      }
+    },
+    {
+      "id": "EA000-FIG-015",
+      "kind": "editable-vector-figure",
+      "file": "/ea000/figures/capitulo-13-15.svg",
+      "description": "Autonomia local e inteligência transversal",
+      "alt": "Autonomia local e inteligência transversal. Cenário didático de uma rede de farmácias. As funções operacionais não transferem a responsabilidade profissional farmacêutica para os agentes. O arranjo mostra camadas e funções; não atribui autoridade de agentes sobre pessoas.",
+      "destination": "capitulo-13",
+      "number": 15,
+      "caption": "Cenário didático de uma rede de farmácias. As funções operacionais não transferem a responsabilidade profissional farmacêutica para os agentes. O arranjo mostra camadas e funções; não atribui autoridade de agentes sobre pessoas.",
+      "source": "Elaboração editorial a partir do framework e dos cenários de Sérgio Monteiro.",
+      "rights": "Conteúdo do autor; desenho AtlasHub Editions. Homologação final pendente.",
+      "resolution": "vector",
+      "canonical_sha256": "2de9dfcb017621ba6efc21c4345677706025415974980ab6c4e2acf6b0ce3fd3",
+      "sha256": "fcd91a676f5d7a006fdc054b3de18ca177c56f4e2a2a9f86c6c578b7459bc12d",
+      "canonical_rows": [
+        [
+          "Direção e responsáveis humanos"
+        ],
+        [
+          "Coordenação da rede"
+        ],
+        [
+          "Estoque e compras",
+          "Campanhas e atendimento",
+          "Gestão e exceções"
+        ],
+        [
+          "Lojas 1 a 10"
+        ],
+        [
+          "ERP, PDV, CRM e comércio eletrônico"
+        ]
+      ],
+      "edge_count": 0,
+      "feedback": false,
+      "destinations": [
+        "capitulo-13"
+      ],
+      "locations": {
+        "A4": [
+          184
+        ],
+        "A5": [
+          249
+        ]
+      }
+    },
+    {
+      "id": "EA000-FIG-016",
+      "kind": "editable-vector-figure",
+      "file": "/ea000/figures/capitulo-13-16.svg",
+      "description": "Fronteira entre atendimento e orientação clínica",
+      "alt": "Fronteira entre atendimento e orientação clínica. A incerteza sobre a natureza do pedido já é motivo para encaminhamento profissional. A triagem deve ser reavaliada durante a conversa.",
+      "destination": "capitulo-13",
+      "number": 16,
+      "caption": "A incerteza sobre a natureza do pedido já é motivo para encaminhamento profissional. A triagem deve ser reavaliada durante a conversa.",
+      "source": "Elaboração editorial a partir do framework e dos cenários de Sérgio Monteiro.",
+      "rights": "Conteúdo do autor; desenho AtlasHub Editions. Homologação final pendente.",
+      "resolution": "vector",
+      "canonical_sha256": "be159ae2e4d0f1a8255e707e94777f4448dd7f7e52f712e8fbacd24302f82c87",
+      "sha256": "339f8cde194e319ac3483b191632972b732d8d64ca912f1afbd7dc3e6873aa3f",
+      "canonical_rows": [
+        [
+          "Contato e triagem"
+        ],
+        [
+          "Tema administrativo confirmado",
+          "Tema clínico ou dúvida"
+        ],
+        [
+          "Agente dentro da política",
+          "Farmacêutico responsável"
+        ],
+        [
+          "Registrar; novo tema clínico exige escalamento"
+        ]
+      ],
+      "edge_count": 6,
+      "feedback": false,
+      "destinations": [
+        "capitulo-13"
+      ],
+      "locations": {
+        "A4": [
+          189
+        ],
+        "A5": [
+          255
+        ]
+      }
+    },
+    {
+      "id": "EA000-FIG-017",
+      "kind": "editable-vector-figure",
+      "file": "/ea000/figures/capitulo-14-17.svg",
+      "description": "Da procura internacional ao piloto",
+      "alt": "Da procura internacional ao piloto. Cenário composto. A análise paralela prepara uma decisão limitada; não autoriza expansão, compromissos ou pagamentos automaticamente.",
+      "destination": "capitulo-14",
+      "number": 17,
+      "caption": "Cenário composto. A análise paralela prepara uma decisão limitada; não autoriza expansão, compromissos ou pagamentos automaticamente.",
+      "source": "Elaboração editorial a partir do framework e dos cenários de Sérgio Monteiro.",
+      "rights": "Conteúdo do autor; desenho AtlasHub Editions. Homologação final pendente.",
+      "resolution": "vector",
+      "canonical_sha256": "91cb3629d654730eced7826e0e85ed2b76c79942a34fba90040d8e19a98a5389",
+      "sha256": "669be753e07c4d5c4bb904e2a0e3ef5e71af661628c05cd56d8ec1afe55507d1",
+      "canonical_rows": [
+        [
+          "Sinal de mercado"
+        ],
+        [
+          "Coordenação comercial"
+        ],
+        [
+          "Pesquisa e cultura",
+          "Logística e finanças",
+          "Risco e conformidade"
+        ],
+        [
+          "Síntese: oportunidade e limites"
+        ],
+        [
+          "Decisão humana sobre o piloto"
+        ]
+      ],
+      "edge_count": 8,
+      "feedback": false,
+      "destinations": [
+        "capitulo-14"
+      ],
+      "locations": {
+        "A4": [
+          201
+        ],
+        "A5": [
+          272
+        ]
+      }
+    },
+    {
+      "id": "EA000-FIG-018",
+      "kind": "editable-vector-figure",
+      "file": "/ea000/figures/capitulo-15-18.svg",
+      "description": "A jornada administrativa da clínica",
+      "alt": "A jornada administrativa da clínica. A automação apoia a jornada administrativa. Questões clínicas e situações sensíveis são encaminhadas ao profissional competente.",
+      "destination": "capitulo-15",
+      "number": 18,
+      "caption": "A automação apoia a jornada administrativa. Questões clínicas e situações sensíveis são encaminhadas ao profissional competente.",
+      "source": "Elaboração editorial a partir do framework e dos cenários de Sérgio Monteiro.",
+      "rights": "Conteúdo do autor; desenho AtlasHub Editions. Homologação final pendente.",
+      "resolution": "vector",
+      "canonical_sha256": "479e163e4eb943fa0859d643ffaed9b86c0384136d8c1cdac4bc771f3a06dee5",
+      "sha256": "d9046895f6fad7c7884ae75c6a427264112b75f8d88e85ab93509bd69c97a403",
+      "canonical_rows": [
+        [
+          "Interesse e triagem administrativa"
+        ],
+        [
+          "Informação e agendamento"
+        ],
+        [
+          "Confirmação"
+        ],
+        [
+          "Atendimento profissional"
+        ],
+        [
+          "Pós-atendimento e continuidade"
+        ]
+      ],
+      "edge_count": 4,
+      "feedback": false,
+      "destinations": [
+        "capitulo-15"
+      ],
+      "locations": {
+        "A4": [
+          211
+        ],
+        "A5": [
+          285
+        ]
+      }
+    },
+    {
+      "id": "EA000-FIG-019",
+      "kind": "editable-vector-figure",
+      "file": "/ea000/figures/capitulo-16-19.svg",
+      "description": "Da mensagem à oportunidade imobiliária",
+      "alt": "Da mensagem à oportunidade imobiliária. O contexto acompanha a oportunidade ao longo do processo. Negociação, compromissos e verificações profissionais mantêm responsáveis humanos.",
+      "destination": "capitulo-16",
+      "number": 19,
+      "caption": "O contexto acompanha a oportunidade ao longo do processo. Negociação, compromissos e verificações profissionais mantêm responsáveis humanos.",
+      "source": "Elaboração editorial a partir do framework e dos cenários de Sérgio Monteiro.",
+      "rights": "Conteúdo do autor; desenho AtlasHub Editions. Homologação final pendente.",
+      "resolution": "vector",
+      "canonical_sha256": "75f2d8886f35968dc902830a2cc63c9d64e3f0d741d439e96e931f8ab97614ac",
+      "sha256": "4c1d1d739348b458c5a46c3df5a055fb0ac8c588d923d8ee184d87cfee33aed2",
+      "canonical_rows": [
+        [
+          "Canais de entrada e registro no CRM"
+        ],
+        [
+          "Critérios declarados e busca no inventário"
+        ],
+        [
+          "Coordenação comercial"
+        ],
+        [
+          "Profissional comercial",
+          "Agenda e follow-up"
+        ],
+        [
+          "Visita, negociação e documentação"
+        ],
+        [
+          "Fechamento e pós-venda"
+        ]
+      ],
+      "edge_count": 7,
+      "feedback": false,
+      "destinations": [
+        "capitulo-16"
+      ],
+      "locations": {
+        "A4": [
+          224
+        ],
+        "A5": [
+          302
+        ]
+      }
+    },
+    {
+      "id": "EA000-FIG-020",
+      "kind": "editable-vector-figure",
+      "file": "/ea000/figures/capitulo-17-20.svg",
+      "description": "Resposta coordenada ao atraso de fornecedor",
+      "alt": "Resposta coordenada ao atraso de fornecedor. Cenário industrial composto. As análises são reunidas em opções comparáveis; qualidade e compromissos precisam de validação apropriada.",
+      "destination": "capitulo-17",
+      "number": 20,
+      "caption": "Cenário industrial composto. As análises são reunidas em opções comparáveis; qualidade e compromissos precisam de validação apropriada.",
+      "source": "Elaboração editorial a partir do framework e dos cenários de Sérgio Monteiro.",
+      "rights": "Conteúdo do autor; desenho AtlasHub Editions. Homologação final pendente.",
+      "resolution": "vector",
+      "canonical_sha256": "ff766684e9889bc357489412d8ea1a14ebe8e5f5e50af0f1bcf39e0f6e1abc42",
+      "sha256": "a7f9c1a536aebb5a9293c63940c834927eb2e96e0c53526e7794fb571e724c7d",
+      "canonical_rows": [
+        [
+          "Evento do fornecedor"
+        ],
+        [
+          "Coordenação do risco de abastecimento"
+        ],
+        [
+          "Estoque e produção",
+          "Demanda e alternativas",
+          "Transporte e qualidade"
+        ],
+        [
+          "Cenários e opções"
+        ],
+        [
+          "Decisão humana"
+        ]
+      ],
+      "edge_count": 8,
+      "feedback": false,
+      "destinations": [
+        "capitulo-17"
+      ],
+      "locations": {
+        "A4": [
+          237
+        ],
+        "A5": [
+          319
+        ]
+      }
+    },
+    {
+      "id": "EA000-FIG-021",
+      "kind": "editable-vector-figure",
+      "file": "/ea000/figures/capitulo-17-21.svg",
+      "description": "Três latências operacionais",
+      "alt": "Três latências operacionais. Medir separadamente o tempo para disponibilizar o dado, decidir e executar ajuda a localizar o gargalo.",
+      "destination": "capitulo-17",
+      "number": 21,
+      "caption": "Medir separadamente o tempo para disponibilizar o dado, decidir e executar ajuda a localizar o gargalo.",
+      "source": "Elaboração editorial a partir do framework e dos cenários de Sérgio Monteiro.",
+      "rights": "Conteúdo do autor; desenho AtlasHub Editions. Homologação final pendente.",
+      "resolution": "vector",
+      "canonical_sha256": "28daed15fa08a0a78c551178d23971834460fd6bf9f3d76ca0c597a7c14b4d38",
+      "sha256": "336371e89c14cdfe2e1115fce6f1a866d858eb2a149e30815bc5cf417936a52d",
+      "canonical_rows": [
+        [
+          "Evento real"
+        ],
+        [
+          "Dado disponível: latência dos dados"
+        ],
+        [
+          "Decisão: latência da decisão"
+        ],
+        [
+          "Ação: latência da execução"
+        ]
+      ],
+      "edge_count": 3,
+      "feedback": false,
+      "destinations": [
+        "capitulo-17"
+      ],
+      "locations": {
+        "A4": [
+          244
+        ],
+        "A5": [
+          329
+        ]
+      }
+    },
+    {
+      "id": "EA000-FIG-022",
+      "kind": "editable-vector-figure",
+      "file": "/ea000/figures/capitulo-18-22.svg",
+      "description": "A equação como teste de valor",
+      "alt": "A equação como teste de valor. As setas da equação expressam objetivos de melhoria, não resultados garantidos nem uma identidade matemática de retorno.",
+      "destination": "capitulo-18",
+      "number": 22,
+      "caption": "As setas da equação expressam objetivos de melhoria, não resultados garantidos nem uma identidade matemática de retorno.",
+      "source": "Elaboração editorial a partir do framework e dos cenários de Sérgio Monteiro.",
+      "rights": "Conteúdo do autor; desenho AtlasHub Editions. Homologação final pendente.",
+      "resolution": "vector",
+      "canonical_sha256": "3b26ddbea41258214a059831f415b558f29c3d8510a8aac2adc6784f33a7c405",
+      "sha256": "9162e1c32be9f17d4788cbf7ad9310c515cf164710f5afdc6ab00dbaa2fe5d69",
+      "canonical_rows": [
+        [
+          "Receita e custos",
+          "Velocidade e controle"
+        ],
+        [
+          "Resultado empresarial"
+        ],
+        [
+          "Valor sustentável sob risco aceitável"
+        ]
+      ],
+      "edge_count": 3,
+      "feedback": false,
+      "destinations": [
+        "capitulo-18"
+      ],
+      "locations": {
+        "A4": [
+          253
+        ],
+        "A5": [
+          339
+        ]
+      }
+    },
+    {
+      "id": "EA000-FIG-023",
+      "kind": "editable-vector-figure",
+      "file": "/ea000/figures/capitulo-18-23.svg",
+      "description": "Do evento à ação",
+      "alt": "Do evento à ação. A velocidade de resposta depende do percurso completo. Acelerar uma etapa pode não reduzir o tempo total.",
+      "destination": "capitulo-18",
+      "number": 23,
+      "caption": "A velocidade de resposta depende do percurso completo. Acelerar uma etapa pode não reduzir o tempo total.",
+      "source": "Elaboração editorial a partir do framework e dos cenários de Sérgio Monteiro.",
+      "rights": "Conteúdo do autor; desenho AtlasHub Editions. Homologação final pendente.",
+      "resolution": "vector",
+      "canonical_sha256": "711d88ad1d68010435ec8af650e5014ec54548e49ecb2f6591c366a1c65b619e",
+      "sha256": "ab8ea48368d3eeda50183688bbc453eb8b977a40f3e60cefa83a73a2057da0bc",
+      "canonical_rows": [
+        [
+          "Evento"
+        ],
+        [
+          "Dado"
+        ],
+        [
+          "Decisão"
+        ],
+        [
+          "Ação"
+        ]
+      ],
+      "edge_count": 3,
+      "feedback": false,
+      "destinations": [
+        "capitulo-18"
+      ],
+      "locations": {
+        "A4": [
+          256
+        ],
+        "A5": [
+          344
+        ]
+      }
+    },
+    {
+      "id": "EA000-FIG-024",
+      "kind": "editable-vector-figure",
+      "file": "/ea000/figures/capitulo-18-24.svg",
+      "description": "Hipótese de geração de valor no follow-up",
+      "alt": "Hipótese de geração de valor no follow-up. Cadeia causal proposta para teste. Cada ligação exige medição; mais mensagens não demonstram, por si, aumento de receita.",
+      "destination": "capitulo-18",
+      "number": 24,
+      "caption": "Cadeia causal proposta para teste. Cada ligação exige medição; mais mensagens não demonstram, por si, aumento de receita.",
+      "source": "Elaboração editorial a partir do framework e dos cenários de Sérgio Monteiro.",
+      "rights": "Conteúdo do autor; desenho AtlasHub Editions. Homologação final pendente.",
+      "resolution": "vector",
+      "canonical_sha256": "54f587a013aefce3e8ab6438bfa4f1327fa19a3326ab6429d9eb9070bd07a6bb",
+      "sha256": "9a512adf8ee5325f70a7a913b06854ca9fc61e999973472326820343b8d63654",
+      "canonical_rows": [
+        [
+          "Agente amplia cobertura de follow-up"
+        ],
+        [
+          "Hipótese: mais respostas e reuniões"
+        ],
+        [
+          "Hipótese: conversão incremental"
+        ],
+        [
+          "Receita e margem atribuíveis"
+        ]
+      ],
+      "edge_count": 3,
+      "feedback": false,
+      "destinations": [
+        "capitulo-18"
+      ],
+      "locations": {
+        "A4": [
+          260
+        ],
+        "A5": [
+          349
+        ]
+      }
+    },
+    {
+      "id": "EA000-FIG-025",
+      "kind": "editable-vector-figure",
+      "file": "/ea000/figures/capitulo-20-25.svg",
+      "description": "Impacto do erro e reversibilidade",
+      "alt": "Impacto do erro e reversibilidade. A reversibilidade não elimina o risco. Alto impacto exige supervisão proporcional; casos de baixo impacto e alta reversibilidade tendem a ser candidatos melhores à automação.",
+      "destination": "capitulo-20",
+      "number": 25,
+      "caption": "A reversibilidade não elimina o risco. Alto impacto exige supervisão proporcional; casos de baixo impacto e alta reversibilidade tendem a ser candidatos melhores à automação.",
+      "source": "Elaboração editorial a partir do framework e dos cenários de Sérgio Monteiro.",
+      "rights": "Conteúdo do autor; desenho AtlasHub Editions. Homologação final pendente.",
+      "resolution": "vector",
+      "canonical_sha256": "167c369278abcad760b364557e9d4ca7077e4327ccadce8237b19d287218cb19",
+      "sha256": "e22a10e3ee9e77c9291863a9d28b80b3e4f1e552f33924b8485979b22fcbe8de",
+      "canonical_rows": [
+        [
+          "Alto impacto · difícil reverter",
+          "Alto impacto · fácil reverter"
+        ],
+        [
+          "Baixo impacto · difícil reverter",
+          "Baixo impacto · fácil reverter"
+        ]
+      ],
+      "edge_count": 0,
+      "feedback": false,
+      "destinations": [
+        "capitulo-20"
+      ],
+      "locations": {
+        "A4": [
+          281
+        ],
+        "A5": [
+          379
+        ]
+      }
+    },
+    {
+      "id": "EA000-FIG-026",
+      "kind": "editable-vector-figure",
+      "file": "/ea000/figures/capitulo-20-26.svg",
+      "description": "Gate para decisões de alto impacto",
+      "alt": "Gate para decisões de alto impacto. A avaliação define a rota. Decisões de alto impacto exigem evidência, autoridade humana e registro antes da execução.",
+      "destination": "capitulo-20",
+      "number": 26,
+      "caption": "A avaliação define a rota. Decisões de alto impacto exigem evidência, autoridade humana e registro antes da execução.",
+      "source": "Elaboração editorial a partir do framework e dos cenários de Sérgio Monteiro.",
+      "rights": "Conteúdo do autor; desenho AtlasHub Editions. Homologação final pendente.",
+      "resolution": "vector",
+      "canonical_sha256": "d50e3d33e93f0bcd1e95c4450685204e17927738aa3cc8ce72f027618fa3587a",
+      "sha256": "0774b8462471ec471d945ab0d2b4e1d9a69467ac03fdb53545c9bf017bd0ed9b",
+      "canonical_rows": [
+        [
+          "Ação proposta e avaliação de impacto"
+        ],
+        [
+          "Baixo impacto: política aplicável",
+          "Alto impacto: evidência e decisão humana"
+        ],
+        [
+          "Registro da decisão"
+        ],
+        [
+          "Execução autorizada"
+        ]
+      ],
+      "edge_count": 5,
+      "feedback": false,
+      "destinations": [
+        "capitulo-20"
+      ],
+      "locations": {
+        "A4": [
+          286
+        ],
+        "A5": [
+          385
+        ]
+      }
+    },
+    {
+      "id": "EA000-FIG-027",
+      "kind": "editable-vector-figure",
+      "file": "/ea000/figures/capitulo-20-27.svg",
+      "description": "Escolher como redesenhar o trabalho",
+      "alt": "Escolher como redesenhar o trabalho. Rotas condicionais de decisão, não uma sequência linear. Eliminar, automatizar, aumentar, preservar ou adiar dependem do diagnóstico.",
+      "destination": "capitulo-20",
+      "number": 27,
+      "caption": "Rotas condicionais de decisão, não uma sequência linear. Eliminar, automatizar, aumentar, preservar ou adiar dependem do diagnóstico.",
+      "source": "Elaboração editorial a partir do framework e dos cenários de Sérgio Monteiro.",
+      "rights": "Conteúdo do autor; desenho AtlasHub Editions. Homologação final pendente.",
+      "resolution": "vector",
+      "canonical_sha256": "3ace9764bfd928c6b4a21be80647bc164ec962e3c03abbd417c3d3a5a65cc92d",
+      "sha256": "1092ad64ab85cf9ee758d839133d88dd414d0156ddbb77e10fab882f168e79c1",
+      "canonical_rows": [
+        [
+          "O processo cria valor?"
+        ],
+        [
+          "Não: eliminar ou simplificar",
+          "Sim: avaliar estrutura e risco"
+        ],
+        [
+          "Baixo risco e reversível: automatizar",
+          "Julgamento relevante: aumentar ou preservar"
+        ],
+        [
+          "Condições insuficientes: redesenhar ou adiar"
+        ]
+      ],
+      "edge_count": 0,
+      "feedback": false,
+      "destinations": [
+        "capitulo-20"
+      ],
+      "locations": {
+        "A4": [
+          289
+        ],
+        "A5": [
+          389
+        ]
+      }
+    },
+    {
+      "id": "EA000-FIG-028",
+      "kind": "editable-vector-figure",
+      "file": "/ea000/figures/capitulo-21-28.svg",
+      "description": "Mapear o processo como ele acontece",
+      "alt": "Mapear o processo como ele acontece. O mapa registra transferências reais entre pessoas e sistemas. A finalidade é revelar esperas, dependências e retrabalho.",
+      "destination": "capitulo-21",
+      "number": 28,
+      "caption": "O mapa registra transferências reais entre pessoas e sistemas. A finalidade é revelar esperas, dependências e retrabalho.",
+      "source": "Elaboração editorial a partir do framework e dos cenários de Sérgio Monteiro.",
+      "rights": "Conteúdo do autor; desenho AtlasHub Editions. Homologação final pendente.",
+      "resolution": "vector",
+      "canonical_sha256": "dabfc202339ca41bff24ab491cd678ffab434920cf984c4a68b8cd7ec71ab71a",
+      "sha256": "0e4b6dc78595cc5a093270000c0f334bda8ec93c3b51ceb0515e097e28e41282",
+      "canonical_rows": [
+        [
+          "Gatilho e pessoa"
+        ],
+        [
+          "Sistema, planilha e mensagens"
+        ],
+        [
+          "Aprovação"
+        ],
+        [
+          "Sistema seguinte"
+        ],
+        [
+          "Resultado"
+        ]
+      ],
+      "edge_count": 4,
+      "feedback": false,
+      "destinations": [
+        "capitulo-21"
+      ],
+      "locations": {
+        "A4": [
+          297
+        ],
+        "A5": [
+          400
+        ]
+      }
+    },
+    {
+      "id": "EA000-FIG-029",
+      "kind": "editable-vector-figure",
+      "file": "/ea000/figures/capitulo-21-29.svg",
+      "description": "Portfólio de descoberta e operação",
+      "alt": "Portfólio de descoberta e operação. Um piloto pode avançar ou parar. A operação permanece sujeita a revisão; escala não é uma consequência automática.",
+      "destination": "capitulo-21",
+      "number": 29,
+      "caption": "Um piloto pode avançar ou parar. A operação permanece sujeita a revisão; escala não é uma consequência automática.",
+      "source": "Elaboração editorial a partir do framework e dos cenários de Sérgio Monteiro.",
+      "rights": "Conteúdo do autor; desenho AtlasHub Editions. Homologação final pendente.",
+      "resolution": "vector",
+      "canonical_sha256": "dd4db99147aa5b57f47c6589c3a4d0398e06a124d81216f47ca33b856ac6255f",
+      "sha256": "5e6b6c820197bac121503c02cb5d704546118baaa48af21b1bdf0e318886939f",
+      "canonical_rows": [
+        [
+          "Descobrir e desenhar"
+        ],
+        [
+          "Piloto com critérios de decisão"
+        ],
+        [
+          "Operar",
+          "Interromper"
+        ],
+        [
+          "Revisar antes de ampliar a escala"
+        ]
+      ],
+      "edge_count": 5,
+      "feedback": false,
+      "destinations": [
+        "capitulo-21"
+      ],
+      "locations": {
+        "A4": [
+          303
+        ],
+        "A5": [
+          408
+        ]
+      }
+    },
+    {
+      "id": "EA000-CH-01",
+      "number": "01",
+      "title": "Setenta anos a ensinar máquinas",
+      "part": "PARTE I — COMO CHEGAMOS AQUI",
+      "quote": "Cada geração de tecnologia inteligente reduziu uma parte da distância entre informação e ação.",
+      "art": "/ea000/art/chapter-01.svg",
+      "treatment": "conceptual-vector",
+      "alt": "Ilustração de abertura — Setenta anos a ensinar máquinas.",
+      "kind": "chapter-opening",
+      "destination": "capitulo-01",
+      "rights": "Texto do autor; composição AtlasHub Editions; arte conforme recurso referenciado.",
+      "resolution": "vector",
+      "destinations": [
+        "capitulo-01"
+      ],
+      "locations": {
+        "A4": [
+          11
+        ],
+        "A5": [
+          13
+        ]
+      },
+      "sha256": "276a8b33bf001eeee0fdb248a935594f039fad37a8ec84bf172c05b7e39333fc"
+    },
+    {
+      "id": "EA000-CH-02",
+      "number": "02",
+      "title": "A máquina deixou de apenas responder",
+      "part": "PARTE I — COMO CHEGAMOS AQUI",
+      "quote": "A verdadeira mudança começa quando a inteligência deixa de terminar numa resposta.",
+      "art": "/ea000/art/chapter-02.svg",
+      "treatment": "conceptual-vector",
+      "alt": "Ilustração de abertura — A máquina deixou de apenas responder.",
+      "kind": "chapter-opening",
+      "destination": "capitulo-02",
+      "rights": "Texto do autor; composição AtlasHub Editions; arte conforme recurso referenciado.",
+      "resolution": "vector",
+      "destinations": [
+        "capitulo-02"
+      ],
+      "locations": {
+        "A4": [
+          20
+        ],
+        "A5": [
+          27
+        ]
+      },
+      "sha256": "a7e30d04fe5f390eddeb36f41f32a652ad0d9232fe892e7027c3dea4988cc80e"
+    },
+    {
+      "id": "EA000-CH-03",
+      "number": "03",
+      "title": "AI, SI e o problema da palavra Artificial",
+      "part": "PARTE I — COMO CHEGAMOS AQUI",
+      "quote": "Quando uma tecnologia muda depressa, as palavras começam a envelhecer antes das máquinas.",
+      "art": "/ea000/art/chapter-03.svg",
+      "treatment": "conceptual-vector",
+      "alt": "Ilustração de abertura — AI, SI e o problema da palavra Artificial.",
+      "kind": "chapter-opening",
+      "destination": "capitulo-03",
+      "rights": "Texto do autor; composição AtlasHub Editions; arte conforme recurso referenciado.",
+      "resolution": "vector",
+      "destinations": [
+        "capitulo-03"
+      ],
+      "locations": {
+        "A4": [
+          33
+        ],
+        "A5": [
+          46
+        ]
+      },
+      "sha256": "806a334038ab552952bd70f6211fab97f8bb237a4fb4755c04fbb9cbd8953ae6"
+    },
+    {
+      "id": "EA000-CH-04",
+      "number": "04",
+      "title": "O paradoxo do prompt",
+      "part": "PARTE II — ESTAMOS A USAR IA DA FORMA ERRADA?",
+      "quote": "Uma interface inteligente pode melhorar radicalmente a produtividade de uma pessoa e, ainda assim, deixar praticamente intacta a forma como a empresa funciona.",
+      "art": "/ea000/art/chapter-04.svg",
+      "treatment": "conceptual-vector",
+      "alt": "Ilustração de abertura — O paradoxo do prompt.",
+      "kind": "chapter-opening",
+      "destination": "capitulo-04",
+      "rights": "Texto do autor; composição AtlasHub Editions; arte conforme recurso referenciado.",
+      "resolution": "vector",
+      "destinations": [
+        "capitulo-04"
+      ],
+      "locations": {
+        "A4": [
+          44
+        ],
+        "A5": [
+          61
+        ]
+      },
+      "sha256": "a360350597c2731f47a031dba9f975bf7d9516e1adc632da2ab86acb637b814c"
+    },
+    {
+      "id": "EA000-CH-05",
+      "number": "05",
+      "title": "A criança extremamente inteligente",
+      "part": "PARTE II — ESTAMOS A USAR IA DA FORMA ERRADA?",
+      "quote": "Sistemas cada vez mais capazes estão a ser introduzidos em organizações que ainda não aprenderam a delegar capacidade computacional.",
+      "art": "/ea000/art/chapter-05.svg",
+      "treatment": "conceptual-vector",
+      "alt": "Ilustração de abertura — A criança extremamente inteligente.",
+      "kind": "chapter-opening",
+      "destination": "capitulo-05",
+      "rights": "Texto do autor; composição AtlasHub Editions; arte conforme recurso referenciado.",
+      "resolution": "vector",
+      "destinations": [
+        "capitulo-05"
+      ],
+      "locations": {
+        "A4": [
+          56
+        ],
+        "A5": [
+          79
+        ]
+      },
+      "sha256": "951a04a2be3eaebd27a1b5beea3c6dad8f67760983dc88b80f47f2e2116a625c"
+    },
+    {
+      "id": "EA000-CH-06",
+      "number": "06",
+      "title": "O empresário não deveria gerir tarefas",
+      "part": "PARTE II — ESTAMOS A USAR IA DA FORMA ERRADA?",
+      "quote": "A função da direção não é garantir que cada tarefa acontece. É construir uma organização em que as tarefas certas acontecem porque objetivos, responsabilidades, recursos, limites e informação estão bem desenhados.",
+      "art": "/ea000/art/chapter-06.svg",
+      "treatment": "conceptual-vector",
+      "alt": "Ilustração de abertura — O empresário não deveria gerir tarefas.",
+      "kind": "chapter-opening",
+      "destination": "capitulo-06",
+      "rights": "Texto do autor; composição AtlasHub Editions; arte conforme recurso referenciado.",
+      "resolution": "vector",
+      "destinations": [
+        "capitulo-06"
+      ],
+      "locations": {
+        "A4": [
+          69
+        ],
+        "A5": [
+          96
+        ]
+      },
+      "sha256": "180017c5ff478350968cce5c0914aac788fadf2901d6f12b16b6516cfcf2c00b"
+    },
+    {
+      "id": "EA000-CH-07",
+      "number": "07",
+      "title": "O que é uma Empresa Aumentada?",
+      "part": "PARTE III — A EMPRESA AUMENTADA",
+      "quote": "Uma Empresa Aumentada é uma organização em que pessoas, agentes inteligentes, tecnologia e processos operam dentro de uma arquitetura comum, orientados por objetivos, responsabilidades, permissões, dados, métricas e mecanismos de governança definidos.",
+      "art": "/ea000/images/skyline-approved.jpg",
+      "treatment": "photographic",
+      "alt": "Ilustração de abertura — O que é uma Empresa Aumentada?.",
+      "kind": "chapter-opening",
+      "destination": "capitulo-07",
+      "rights": "Texto do autor; composição AtlasHub Editions; arte conforme recurso referenciado.",
+      "resolution": "see referenced photo",
+      "destinations": [
+        "capitulo-07"
+      ],
+      "locations": {
+        "A4": [
+          84
+        ],
+        "A5": [
+          116
+        ]
+      },
+      "sha256": "7349bd15b057e2bd81d3259f21aa340b6d748a6139dbdd46e33e52e9c057bcd0"
+    },
+    {
+      "id": "EA000-CH-08",
+      "number": "08",
+      "title": "Humanos definem o horizonte",
+      "part": "PARTE III — A EMPRESA AUMENTADA",
+      "quote": "A Empresa Aumentada não elimina o humano da operação. Reposiciona-o onde julgamento, responsabilidade, confiança, direção e significado criam mais valor.",
+      "art": "/ea000/art/chapter-08.svg",
+      "treatment": "conceptual-vector",
+      "alt": "Ilustração de abertura — Humanos definem o horizonte.",
+      "kind": "chapter-opening",
+      "destination": "capitulo-08",
+      "rights": "Texto do autor; composição AtlasHub Editions; arte conforme recurso referenciado.",
+      "resolution": "vector",
+      "destinations": [
+        "capitulo-08"
+      ],
+      "locations": {
+        "A4": [
+          96
+        ],
+        "A5": [
+          132
+        ]
+      },
+      "sha256": "f61425d0af7e4b11491e0556164f9063f601915024b940f0212f27bacb637b02"
+    },
+    {
+      "id": "EA000-CH-09",
+      "number": "09",
+      "title": "Anatomia de um agente",
+      "part": "PARTE III — A EMPRESA AUMENTADA",
+      "quote": "Um agente empresarial não é “uma IA com acesso a ferramentas”. É uma função computacional desenhada com missão, contexto, memória, autoridade, métricas, escalamento e responsabilidade operacional.",
+      "art": "/ea000/art/chapter-09.svg",
+      "treatment": "conceptual-vector",
+      "alt": "Ilustração de abertura — Anatomia de um agente.",
+      "kind": "chapter-opening",
+      "destination": "capitulo-09",
+      "rights": "Texto do autor; composição AtlasHub Editions; arte conforme recurso referenciado.",
+      "resolution": "vector",
+      "destinations": [
+        "capitulo-09"
+      ],
+      "locations": {
+        "A4": [
+          112
+        ],
+        "A5": [
+          153
+        ]
+      },
+      "sha256": "73507a4ede9cc059ba41e119cc51421fb0dad3fcf1b4361010ef78551dca8553"
+    },
+    {
+      "id": "EA000-CH-10",
+      "number": "10",
+      "title": "O organograma vai mudar",
+      "part": "PARTE III — A EMPRESA AUMENTADA",
+      "quote": "O organograma tradicional mostra quem responde a quem. A Empresa Aumentada precisa também mostrar quem observa, quem decide, quem executa, que sistema fornece contexto e quando uma exceção muda de nível.",
+      "art": "/ea000/art/chapter-10.svg",
+      "treatment": "conceptual-vector",
+      "alt": "Ilustração de abertura — O organograma vai mudar.",
+      "kind": "chapter-opening",
+      "destination": "capitulo-10",
+      "rights": "Texto do autor; composição AtlasHub Editions; arte conforme recurso referenciado.",
+      "resolution": "vector",
+      "destinations": [
+        "capitulo-10"
+      ],
+      "locations": {
+        "A4": [
+          131
+        ],
+        "A5": [
+          177
+        ]
+      },
+      "sha256": "f113cac34dad7667c06a522d3b123e3e16283fa1a9f8979cdb1b2f1d9d658579"
+    },
+    {
+      "id": "EA000-CH-11",
+      "number": "11",
+      "title": "Agentes que coordenam agentes",
+      "part": "PARTE III — A EMPRESA AUMENTADA",
+      "quote": "A partir do momento em que uma empresa possui vários agentes especializados, o problema deixa de ser apenas inteligência. Passa a ser organização.",
+      "art": "/ea000/art/chapter-11.svg",
+      "treatment": "conceptual-vector",
+      "alt": "Ilustração de abertura — Agentes que coordenam agentes.",
+      "kind": "chapter-opening",
+      "destination": "capitulo-11",
+      "rights": "Texto do autor; composição AtlasHub Editions; arte conforme recurso referenciado.",
+      "resolution": "vector",
+      "destinations": [
+        "capitulo-11"
+      ],
+      "locations": {
+        "A4": [
+          146
+        ],
+        "A5": [
+          198
+        ]
+      },
+      "sha256": "d3806fae99cc955c2192a8dd8445a2432b944d7313ddd057fc07360b955cf666"
+    },
+    {
+      "id": "EA000-CH-12",
+      "number": "12",
+      "title": "O supermercado da pequena cidade",
+      "part": "PARTE IV — A EMPRESA EM FUNCIONAMENTO",
+      "quote": "A Empresa Aumentada não começa num laboratório, num centro de inovação ou numa multinacional. Pode começar num supermercado de bairro, às seis e meia da manhã, quando alguém percebe que faltam tomates, o pão ainda não chegou e o grupo de WhatsApp já tem pedidos.",
+      "art": "/ea000/images/comercio.jpg",
+      "treatment": "photographic",
+      "alt": "Ilustração de abertura — O supermercado da pequena cidade.",
+      "kind": "chapter-opening",
+      "destination": "capitulo-12",
+      "rights": "Texto do autor; composição AtlasHub Editions; arte conforme recurso referenciado.",
+      "resolution": "see referenced photo",
+      "destinations": [
+        "capitulo-12"
+      ],
+      "locations": {
+        "A4": [
+          166
+        ],
+        "A5": [
+          226
+        ]
+      },
+      "sha256": "95d62e19ab0c9fdbdf2a48b1121d301f2928b747daaa5254712ac060c4c743db"
+    },
+    {
+      "id": "EA000-CH-13",
+      "number": "13",
+      "title": "As dez farmácias",
+      "part": "PARTE IV — A EMPRESA EM FUNCIONAMENTO",
+      "quote": "Uma rede de dez lojas não precisa de dez vezes mais microgestão. Precisa de uma arquitetura capaz de distinguir rotina, exceção, decisão comercial e responsabilidade profissional.",
+      "art": "/ea000/images/farmacia.jpg",
+      "treatment": "photographic",
+      "alt": "Ilustração de abertura — As dez farmácias.",
+      "kind": "chapter-opening",
+      "destination": "capitulo-13",
+      "rights": "Texto do autor; composição AtlasHub Editions; arte conforme recurso referenciado.",
+      "resolution": "see referenced photo",
+      "destinations": [
+        "capitulo-13"
+      ],
+      "locations": {
+        "A4": [
+          181
+        ],
+        "A5": [
+          246
+        ]
+      },
+      "sha256": "73a770fac39566d1d346429a8cc93af05d39d15d38368cda7ac5c985665403a1"
+    },
+    {
+      "id": "EA000-CH-14",
+      "number": "14",
+      "title": "O Chile começou a comprar",
+      "part": "PARTE IV — A EMPRESA EM FUNCIONAMENTO",
+      "quote": "A vantagem competitiva não está apenas em perceber uma oportunidade. Está na distância entre perceber, compreender, decidir e agir.",
+      "art": "/ea000/art/chapter-14.svg",
+      "treatment": "conceptual-vector",
+      "alt": "Ilustração de abertura — O Chile começou a comprar.",
+      "kind": "chapter-opening",
+      "destination": "capitulo-14",
+      "rights": "Texto do autor; composição AtlasHub Editions; arte conforme recurso referenciado.",
+      "resolution": "vector",
+      "destinations": [
+        "capitulo-14"
+      ],
+      "locations": {
+        "A4": [
+          197
+        ],
+        "A5": [
+          266
+        ]
+      },
+      "sha256": "613c945f66a43ee95340ffd74a118235de44fdd72721ff218eccdaf8b9a66644"
+    },
+    {
+      "id": "EA000-CH-15",
+      "number": "15",
+      "title": "A clínica que recuperou tempo",
+      "part": "PARTE IV — A EMPRESA EM FUNCIONAMENTO",
+      "quote": "Quando a recepção passa o dia a responder às mesmas perguntas, confirmar horários, procurar informações e remarcar agendas, o problema não é falta de esforço. É desenho de operação.",
+      "art": "/ea000/images/clinica.jpg",
+      "treatment": "photographic",
+      "alt": "Ilustração de abertura — A clínica que recuperou tempo.",
+      "kind": "chapter-opening",
+      "destination": "capitulo-15",
+      "rights": "Texto do autor; composição AtlasHub Editions; arte conforme recurso referenciado.",
+      "resolution": "see referenced photo",
+      "destinations": [
+        "capitulo-15"
+      ],
+      "locations": {
+        "A4": [
+          209
+        ],
+        "A5": [
+          282
+        ]
+      },
+      "sha256": "33f8c9472dc6ccbd76e86a70b8046bea2e52e768b8cdc26afb21c53a3dfb16ef"
+    },
+    {
+      "id": "EA000-CH-16",
+      "number": "16",
+      "title": "Da mensagem à oportunidade",
+      "part": "PARTE IV — A EMPRESA EM FUNCIONAMENTO",
+      "quote": "Num negócio baseado em confiança e relacionamento, a tecnologia cria mais valor quando retira trabalho administrativo da equipe comercial — não quando tenta transformar relacionamento em automação.",
+      "art": "/ea000/images/boardroom.jpg",
+      "treatment": "photographic",
+      "alt": "Ilustração de abertura — Da mensagem à oportunidade.",
+      "kind": "chapter-opening",
+      "destination": "capitulo-16",
+      "rights": "Texto do autor; composição AtlasHub Editions; arte conforme recurso referenciado.",
+      "resolution": "see referenced photo",
+      "destinations": [
+        "capitulo-16"
+      ],
+      "locations": {
+        "A4": [
+          222
+        ],
+        "A5": [
+          299
+        ]
+      },
+      "sha256": "20fbb9e7f080326114be3b8f2b4e3ac1584fe22146e30a24b9c3a5392f04a1cb"
+    },
+    {
+      "id": "EA000-CH-17",
+      "number": "17",
+      "title": "Quando um fornecedor atrasa",
+      "part": "PARTE IV — A EMPRESA EM FUNCIONAMENTO",
+      "quote": "Numa cadeia industrial, o problema raramente é o atraso isolado. O problema é descobrir tarde demais o que esse atraso realmente vai afetar.",
+      "art": "/ea000/images/logistica.jpg",
+      "treatment": "photographic",
+      "alt": "Ilustração de abertura — Quando um fornecedor atrasa.",
+      "kind": "chapter-opening",
+      "destination": "capitulo-17",
+      "rights": "Texto do autor; composição AtlasHub Editions; arte conforme recurso referenciado.",
+      "resolution": "see referenced photo",
+      "destinations": [
+        "capitulo-17"
+      ],
+      "locations": {
+        "A4": [
+          234
+        ],
+        "A5": [
+          315
+        ]
+      },
+      "sha256": "709c3e21a600bb488f0031e60d135dafd42c67491de065acafcd212bde61e34a"
+    },
+    {
+      "id": "EA000-CH-18",
+      "number": "18",
+      "title": "Tecnologia não é o objetivo",
+      "part": "PARTE V — A EQUAÇÃO DA EMPRESA AUMENTADA",
+      "quote": "Uma tecnologia só merece espaço na organização quando conseguimos explicar que variável econômica ou operacional ela altera — e como saberemos se essa alteração aconteceu.",
+      "art": "/ea000/art/chapter-18.svg",
+      "treatment": "conceptual-vector",
+      "alt": "Ilustração de abertura — Tecnologia não é o objetivo.",
+      "kind": "chapter-opening",
+      "destination": "capitulo-18",
+      "rights": "Texto do autor; composição AtlasHub Editions; arte conforme recurso referenciado.",
+      "resolution": "vector",
+      "destinations": [
+        "capitulo-18"
+      ],
+      "locations": {
+        "A4": [
+          251
+        ],
+        "A5": [
+          337
+        ]
+      },
+      "sha256": "9a5568119c2e4325dfa8df1b5cc36abfb2eae4ca1493657670541f7f020bb3ee"
+    },
+    {
+      "id": "EA000-CH-19",
+      "number": "19",
+      "title": "O ROI da inteligência",
+      "part": "PARTE V — A EQUAÇÃO DA EMPRESA AUMENTADA",
+      "quote": "O ROI de uma iniciativa de IA não é o valor do modelo. É o valor líquido da mudança operacional que o modelo tornou possível.",
+      "art": "/ea000/art/chapter-19.svg",
+      "treatment": "conceptual-vector",
+      "alt": "Ilustração de abertura — O ROI da inteligência.",
+      "kind": "chapter-opening",
+      "destination": "capitulo-19",
+      "rights": "Texto do autor; composição AtlasHub Editions; arte conforme recurso referenciado.",
+      "resolution": "vector",
+      "destinations": [
+        "capitulo-19"
+      ],
+      "locations": {
+        "A4": [
+          263
+        ],
+        "A5": [
+          354
+        ]
+      },
+      "sha256": "e29ec7d2e3f28bd7b973ed7b581ad0e1d55632b871a20d7f82cd820252e32aeb"
+    },
+    {
+      "id": "EA000-CH-20",
+      "number": "20",
+      "title": "Nem tudo o que pode ser automatizado deve ser automatizado",
+      "part": "PARTE V — A EQUAÇÃO DA EMPRESA AUMENTADA",
+      "quote": "A maturidade de uma organização não se mede pela quantidade de decisões que consegue retirar das pessoas. Mede-se pela qualidade com que escolhe onde automatizar, onde aumentar e onde preservar julgamento humano.",
+      "art": "/ea000/art/chapter-20.svg",
+      "treatment": "conceptual-vector",
+      "alt": "Ilustração de abertura — Nem tudo o que pode ser automatizado deve ser automatizado.",
+      "kind": "chapter-opening",
+      "destination": "capitulo-20",
+      "rights": "Texto do autor; composição AtlasHub Editions; arte conforme recurso referenciado.",
+      "resolution": "vector",
+      "destinations": [
+        "capitulo-20"
+      ],
+      "locations": {
+        "A4": [
+          277
+        ],
+        "A5": [
+          373
+        ]
+      },
+      "sha256": "0502a3f3de78576c9fc7050b9427d1e7d13fba3d7bca443d4d06fe60f5593203"
+    },
+    {
+      "id": "EA000-CH-21",
+      "number": "21",
+      "title": "Por onde começar amanhã",
+      "part": "PARTE V — A EQUAÇÃO DA EMPRESA AUMENTADA",
+      "quote": "A Empresa Aumentada não começa com uma transformação total. Começa quando uma organização escolhe um problema real, mede o estado atual, desenha uma capacidade melhor e aprende com a primeira execução.",
+      "art": "/ea000/art/chapter-21.svg",
+      "treatment": "conceptual-vector",
+      "alt": "Ilustração de abertura — Por onde começar amanhã.",
+      "kind": "chapter-opening",
+      "destination": "capitulo-21",
+      "rights": "Texto do autor; composição AtlasHub Editions; arte conforme recurso referenciado.",
+      "resolution": "vector",
+      "destinations": [
+        "capitulo-21"
+      ],
+      "locations": {
+        "A4": [
+          292
+        ],
+        "A5": [
+          393
+        ]
+      },
+      "sha256": "1f0a8a039a89d0633c7b027ecb2fbdd0b77402cc711b1e35b1cdf908f9657ccd"
+    },
+    {
+      "id": "EA000-PART-01",
+      "number": 1,
+      "title": "PARTE I — COMO CHEGAMOS AQUI",
+      "art": "/ea000/images/conhecimento.jpg",
+      "accent": "#b69966",
+      "alt": "Abertura da PARTE I — COMO CHEGAMOS AQUI. Arquitetura e atividade organizacional como metáfora visual.",
+      "kind": "part-opening",
+      "rights": "Composição AtlasHub Editions; recurso fotográfico conceptual identificado na biblioteca.",
+      "destinations": [],
+      "locations": {
+        "A4": [
+          10
+        ],
+        "A5": [
+          12
+        ]
+      },
+      "sha256": "264a3c74bbffbc3769b29447d610d7b59644103cd193cc35ff86bedde505010e"
+    },
+    {
+      "id": "EA000-PART-02",
+      "number": 2,
+      "title": "PARTE II — ESTAMOS A USAR IA DA FORMA ERRADA?",
+      "art": "/ea000/images/boardroom.jpg",
+      "accent": "#58cce5",
+      "alt": "Abertura da PARTE II — ESTAMOS A USAR IA DA FORMA ERRADA?. Arquitetura e atividade organizacional como metáfora visual.",
+      "kind": "part-opening",
+      "rights": "Composição AtlasHub Editions; recurso fotográfico conceptual identificado na biblioteca.",
+      "destinations": [],
+      "locations": {
+        "A4": [
+          43
+        ],
+        "A5": [
+          60
+        ]
+      },
+      "sha256": "20fbb9e7f080326114be3b8f2b4e3ac1584fe22146e30a24b9c3a5392f04a1cb"
+    },
+    {
+      "id": "EA000-PART-03",
+      "number": 3,
+      "title": "PARTE III — A EMPRESA AUMENTADA",
+      "art": "/ea000/images/organizacao.jpg",
+      "accent": "#77b9bc",
+      "alt": "Abertura da PARTE III — A EMPRESA AUMENTADA. Arquitetura e atividade organizacional como metáfora visual.",
+      "kind": "part-opening",
+      "rights": "Composição AtlasHub Editions; recurso fotográfico conceptual identificado na biblioteca.",
+      "destinations": [],
+      "locations": {
+        "A4": [
+          83
+        ],
+        "A5": [
+          115
+        ]
+      },
+      "sha256": "a08fafa963e1c79dbbfd6782eb06bc2d4feaa4dfdf9c4cc5ef0cf588d3cea057"
+    },
+    {
+      "id": "EA000-PART-04",
+      "number": 4,
+      "title": "PARTE IV — A EMPRESA EM FUNCIONAMENTO",
+      "art": "/ea000/images/logistica.jpg",
+      "accent": "#b99668",
+      "alt": "Abertura da PARTE IV — A EMPRESA EM FUNCIONAMENTO. Arquitetura e atividade organizacional como metáfora visual.",
+      "kind": "part-opening",
+      "rights": "Composição AtlasHub Editions; recurso fotográfico conceptual identificado na biblioteca.",
+      "destinations": [],
+      "locations": {
+        "A4": [
+          165
+        ],
+        "A5": [
+          225
+        ]
+      },
+      "sha256": "709c3e21a600bb488f0031e60d135dafd42c67491de065acafcd212bde61e34a"
+    },
+    {
+      "id": "EA000-PART-05",
+      "number": 5,
+      "title": "PARTE V — A EQUAÇÃO DA EMPRESA AUMENTADA",
+      "art": "/ea000/images/skyline-approved.jpg",
+      "accent": "#58cce5",
+      "alt": "Abertura da PARTE V — A EQUAÇÃO DA EMPRESA AUMENTADA. Arquitetura e atividade organizacional como metáfora visual.",
+      "kind": "part-opening",
+      "rights": "Composição AtlasHub Editions; recurso fotográfico conceptual identificado na biblioteca.",
+      "destinations": [],
+      "locations": {
+        "A4": [
+          250
+        ],
+        "A5": [
+          336
+        ]
+      },
+      "sha256": "7349bd15b057e2bd81d3259f21aa340b6d748a6139dbdd46e33e52e9c057bcd0"
+    },
+    {
+      "id": "EA000-COVER-FRONT",
+      "kind": "editable-composition",
+      "file": "/ea000/cover-front.jpg",
+      "description": "Capa Empresa Aumentada",
+      "alt": "Empresa Aumentada — Da Inteligência Artificial à Organização Inteligente. Sérgio Monteiro. AtlasHub Editions. EA-000.",
+      "resolution": "PDF type/vector; JPEG preview",
+      "source": "scripts/ea000_visual_core.py, Painter.cover",
+      "rights": "Autor e AtlasHub Editions; fundo fornecido aprovado, ver EA000-IMG-001",
+      "destinations": [
+        "capa"
+      ],
+      "sha256": "b9ab8971e6f8948c3462c9e9cbe3562414a0dfa1e3a34899248be597bb2fd140",
+      "locations": {
+        "A4": [
+          1
+        ],
+        "A5": [
+          1
+        ]
+      }
+    },
+    {
+      "id": "EA000-COVER-BACK",
+      "kind": "editable-composition",
+      "file": "/ea000/cover-back.jpg",
+      "description": "Contracapa com texto editorial original",
+      "alt": "Contracapa Empresa Aumentada, AtlasHub Editions.",
+      "resolution": "PDF type/vector; JPEG preview",
+      "source": "scripts/ea000_visual_core.py, Painter.back",
+      "rights": "Autor e AtlasHub Editions; fundo fornecido aprovado, ver EA000-IMG-001",
+      "destinations": [
+        "contracapa"
+      ],
+      "sha256": "ee76804056b06b8448b6267ce44c6620d6cb3435ed1cf125136d2cadca49535b",
+      "locations": {
+        "A4": [
+          323
+        ],
+        "A5": [
+          435
+        ]
+      }
+    },
+    {
+      "id": "EA000-MOCKUP-001",
+      "kind": "presentation-mockup",
+      "file": "editorial/ea000/visual/EA-000_Mockup.png",
+      "description": "Maquete tridimensional de apresentação da capa. Espessura ilustrativa.",
+      "rights": "Composição AtlasHub Editions; recursos da capa identificados no manifesto.",
+      "pixels": [
+        3200,
+        2400
+      ],
+      "resolution": "RGB; apresentação; sem dimensão física de lombada",
+      "destination": "apresentação editorial",
+      "source": "scripts/ea000-visual-mockup.cjs; EA000-COVER-FRONT",
+      "alt": "Maquete tridimensional de Empresa Aumentada, em azul-marinho e ciano, com lombada ilustrativa e miolo claro.",
+      "sha256": "07bcfb81a06aa46fa6e2e7531e8dbaa2b2783c9d323b8f1f309cd09b3b2080c2",
+      "locations": {
+        "A4": [],
+        "A5": []
+      }
+    }
+  ],
+  "print_profile": {
+    "name": "Uncoated FOGRA29 (ISO 12647-2:2004)",
+    "file_name": "UncoatedFOGRA29.icc",
+    "sha256": "9af0eb039208b0ae700d3fccd64a657b174db5c617c09ee79ced7cfcb7d4c392",
+    "approval": "Proposta técnica Uncoated FOGRA29 para avaliação; gráfica não indicou perfil/papel/encadernação definitivos."
+  },
+  "resolution_policy": "Metadados DPI não são usados para alegar detalhe adicional. A resolução efetiva depende da dimensão colocada. Referência de skyline fornecida tem resolução limitada para A4; ver preflight.",
+  "production_release": false
+}

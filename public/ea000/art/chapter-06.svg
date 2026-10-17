@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="600" height="280" preserveAspectRatio="xMinYMin meet" viewBox="0 0 600 280" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>Estudo visual — O empresário não deveria gerir tarefas</title>
+	<desc>Composição gráfica conceptual para O empresário não deveria gerir tarefas. Não é um diagrama técnico.</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="600" height="280"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-280)" style="clip-path: url(#clip)">
+		<g transform="">
+			<path d="M 40,50 L 245,50 Z" style="stroke: rgb(77%,82%,83%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<path d="M 40,67 L 245,67 Z" style="stroke: rgb(77%,82%,83%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<path d="M 40,84 L 245,84 Z" style="stroke: rgb(77%,82%,83%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<path d="M 40,101 L 245,101 Z" style="stroke: rgb(77%,82%,83%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<path d="M 40,118 L 245,118 Z" style="stroke: rgb(77%,82%,83%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<path d="M 40,135 L 245,135 Z" style="stroke: rgb(77%,82%,83%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<path d="M 40,152 L 245,152 Z" style="stroke: rgb(77%,82%,83%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<path d="M 40,169 L 245,169 Z" style="stroke: rgb(77%,82%,83%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<path d="M 40,186 L 245,186 Z" style="stroke: rgb(77%,82%,83%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<circle cx="430" cy="142" r="68" style="stroke: rgb(2%,9%,16%); stroke-linecap: butt; stroke-width: 1.2; fill: none; fill-rule: evenodd;"/>
+			<path d="M 294,142 L 362,142 Z" style="stroke: rgb(34%,80%,89%); stroke-linecap: butt; stroke-width: 2;"/>
+			<circle cx="430" cy="142" r="7" style="stroke: rgb(34%,80%,89%); stroke-linecap: butt; stroke-width: 1.2; fill: rgb(2%,9%,16%); fill-rule: evenodd;"/>
+		</g>
+	</g>
+</svg>

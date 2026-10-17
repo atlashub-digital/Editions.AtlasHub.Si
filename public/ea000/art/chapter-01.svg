@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="600" height="280" preserveAspectRatio="xMinYMin meet" viewBox="0 0 600 280" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>Estudo visual — Setenta anos a ensinar máquinas</title>
+	<desc>Composição gráfica conceptual para Setenta anos a ensinar máquinas. Não é um diagrama técnico.</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="600" height="280"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-280)" style="clip-path: url(#clip)">
+		<g transform="">
+			<path d="M 50,80 L 550,80 Z" style="stroke: rgb(71%,60%,40%); stroke-linecap: butt; stroke-width: 1;"/>
+			<circle cx="100" cy="80" r="5" style="stroke: rgb(34%,80%,89%); stroke-linecap: butt; stroke-width: 1.2; fill: rgb(2%,9%,16%); fill-rule: evenodd;"/>
+			<text x="69.0712890625" y="120" style="font-family: Crimson Text, Georgia, serif; font-size: 34px;fill: rgb(2%,9%,16%); stroke:none;" transform="translate(0,240) scale(1,-1)">1950</text>
+			<text x="78.91845703125" y="45" style="font-family: Liberation Sans, Arial, sans-serif; font-size: 11px;fill: rgb(36%,45%,50%); stroke:none;" transform="translate(0,90) scale(1,-1)">TURING</text>
+			<circle cx="330" cy="80" r="5" style="stroke: rgb(34%,80%,89%); stroke-linecap: butt; stroke-width: 1.2; fill: rgb(2%,9%,16%); fill-rule: evenodd;"/>
+			<text x="299.5859375" y="120" style="font-family: Crimson Text, Georgia, serif; font-size: 34px;fill: rgb(2%,9%,16%); stroke:none;" transform="translate(0,240) scale(1,-1)">1955</text>
+			<text x="262.775390625" y="45" style="font-family: Liberation Sans, Arial, sans-serif; font-size: 11px;fill: rgb(36%,45%,50%); stroke:none;" transform="translate(0,90) scale(1,-1)">PROPOSTA DARTMOUTH</text>
+		</g>
+	</g>
+</svg>

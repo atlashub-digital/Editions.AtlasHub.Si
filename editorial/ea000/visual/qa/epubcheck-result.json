@@ -1,0 +1,14 @@
+{
+  "validator": "EPUBCheck 5.4.0",
+  "file": "EA-000_Empresa-Aumentada_visual.epub",
+  "sha256": "d74bf7f8edfcab00de67ac6999b5d04fa5f835db2405e454363ae56f73c1e09c",
+  "fatals": 0,
+  "errors": 0,
+  "warnings": 0,
+  "infos": 0,
+  "commit": "7aae847a6da6bf07ae09188908d8d05c892bbc7e",
+  "run": 39012170933,
+  "job": 117336836628,
+  "artifact": 12093276436,
+  "url": "https://github.com/atlashub-digital/Editions.AtlasHub.Si/actions/runs/39012170933"
+}

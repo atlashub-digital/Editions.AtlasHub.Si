@@ -1,0 +1,13 @@
+{
+  "commit": "6e5f7517f4050c4db41a38396d3c335670deba2b",
+  "run": 38987853985,
+  "url": "https://github.com/atlashub-digital/Editions.AtlasHub.Si/actions/runs/38987853985",
+  "status": "success",
+  "checks": {
+    "typecheck": "PASS",
+    "lint": "PASS",
+    "content": "PASS",
+    "epubcheck": "PASS: 0 fatals / 0 errors / 0 warnings / 0 infos",
+    "build": "PASS"
+  }
+}

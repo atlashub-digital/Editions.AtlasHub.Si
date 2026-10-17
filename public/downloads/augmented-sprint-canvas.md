@@ -1,6 +1,6 @@
 # Augmented Sprint Canvas
 
-Extraído de Empresa Aumentada, Sérgio Monteiro. Todos os direitos reservados.
+Trecho de Empresa Aumentada, Sérgio Monteiro. EA-000.
 
 ## 28. O Augmented Sprint Canvas
 Podemos condensar o sprint numa página.
@@ -14,13 +14,11 @@ Podemos condensar o sprint numa página.
 ### 8. Risco
 ### 9. Pilot Scope
 ### 10. Métricas
-### 11. Value responsável
+### 11. Responsável pelo valor
 ### 12. Decision Gate
 
 
 ***
-
-
 
 
 ***
