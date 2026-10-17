@@ -1,0 +1,12 @@
+{
+  "status": "BLOCKED",
+  "local": "ERR_NETWORK_ACCESS_DENIED while opening localhost:3130 in browser",
+  "hosted": "Vercel Authentication redirects to login",
+  "scope": "atlas-hub1",
+  "connectorStatus": 403,
+  "build": "PASS: 37 routes",
+  "typecheck": "PASS",
+  "content": "PASS",
+  "viewportVerification": false,
+  "interactiveVerification": false
+}

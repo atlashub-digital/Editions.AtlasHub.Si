@@ -33,7 +33,7 @@
     ]
   },
   "gates": {
-    "technicalQA": "in-progress",
+    "technicalQA": "core-pass-browser-blocked",
     "editorialApproval": false,
     "assetApproval": false,
     "productionRelease": false,

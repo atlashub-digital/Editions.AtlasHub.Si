@@ -2,7 +2,9 @@ import fs from 'node:fs';
 import path from 'node:path';
 import crypto from 'node:crypto';
 const runtime=process.env.CODEX_PRIMARY_RUNTIME_NODE_MODULES || 'C:/Users/conta/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/node_modules';
-const {marked}=await import(new URL('file:///'+path.join(runtime,'marked/lib/marked.esm.js').replaceAll('\\','/')));
+let marked;
+try { ({marked}=await import('marked')); }
+catch { ({marked}=await import(new URL('file:///'+path.join(runtime,'marked/lib/marked.esm.js').replaceAll('\\','/')))); }
 const master=JSON.parse(fs.readFileSync('content/empresa-aumentada-manuscript.json','utf8'));
 for(const s of master)s.revisionSha256=crypto.createHash('sha256').update(s.markdown).digest('hex');
 fs.writeFileSync('content/empresa-aumentada-manuscript.json',JSON.stringify(master,null,2)+'\n');

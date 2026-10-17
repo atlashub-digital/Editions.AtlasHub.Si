@@ -1,0 +1,86 @@
+[
+  {
+    "file": "EA-000_Empresa-Aumentada_A4_digital.pdf",
+    "pages": 307,
+    "fonts": {
+      "/AAAAAA+LiberationSans": true,
+      "/AAAAAA+CrimsonText-Regular": true,
+      "/AAAAAA+CrimsonText-Bold": true,
+      "/AAAAAA+CrimsonText-BoldItalic": true,
+      "/AAAAAA+CrimsonText-Italic": true,
+      "/AAAAAA+LiberationSans-Bold": true,
+      "/AAAAAA+LiberationSans-Italic": true
+    },
+    "allFontsEmbedded": true,
+    "checkedTextBlocks": 1346,
+    "missingTextBlocks": [],
+    "trimValid": true,
+    "pdfxCertified": false,
+    "outputIntentPresent": false,
+    "sha256": "88d7df1c7816620f1fa9d8666d51d81fc04a12b0483643c6d5a886d3ca6adfb4",
+    "bytes": 726242
+  },
+  {
+    "file": "EA-000_Empresa-Aumentada_A4_impressao-prova.pdf",
+    "pages": 307,
+    "fonts": {
+      "/AAAAAA+LiberationSans": true,
+      "/AAAAAA+CrimsonText-Regular": true,
+      "/AAAAAA+CrimsonText-Bold": true,
+      "/AAAAAA+CrimsonText-BoldItalic": true,
+      "/AAAAAA+CrimsonText-Italic": true,
+      "/AAAAAA+LiberationSans-Bold": true,
+      "/AAAAAA+LiberationSans-Italic": true
+    },
+    "allFontsEmbedded": true,
+    "checkedTextBlocks": 1346,
+    "missingTextBlocks": [],
+    "trimValid": true,
+    "pdfxCertified": false,
+    "outputIntentPresent": false,
+    "sha256": "afd5449d35613ccc40b9a24acc48edbdf6388d15d54e4fde696f50c37f4132fe",
+    "bytes": 746472
+  },
+  {
+    "file": "EA-000_Empresa-Aumentada_A5_digital.pdf",
+    "pages": 419,
+    "fonts": {
+      "/AAAAAA+LiberationSans": true,
+      "/AAAAAA+CrimsonText-Regular": true,
+      "/AAAAAA+CrimsonText-Bold": true,
+      "/AAAAAA+CrimsonText-BoldItalic": true,
+      "/AAAAAA+CrimsonText-Italic": true,
+      "/AAAAAA+LiberationSans-Bold": true,
+      "/AAAAAA+LiberationSans-Italic": true
+    },
+    "allFontsEmbedded": true,
+    "checkedTextBlocks": 1346,
+    "missingTextBlocks": [],
+    "trimValid": true,
+    "pdfxCertified": false,
+    "outputIntentPresent": false,
+    "sha256": "e055177c468f20cd55134a81f11f6aa636a3cc83d9e452b4c9bb382279f33df4",
+    "bytes": 815395
+  },
+  {
+    "file": "EA-000_Empresa-Aumentada_A5_impressao-prova.pdf",
+    "pages": 419,
+    "fonts": {
+      "/AAAAAA+LiberationSans": true,
+      "/AAAAAA+CrimsonText-Regular": true,
+      "/AAAAAA+CrimsonText-Bold": true,
+      "/AAAAAA+CrimsonText-BoldItalic": true,
+      "/AAAAAA+CrimsonText-Italic": true,
+      "/AAAAAA+LiberationSans-Bold": true,
+      "/AAAAAA+LiberationSans-Italic": true
+    },
+    "allFontsEmbedded": true,
+    "checkedTextBlocks": 1346,
+    "missingTextBlocks": [],
+    "trimValid": true,
+    "pdfxCertified": false,
+    "outputIntentPresent": false,
+    "sha256": "6c0fd86b220b0150bae5c263ba2fc2b3c543ed3a07ba3b7fa779f010426c16f1",
+    "bytes": 845108
+  }
+]

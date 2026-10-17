@@ -19,4 +19,13 @@ jobs:
       - run: npm run typecheck
       - run: npm run lint
       - run: npm run test:content
+      - name: Validate EA-000 with EPUBCheck 5.4.0
+        shell: bash
+        run: |
+          curl --fail --location --silent --show-error --output "$RUNNER_TEMP/epubcheck.zip" https://github.com/w3c/epubcheck/releases/download/v5.4.0/epubcheck-5.4.0.zip
+          printf '33350c61038e71dfb3d45a76aed04bf5481e6d5500cb780f6e98db8bbd15a28c  %s\n' "$RUNNER_TEMP/epubcheck.zip" | sha256sum --check
+          unzip -q "$RUNNER_TEMP/epubcheck.zip" -d "$RUNNER_TEMP/epubcheck"
+          epubcheck_jar="$(rg --files "$RUNNER_TEMP/epubcheck" -g epubcheck.jar | head -n 1)"
+          test -n "$epubcheck_jar"
+          java -jar "$epubcheck_jar" public/downloads/premium/EA-000_Empresa-Aumentada.epub -j "$RUNNER_TEMP/ea000-epubcheck.json"
       - run: npm run build

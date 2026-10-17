@@ -2,7 +2,7 @@ import fs from 'node:fs'; import path from 'node:path';
 const runtime=process.env.CODEX_PRIMARY_RUNTIME_NODE_MODULES || 'C:/Users/conta/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/node_modules'; const {chromium}=await import(new URL('file:///'+path.join(runtime,'playwright/index.mjs').replaceAll('\\','/')));
 (async()=>{
  const base=process.env.EA000_PREVIEW_URL||'http://localhost:3130',out='editorial/ea000/qa';fs.mkdirSync(out,{recursive:true});
- const browser=await chromium.launch({headless:true,channel:'msedge'});const page=await browser.newPage({viewport:{width:1440,height:1000}});const errors=[];page.on('pageerror',e=>errors.push(e.message));
+ const browser=await chromium.launch({headless:true,...(process.env.EA000_BROWSER_EXECUTABLE?{executablePath:process.env.EA000_BROWSER_EXECUTABLE}:{channel:'chrome'})});const page=await browser.newPage({viewport:{width:1440,height:1000}});const errors=[];page.on('pageerror',e=>errors.push(e.message));
  const report={base,sections:[],viewports:[],downloads:[],consoleErrors:errors};
  const index=await page.goto(base+'/livros/empresa-aumentada/ler',{waitUntil:'networkidle',timeout:90000});if(index.status()!==200)throw Error('Reader index '+index.status());report.indexLinks=await page.locator('.reader-index a').count();if(report.indexLinks!==27)throw Error('Index incomplete');
  const sections=JSON.parse(fs.readFileSync('content/empresa-aumentada-manuscript.json','utf8'));
